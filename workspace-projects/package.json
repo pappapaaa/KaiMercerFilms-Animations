@@ -1,0 +1,25 @@
+{
+  "name": "the-tower-that-chases-shade",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "typecheck": "tsc --noEmit",
+    "stills": "node scripts/render.mjs stills",
+    "render": "node scripts/render.mjs video"
+  },
+  "dependencies": {
+    "@react-three/fiber": "9.1.2",
+    "@react-three/postprocessing": "3.0.4",
+    "@remotion/bundler": "4.0.435",
+    "@remotion/cli": "4.0.435",
+    "@remotion/renderer": "4.0.435",
+    "@remotion/three": "4.0.435",
+    "postprocessing": "6.37.8",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "remotion": "4.0.435",
+    "three": "0.174.0"
+  },
+  "devDependencies": {"@types/react": "19.0.12", "@types/three": "0.174.0", "typescript": "5.8.3"}
+}

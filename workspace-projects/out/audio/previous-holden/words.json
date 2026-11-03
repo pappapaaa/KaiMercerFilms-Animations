@@ -1,0 +1,1238 @@
+[
+  {
+    "text": "The",
+    "start": 0.0,
+    "end": 0.12,
+    "probability": 0.637
+  },
+  {
+    "text": "Eiffel",
+    "start": 0.12,
+    "end": 0.42,
+    "probability": 0.96
+  },
+  {
+    "text": "Tower",
+    "start": 0.42,
+    "end": 0.54,
+    "probability": 0.897
+  },
+  {
+    "text": "leans",
+    "start": 0.54,
+    "end": 0.9,
+    "probability": 0.987
+  },
+  {
+    "text": "away",
+    "start": 0.9,
+    "end": 1.26,
+    "probability": 0.996
+  },
+  {
+    "text": "from",
+    "start": 1.26,
+    "end": 1.54,
+    "probability": 0.997
+  },
+  {
+    "text": "the",
+    "start": 1.54,
+    "end": 1.66,
+    "probability": 0.996
+  },
+  {
+    "text": "sun,",
+    "start": 1.66,
+    "end": 1.84,
+    "probability": 0.604
+  },
+  {
+    "text": "and",
+    "start": 2.16,
+    "end": 2.34,
+    "probability": 0.991
+  },
+  {
+    "text": "nobody",
+    "start": 2.34,
+    "end": 2.66,
+    "probability": 0.987
+  },
+  {
+    "text": "is",
+    "start": 2.66,
+    "end": 3.04,
+    "probability": 0.991
+  },
+  {
+    "text": "pushing",
+    "start": 3.04,
+    "end": 3.3,
+    "probability": 0.999
+  },
+  {
+    "text": "it.",
+    "start": 3.3,
+    "end": 3.52,
+    "probability": 0.995
+  },
+  {
+    "text": "Imagine",
+    "start": 3.76,
+    "end": 3.98,
+    "probability": 0.97
+  },
+  {
+    "text": "visiting",
+    "start": 3.98,
+    "end": 4.4,
+    "probability": 0.988
+  },
+  {
+    "text": "Paris",
+    "start": 4.4,
+    "end": 4.62,
+    "probability": 0.995
+  },
+  {
+    "text": "on",
+    "start": 4.62,
+    "end": 4.92,
+    "probability": 0.993
+  },
+  {
+    "text": "a",
+    "start": 4.92,
+    "end": 5.0,
+    "probability": 0.993
+  },
+  {
+    "text": "blazing",
+    "start": 5.0,
+    "end": 5.14,
+    "probability": 0.994
+  },
+  {
+    "text": "summer",
+    "start": 5.14,
+    "end": 5.54,
+    "probability": 0.989
+  },
+  {
+    "text": "afternoon.",
+    "start": 5.54,
+    "end": 6.02,
+    "probability": 0.994
+  },
+  {
+    "text": "You",
+    "start": 6.42,
+    "end": 6.48,
+    "probability": 0.968
+  },
+  {
+    "text": "take",
+    "start": 6.48,
+    "end": 6.62,
+    "probability": 0.992
+  },
+  {
+    "text": "a",
+    "start": 6.62,
+    "end": 6.7,
+    "probability": 0.994
+  },
+  {
+    "text": "picture",
+    "start": 6.7,
+    "end": 6.9,
+    "probability": 0.999
+  },
+  {
+    "text": "of",
+    "start": 6.9,
+    "end": 7.08,
+    "probability": 0.998
+  },
+  {
+    "text": "the",
+    "start": 7.08,
+    "end": 7.16,
+    "probability": 0.996
+  },
+  {
+    "text": "tower.",
+    "start": 7.16,
+    "end": 7.36,
+    "probability": 0.878
+  },
+  {
+    "text": "It",
+    "start": 7.74,
+    "end": 7.8,
+    "probability": 0.992
+  },
+  {
+    "text": "looks",
+    "start": 7.8,
+    "end": 7.92,
+    "probability": 0.99
+  },
+  {
+    "text": "completely",
+    "start": 7.92,
+    "end": 8.24,
+    "probability": 0.993
+  },
+  {
+    "text": "still,",
+    "start": 8.24,
+    "end": 8.62,
+    "probability": 0.996
+  },
+  {
+    "text": "but",
+    "start": 8.88,
+    "end": 9.06,
+    "probability": 0.996
+  },
+  {
+    "text": "that",
+    "start": 9.06,
+    "end": 9.18,
+    "probability": 0.994
+  },
+  {
+    "text": "enormous",
+    "start": 9.18,
+    "end": 9.5,
+    "probability": 0.996
+  },
+  {
+    "text": "iron",
+    "start": 9.5,
+    "end": 9.96,
+    "probability": 0.978
+  },
+  {
+    "text": "structure",
+    "start": 9.96,
+    "end": 10.42,
+    "probability": 0.997
+  },
+  {
+    "text": "is",
+    "start": 10.42,
+    "end": 10.66,
+    "probability": 0.999
+  },
+  {
+    "text": "quietly",
+    "start": 10.66,
+    "end": 11.0,
+    "probability": 0.987
+  },
+  {
+    "text": "changing",
+    "start": 11.0,
+    "end": 11.56,
+    "probability": 0.995
+  },
+  {
+    "text": "shape.",
+    "start": 11.56,
+    "end": 11.86,
+    "probability": 0.998
+  },
+  {
+    "text": "First,",
+    "start": 12.26,
+    "end": 12.46,
+    "probability": 0.99
+  },
+  {
+    "text": "the",
+    "start": 12.7,
+    "end": 12.86,
+    "probability": 0.999
+  },
+  {
+    "text": "metal",
+    "start": 12.86,
+    "end": 13.04,
+    "probability": 0.991
+  },
+  {
+    "text": "warms",
+    "start": 13.04,
+    "end": 13.36,
+    "probability": 0.991
+  },
+  {
+    "text": "up,",
+    "start": 13.36,
+    "end": 13.5,
+    "probability": 0.999
+  },
+  {
+    "text": "then",
+    "start": 13.78,
+    "end": 14.0,
+    "probability": 0.981
+  },
+  {
+    "text": "the",
+    "start": 14.0,
+    "end": 14.18,
+    "probability": 0.982
+  },
+  {
+    "text": "tower",
+    "start": 14.18,
+    "end": 14.42,
+    "probability": 0.988
+  },
+  {
+    "text": "grows",
+    "start": 14.42,
+    "end": 14.62,
+    "probability": 0.995
+  },
+  {
+    "text": "a",
+    "start": 14.62,
+    "end": 14.86,
+    "probability": 0.992
+  },
+  {
+    "text": "little",
+    "start": 14.86,
+    "end": 15.0,
+    "probability": 0.998
+  },
+  {
+    "text": "taller,",
+    "start": 15.0,
+    "end": 15.28,
+    "probability": 0.999
+  },
+  {
+    "text": "and",
+    "start": 15.66,
+    "end": 15.84,
+    "probability": 0.994
+  },
+  {
+    "text": "here",
+    "start": 15.84,
+    "end": 15.96,
+    "probability": 0.994
+  },
+  {
+    "text": "comes",
+    "start": 15.96,
+    "end": 16.1,
+    "probability": 0.996
+  },
+  {
+    "text": "the",
+    "start": 16.1,
+    "end": 16.28,
+    "probability": 0.997
+  },
+  {
+    "text": "strange",
+    "start": 16.28,
+    "end": 16.48,
+    "probability": 0.957
+  },
+  {
+    "text": "part.",
+    "start": 16.48,
+    "end": 16.72,
+    "probability": 1.0
+  },
+  {
+    "text": "The",
+    "start": 17.1,
+    "end": 17.1,
+    "probability": 0.991
+  },
+  {
+    "text": "side",
+    "start": 17.1,
+    "end": 17.34,
+    "probability": 0.997
+  },
+  {
+    "text": "facing",
+    "start": 17.34,
+    "end": 17.56,
+    "probability": 0.943
+  },
+  {
+    "text": "the",
+    "start": 17.56,
+    "end": 17.82,
+    "probability": 0.997
+  },
+  {
+    "text": "sun",
+    "start": 17.82,
+    "end": 18.04,
+    "probability": 0.904
+  },
+  {
+    "text": "heats",
+    "start": 18.04,
+    "end": 18.22,
+    "probability": 0.993
+  },
+  {
+    "text": "up",
+    "start": 18.22,
+    "end": 18.46,
+    "probability": 0.996
+  },
+  {
+    "text": "more",
+    "start": 18.46,
+    "end": 18.68,
+    "probability": 0.998
+  },
+  {
+    "text": "than",
+    "start": 18.68,
+    "end": 18.88,
+    "probability": 0.992
+  },
+  {
+    "text": "the",
+    "start": 18.88,
+    "end": 18.98,
+    "probability": 0.994
+  },
+  {
+    "text": "side",
+    "start": 18.98,
+    "end": 19.2,
+    "probability": 0.987
+  },
+  {
+    "text": "in",
+    "start": 19.2,
+    "end": 19.32,
+    "probability": 0.868
+  },
+  {
+    "text": "the",
+    "start": 19.32,
+    "end": 19.4,
+    "probability": 0.995
+  },
+  {
+    "text": "shade,",
+    "start": 19.4,
+    "end": 19.62,
+    "probability": 0.997
+  },
+  {
+    "text": "so",
+    "start": 19.9,
+    "end": 20.14,
+    "probability": 0.993
+  },
+  {
+    "text": "one",
+    "start": 20.14,
+    "end": 20.44,
+    "probability": 0.989
+  },
+  {
+    "text": "side",
+    "start": 20.44,
+    "end": 20.78,
+    "probability": 0.998
+  },
+  {
+    "text": "stretches",
+    "start": 20.78,
+    "end": 21.04,
+    "probability": 0.998
+  },
+  {
+    "text": "more",
+    "start": 21.04,
+    "end": 21.42,
+    "probability": 0.999
+  },
+  {
+    "text": "than",
+    "start": 21.42,
+    "end": 21.64,
+    "probability": 0.998
+  },
+  {
+    "text": "the",
+    "start": 21.64,
+    "end": 21.74,
+    "probability": 0.998
+  },
+  {
+    "text": "other.",
+    "start": 21.74,
+    "end": 21.94,
+    "probability": 0.999
+  },
+  {
+    "text": "The",
+    "start": 22.22,
+    "end": 22.34,
+    "probability": 0.995
+  },
+  {
+    "text": "result?",
+    "start": 22.34,
+    "end": 22.56,
+    "probability": 0.951
+  },
+  {
+    "text": "The",
+    "start": 23.0,
+    "end": 23.02,
+    "probability": 0.986
+  },
+  {
+    "text": "top",
+    "start": 23.02,
+    "end": 23.22,
+    "probability": 0.993
+  },
+  {
+    "text": "bends",
+    "start": 23.22,
+    "end": 23.44,
+    "probability": 0.996
+  },
+  {
+    "text": "away",
+    "start": 23.44,
+    "end": 23.72,
+    "probability": 0.999
+  },
+  {
+    "text": "from",
+    "start": 23.72,
+    "end": 23.98,
+    "probability": 0.999
+  },
+  {
+    "text": "the",
+    "start": 23.98,
+    "end": 24.06,
+    "probability": 0.988
+  },
+  {
+    "text": "sunlight.",
+    "start": 24.06,
+    "end": 24.28,
+    "probability": 0.996
+  },
+  {
+    "text": "The",
+    "start": 24.64,
+    "end": 24.76,
+    "probability": 0.996
+  },
+  {
+    "text": "tower",
+    "start": 24.76,
+    "end": 24.92,
+    "probability": 0.975
+  },
+  {
+    "text": "is",
+    "start": 24.92,
+    "end": 25.18,
+    "probability": 0.998
+  },
+  {
+    "text": "basically",
+    "start": 25.18,
+    "end": 25.44,
+    "probability": 0.993
+  },
+  {
+    "text": "trying",
+    "start": 25.44,
+    "end": 25.8,
+    "probability": 0.998
+  },
+  {
+    "text": "to",
+    "start": 25.8,
+    "end": 25.92,
+    "probability": 0.999
+  },
+  {
+    "text": "find",
+    "start": 25.92,
+    "end": 26.1,
+    "probability": 0.999
+  },
+  {
+    "text": "some",
+    "start": 26.1,
+    "end": 26.26,
+    "probability": 0.994
+  },
+  {
+    "text": "shade,",
+    "start": 26.26,
+    "end": 26.5,
+    "probability": 0.999
+  },
+  {
+    "text": "very",
+    "start": 26.88,
+    "end": 27.18,
+    "probability": 0.998
+  },
+  {
+    "text": "slowly",
+    "start": 27.18,
+    "end": 27.44,
+    "probability": 0.997
+  },
+  {
+    "text": "and",
+    "start": 27.44,
+    "end": 27.94,
+    "probability": 0.469
+  },
+  {
+    "text": "very",
+    "start": 27.94,
+    "end": 28.2,
+    "probability": 0.997
+  },
+  {
+    "text": "unsuccessfully.",
+    "start": 28.2,
+    "end": 28.68,
+    "probability": 0.983
+  },
+  {
+    "text": "You",
+    "start": 28.68,
+    "end": 29.24,
+    "probability": 0.302
+  },
+  {
+    "text": "see,",
+    "start": 29.24,
+    "end": 29.4,
+    "probability": 0.932
+  },
+  {
+    "text": "iron",
+    "start": 29.54,
+    "end": 29.72,
+    "probability": 0.956
+  },
+  {
+    "text": "isn't",
+    "start": 29.72,
+    "end": 29.94,
+    "probability": 0.993
+  },
+  {
+    "text": "perfectly",
+    "start": 29.94,
+    "end": 30.1,
+    "probability": 0.997
+  },
+  {
+    "text": "still",
+    "start": 30.1,
+    "end": 30.46,
+    "probability": 0.994
+  },
+  {
+    "text": "inside.",
+    "start": 30.46,
+    "end": 30.6,
+    "probability": 0.997
+  },
+  {
+    "text": "Its",
+    "start": 31.2,
+    "end": 31.32,
+    "probability": 0.767
+  },
+  {
+    "text": "atoms",
+    "start": 31.32,
+    "end": 31.46,
+    "probability": 0.848
+  },
+  {
+    "text": "vibrate,",
+    "start": 31.46,
+    "end": 32.1,
+    "probability": 0.997
+  },
+  {
+    "text": "heat",
+    "start": 32.24,
+    "end": 32.44,
+    "probability": 0.996
+  },
+  {
+    "text": "them",
+    "start": 32.44,
+    "end": 32.6,
+    "probability": 0.997
+  },
+  {
+    "text": "up,",
+    "start": 32.6,
+    "end": 32.8,
+    "probability": 0.998
+  },
+  {
+    "text": "and",
+    "start": 33.06,
+    "end": 33.16,
+    "probability": 0.993
+  },
+  {
+    "text": "their",
+    "start": 33.16,
+    "end": 33.28,
+    "probability": 0.982
+  },
+  {
+    "text": "average",
+    "start": 33.28,
+    "end": 33.6,
+    "probability": 0.992
+  },
+  {
+    "text": "spacing",
+    "start": 33.6,
+    "end": 33.9,
+    "probability": 0.989
+  },
+  {
+    "text": "increases.",
+    "start": 33.9,
+    "end": 34.34,
+    "probability": 0.998
+  },
+  {
+    "text": "Tiny",
+    "start": 34.84,
+    "end": 35.0,
+    "probability": 0.904
+  },
+  {
+    "text": "changes",
+    "start": 35.0,
+    "end": 35.42,
+    "probability": 0.998
+  },
+  {
+    "text": "add",
+    "start": 35.42,
+    "end": 35.76,
+    "probability": 0.98
+  },
+  {
+    "text": "up",
+    "start": 35.76,
+    "end": 36.0,
+    "probability": 0.977
+  },
+  {
+    "text": "across",
+    "start": 36.0,
+    "end": 36.22,
+    "probability": 0.985
+  },
+  {
+    "text": "an",
+    "start": 36.22,
+    "end": 36.44,
+    "probability": 0.995
+  },
+  {
+    "text": "entire",
+    "start": 36.44,
+    "end": 36.58,
+    "probability": 1.0
+  },
+  {
+    "text": "tower.",
+    "start": 36.58,
+    "end": 37.0,
+    "probability": 0.995
+  },
+  {
+    "text": "Think",
+    "start": 37.44,
+    "end": 37.58,
+    "probability": 0.995
+  },
+  {
+    "text": "of",
+    "start": 37.58,
+    "end": 37.7,
+    "probability": 0.998
+  },
+  {
+    "text": "two",
+    "start": 37.7,
+    "end": 37.82,
+    "probability": 0.976
+  },
+  {
+    "text": "friends",
+    "start": 37.82,
+    "end": 38.1,
+    "probability": 0.99
+  },
+  {
+    "text": "walking",
+    "start": 38.1,
+    "end": 38.4,
+    "probability": 0.991
+  },
+  {
+    "text": "arm",
+    "start": 38.4,
+    "end": 38.78,
+    "probability": 0.948
+  },
+  {
+    "text": "in",
+    "start": 38.78,
+    "end": 38.92,
+    "probability": 0.751
+  },
+  {
+    "text": "arm.",
+    "start": 38.92,
+    "end": 39.08,
+    "probability": 0.996
+  },
+  {
+    "text": "If",
+    "start": 39.42,
+    "end": 39.48,
+    "probability": 0.994
+  },
+  {
+    "text": "one",
+    "start": 39.48,
+    "end": 39.66,
+    "probability": 0.998
+  },
+  {
+    "text": "takes",
+    "start": 39.66,
+    "end": 39.84,
+    "probability": 0.987
+  },
+  {
+    "text": "slightly",
+    "start": 39.84,
+    "end": 40.14,
+    "probability": 0.995
+  },
+  {
+    "text": "longer",
+    "start": 40.14,
+    "end": 40.48,
+    "probability": 0.998
+  },
+  {
+    "text": "steps,",
+    "start": 40.48,
+    "end": 40.8,
+    "probability": 0.999
+  },
+  {
+    "text": "the",
+    "start": 41.16,
+    "end": 41.24,
+    "probability": 0.998
+  },
+  {
+    "text": "pair",
+    "start": 41.24,
+    "end": 41.42,
+    "probability": 0.974
+  },
+  {
+    "text": "starts",
+    "start": 41.42,
+    "end": 41.78,
+    "probability": 0.996
+  },
+  {
+    "text": "turning.",
+    "start": 41.78,
+    "end": 42.06,
+    "probability": 0.999
+  },
+  {
+    "text": "Uneven",
+    "start": 42.44,
+    "end": 42.68,
+    "probability": 0.785
+  },
+  {
+    "text": "expansion",
+    "start": 42.68,
+    "end": 42.92,
+    "probability": 0.959
+  },
+  {
+    "text": "gives",
+    "start": 42.92,
+    "end": 43.4,
+    "probability": 0.993
+  },
+  {
+    "text": "the",
+    "start": 43.4,
+    "end": 43.56,
+    "probability": 0.997
+  },
+  {
+    "text": "tower",
+    "start": 43.56,
+    "end": 43.74,
+    "probability": 0.985
+  },
+  {
+    "text": "a",
+    "start": 43.74,
+    "end": 43.94,
+    "probability": 0.999
+  },
+  {
+    "text": "similar",
+    "start": 43.94,
+    "end": 44.18,
+    "probability": 0.995
+  },
+  {
+    "text": "little",
+    "start": 44.18,
+    "end": 44.46,
+    "probability": 0.987
+  },
+  {
+    "text": "bend.",
+    "start": 44.46,
+    "end": 44.7,
+    "probability": 0.998
+  },
+  {
+    "text": "As",
+    "start": 45.1,
+    "end": 45.24,
+    "probability": 0.996
+  },
+  {
+    "text": "the",
+    "start": 45.24,
+    "end": 45.36,
+    "probability": 0.999
+  },
+  {
+    "text": "sun",
+    "start": 45.36,
+    "end": 45.56,
+    "probability": 0.838
+  },
+  {
+    "text": "moves",
+    "start": 45.56,
+    "end": 45.74,
+    "probability": 0.997
+  },
+  {
+    "text": "across",
+    "start": 45.74,
+    "end": 46.0,
+    "probability": 0.998
+  },
+  {
+    "text": "the",
+    "start": 46.0,
+    "end": 46.24,
+    "probability": 0.999
+  },
+  {
+    "text": "sky,",
+    "start": 46.24,
+    "end": 46.5,
+    "probability": 0.999
+  },
+  {
+    "text": "the",
+    "start": 46.8,
+    "end": 46.92,
+    "probability": 0.998
+  },
+  {
+    "text": "summit",
+    "start": 46.92,
+    "end": 47.14,
+    "probability": 0.973
+  },
+  {
+    "text": "can",
+    "start": 47.14,
+    "end": 47.32,
+    "probability": 0.999
+  },
+  {
+    "text": "trace",
+    "start": 47.32,
+    "end": 47.54,
+    "probability": 0.999
+  },
+  {
+    "text": "a",
+    "start": 47.54,
+    "end": 47.68,
+    "probability": 0.988
+  },
+  {
+    "text": "curve",
+    "start": 47.68,
+    "end": 47.9,
+    "probability": 0.996
+  },
+  {
+    "text": "roughly",
+    "start": 47.9,
+    "end": 48.18,
+    "probability": 0.991
+  },
+  {
+    "text": "15",
+    "start": 48.18,
+    "end": 48.66,
+    "probability": 0.957
+  },
+  {
+    "text": "centimeters",
+    "start": 48.66,
+    "end": 49.0,
+    "probability": 0.76
+  },
+  {
+    "text": "across.",
+    "start": 49.0,
+    "end": 49.42,
+    "probability": 0.995
+  },
+  {
+    "text": "Too",
+    "start": 49.96,
+    "end": 49.98,
+    "probability": 0.957
+  },
+  {
+    "text": "small",
+    "start": 49.98,
+    "end": 50.26,
+    "probability": 0.998
+  },
+  {
+    "text": "for",
+    "start": 50.26,
+    "end": 50.54,
+    "probability": 0.993
+  },
+  {
+    "text": "you",
+    "start": 50.54,
+    "end": 50.62,
+    "probability": 0.999
+  },
+  {
+    "text": "to",
+    "start": 50.62,
+    "end": 50.72,
+    "probability": 0.999
+  },
+  {
+    "text": "notice.",
+    "start": 50.72,
+    "end": 50.9,
+    "probability": 0.998
+  },
+  {
+    "text": "Completely",
+    "start": 51.34,
+    "end": 51.76,
+    "probability": 0.994
+  },
+  {
+    "text": "normal",
+    "start": 51.76,
+    "end": 51.94,
+    "probability": 0.998
+  },
+  {
+    "text": "for",
+    "start": 51.94,
+    "end": 52.28,
+    "probability": 0.997
+  },
+  {
+    "text": "the",
+    "start": 52.28,
+    "end": 52.36,
+    "probability": 0.999
+  },
+  {
+    "text": "tower.",
+    "start": 52.36,
+    "end": 52.6,
+    "probability": 0.986
+  },
+  {
+    "text": "When",
+    "start": 52.94,
+    "end": 53.02,
+    "probability": 0.996
+  },
+  {
+    "text": "the",
+    "start": 53.02,
+    "end": 53.12,
+    "probability": 0.998
+  },
+  {
+    "text": "iron",
+    "start": 53.12,
+    "end": 53.32,
+    "probability": 0.989
+  },
+  {
+    "text": "cools,",
+    "start": 53.32,
+    "end": 53.94,
+    "probability": 0.992
+  },
+  {
+    "text": "it",
+    "start": 54.08,
+    "end": 54.24,
+    "probability": 0.995
+  },
+  {
+    "text": "contracts",
+    "start": 54.24,
+    "end": 54.44,
+    "probability": 0.966
+  },
+  {
+    "text": "again,",
+    "start": 54.44,
+    "end": 54.94,
+    "probability": 0.999
+  },
+  {
+    "text": "so",
+    "start": 55.16,
+    "end": 55.36,
+    "probability": 0.997
+  },
+  {
+    "text": "that",
+    "start": 55.36,
+    "end": 55.48,
+    "probability": 0.996
+  },
+  {
+    "text": "famous",
+    "start": 55.48,
+    "end": 55.72,
+    "probability": 0.961
+  },
+  {
+    "text": "Paris",
+    "start": 55.72,
+    "end": 56.0,
+    "probability": 0.95
+  },
+  {
+    "text": "landmark",
+    "start": 56.0,
+    "end": 56.4,
+    "probability": 0.528
+  },
+  {
+    "text": "spends",
+    "start": 56.4,
+    "end": 56.76,
+    "probability": 0.976
+  },
+  {
+    "text": "its",
+    "start": 56.76,
+    "end": 57.0,
+    "probability": 0.945
+  },
+  {
+    "text": "sunny",
+    "start": 57.0,
+    "end": 57.22,
+    "probability": 0.994
+  },
+  {
+    "text": "days",
+    "start": 57.22,
+    "end": 57.58,
+    "probability": 0.994
+  },
+  {
+    "text": "doing",
+    "start": 57.58,
+    "end": 57.86,
+    "probability": 0.558
+  },
+  {
+    "text": "the",
+    "start": 57.86,
+    "end": 58.02,
+    "probability": 0.995
+  },
+  {
+    "text": "world's",
+    "start": 58.02,
+    "end": 58.4,
+    "probability": 0.972
+  },
+  {
+    "text": "slowest",
+    "start": 58.4,
+    "end": 58.86,
+    "probability": 0.994
+  },
+  {
+    "text": "sun dodge.",
+    "start": 58.86,
+    "end": 59.38,
+    "probability": 0.727
+  }
+]

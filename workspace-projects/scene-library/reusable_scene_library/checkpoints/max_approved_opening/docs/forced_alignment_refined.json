@@ -1,0 +1,2403 @@
+[
+  {
+    "paragraph": 0,
+    "word": "<sil>",
+    "start": 0.0,
+    "end": 0.08,
+    "score": -137
+  },
+  {
+    "paragraph": 0,
+    "word": "my",
+    "start": 0.08,
+    "end": 0.26,
+    "score": -105
+  },
+  {
+    "paragraph": 0,
+    "word": "dog",
+    "start": 0.26,
+    "end": 0.53,
+    "score": -224
+  },
+  {
+    "paragraph": 0,
+    "word": "max",
+    "start": 0.53,
+    "end": 0.99,
+    "score": -273
+  },
+  {
+    "paragraph": 0,
+    "word": "had",
+    "start": 0.99,
+    "end": 1.16,
+    "score": -149
+  },
+  {
+    "paragraph": 0,
+    "word": "barked",
+    "start": 1.16,
+    "end": 1.42,
+    "score": -447
+  },
+  {
+    "paragraph": 0,
+    "word": "at",
+    "start": 1.42,
+    "end": 1.53,
+    "score": -259
+  },
+  {
+    "paragraph": 0,
+    "word": "the",
+    "start": 1.53,
+    "end": 1.6,
+    "score": -62
+  },
+  {
+    "paragraph": 0,
+    "word": "same",
+    "start": 1.6,
+    "end": 2.1,
+    "score": -495
+  },
+  {
+    "paragraph": 0,
+    "word": "wall",
+    "start": 2.1,
+    "end": 2.4,
+    "score": -185
+  },
+  {
+    "paragraph": 0,
+    "word": "at",
+    "start": 2.4,
+    "end": 2.63,
+    "score": -477
+  },
+  {
+    "paragraph": 0,
+    "word": "three",
+    "start": 2.63,
+    "end": 2.9,
+    "score": -366
+  },
+  {
+    "paragraph": 0,
+    "word": "a.m.",
+    "start": 2.9,
+    "end": 3.31,
+    "score": -336
+  },
+  {
+    "paragraph": 0,
+    "word": "every(2)",
+    "start": 3.31,
+    "end": 3.83,
+    "score": -1907
+  },
+  {
+    "paragraph": 0,
+    "word": "night",
+    "start": 3.83,
+    "end": 4.19,
+    "score": -676
+  },
+  {
+    "paragraph": 0,
+    "word": "for(3)",
+    "start": 4.19,
+    "end": 4.43,
+    "score": -284
+  },
+  {
+    "paragraph": 0,
+    "word": "a",
+    "start": 4.43,
+    "end": 4.46,
+    "score": -61
+  },
+  {
+    "paragraph": 0,
+    "word": "week",
+    "start": 4.46,
+    "end": 5.0,
+    "score": -430
+  },
+  {
+    "paragraph": 0,
+    "word": "<sil>",
+    "start": 5.0,
+    "end": 5.11,
+    "score": -114
+  },
+  {
+    "paragraph": 0,
+    "word": "and(2)",
+    "start": 5.11,
+    "end": 5.23,
+    "score": -331
+  },
+  {
+    "paragraph": 0,
+    "word": "i",
+    "start": 5.23,
+    "end": 5.29,
+    "score": -60
+  },
+  {
+    "paragraph": 0,
+    "word": "was(2)",
+    "start": 5.29,
+    "end": 5.46,
+    "score": -275
+  },
+  {
+    "paragraph": 0,
+    "word": "about",
+    "start": 5.46,
+    "end": 5.74,
+    "score": -300
+  },
+  {
+    "paragraph": 0,
+    "word": "to(2)",
+    "start": 5.74,
+    "end": 5.83,
+    "score": -66
+  },
+  {
+    "paragraph": 0,
+    "word": "give",
+    "start": 5.83,
+    "end": 6.04,
+    "score": -152
+  },
+  {
+    "paragraph": 0,
+    "word": "him(2)",
+    "start": 6.04,
+    "end": 6.17,
+    "score": -618
+  },
+  {
+    "paragraph": 0,
+    "word": "away",
+    "start": 6.17,
+    "end": 6.74,
+    "score": -1237
+  },
+  {
+    "paragraph": 0,
+    "word": "<sil>",
+    "start": 6.74,
+    "end": 7.09,
+    "score": -153
+  },
+  {
+    "paragraph": 1,
+    "word": "<sil>",
+    "start": 7.1,
+    "end": 7.24,
+    "score": -38
+  },
+  {
+    "paragraph": 1,
+    "word": "the",
+    "start": 7.24,
+    "end": 7.33,
+    "score": -56
+  },
+  {
+    "paragraph": 1,
+    "word": "first",
+    "start": 7.33,
+    "end": 7.68,
+    "score": -327
+  },
+  {
+    "paragraph": 1,
+    "word": "night",
+    "start": 7.68,
+    "end": 8.07,
+    "score": -380
+  },
+  {
+    "paragraph": 1,
+    "word": "i",
+    "start": 8.07,
+    "end": 8.17,
+    "score": -171
+  },
+  {
+    "paragraph": 1,
+    "word": "figured",
+    "start": 8.17,
+    "end": 8.56,
+    "score": -660
+  },
+  {
+    "paragraph": 1,
+    "word": "he",
+    "start": 8.56,
+    "end": 8.66,
+    "score": -304
+  },
+  {
+    "paragraph": 1,
+    "word": "heard",
+    "start": 8.66,
+    "end": 8.83,
+    "score": -174
+  },
+  {
+    "paragraph": 1,
+    "word": "a",
+    "start": 8.83,
+    "end": 8.87,
+    "score": -25
+  },
+  {
+    "paragraph": 1,
+    "word": "mouse",
+    "start": 8.87,
+    "end": 9.49,
+    "score": -347
+  },
+  {
+    "paragraph": 1,
+    "word": "<sil>",
+    "start": 9.49,
+    "end": 9.74,
+    "score": -391
+  },
+  {
+    "paragraph": 1,
+    "word": "i",
+    "start": 9.74,
+    "end": 9.81,
+    "score": -147
+  },
+  {
+    "paragraph": 1,
+    "word": "pressed",
+    "start": 9.81,
+    "end": 10.12,
+    "score": -357
+  },
+  {
+    "paragraph": 1,
+    "word": "my",
+    "start": 10.12,
+    "end": 10.24,
+    "score": -145
+  },
+  {
+    "paragraph": 1,
+    "word": "ear",
+    "start": 10.24,
+    "end": 10.51,
+    "score": -496
+  },
+  {
+    "paragraph": 1,
+    "word": "against",
+    "start": 10.51,
+    "end": 10.77,
+    "score": -636
+  },
+  {
+    "paragraph": 1,
+    "word": "the",
+    "start": 10.77,
+    "end": 10.83,
+    "score": -86
+  },
+  {
+    "paragraph": 1,
+    "word": "wall",
+    "start": 10.83,
+    "end": 11.34,
+    "score": -300
+  },
+  {
+    "paragraph": 1,
+    "word": "and",
+    "start": 11.34,
+    "end": 11.55,
+    "score": -621
+  },
+  {
+    "paragraph": 1,
+    "word": "heard",
+    "start": 11.55,
+    "end": 11.8,
+    "score": -219
+  },
+  {
+    "paragraph": 1,
+    "word": "nothing",
+    "start": 11.8,
+    "end": 12.35,
+    "score": -710
+  },
+  {
+    "paragraph": 1,
+    "word": "<sil>",
+    "start": 12.35,
+    "end": 12.75,
+    "score": -384
+  },
+  {
+    "paragraph": 1,
+    "word": "max",
+    "start": 12.75,
+    "end": 13.29,
+    "score": -547
+  },
+  {
+    "paragraph": 1,
+    "word": "go",
+    "start": 13.29,
+    "end": 13.63,
+    "score": -838
+  },
+  {
+    "paragraph": 1,
+    "word": "to(3)",
+    "start": 13.63,
+    "end": 13.69,
+    "score": -503
+  },
+  {
+    "paragraph": 1,
+    "word": "sleep",
+    "start": 13.69,
+    "end": 14.27,
+    "score": -619
+  },
+  {
+    "paragraph": 1,
+    "word": "<sil>",
+    "start": 14.27,
+    "end": 14.64,
+    "score": -195
+  },
+  {
+    "paragraph": 1,
+    "word": "he",
+    "start": 14.64,
+    "end": 14.78,
+    "score": -115
+  },
+  {
+    "paragraph": 1,
+    "word": "whined",
+    "start": 14.78,
+    "end": 15.36,
+    "score": -1444
+  },
+  {
+    "paragraph": 1,
+    "word": "and",
+    "start": 15.36,
+    "end": 15.5,
+    "score": -547
+  },
+  {
+    "paragraph": 1,
+    "word": "clawed",
+    "start": 15.5,
+    "end": 15.94,
+    "score": -696
+  },
+  {
+    "paragraph": 1,
+    "word": "at",
+    "start": 15.94,
+    "end": 16.05,
+    "score": -174
+  },
+  {
+    "paragraph": 1,
+    "word": "the",
+    "start": 16.05,
+    "end": 16.13,
+    "score": -85
+  },
+  {
+    "paragraph": 1,
+    "word": "paint",
+    "start": 16.13,
+    "end": 16.48,
+    "score": -736
+  },
+  {
+    "paragraph": 1,
+    "word": "like",
+    "start": 16.48,
+    "end": 16.62,
+    "score": -426
+  },
+  {
+    "paragraph": 1,
+    "word": "his",
+    "start": 16.62,
+    "end": 16.74,
+    "score": -374
+  },
+  {
+    "paragraph": 1,
+    "word": "life",
+    "start": 16.74,
+    "end": 17.15,
+    "score": -939
+  },
+  {
+    "paragraph": 1,
+    "word": "depended",
+    "start": 17.15,
+    "end": 17.73,
+    "score": -839
+  },
+  {
+    "paragraph": 1,
+    "word": "on(2)",
+    "start": 17.73,
+    "end": 17.92,
+    "score": -214
+  },
+  {
+    "paragraph": 1,
+    "word": "it",
+    "start": 17.92,
+    "end": 18.05,
+    "score": -256
+  },
+  {
+    "paragraph": 1,
+    "word": "<sil>",
+    "start": 18.05,
+    "end": 18.29,
+    "score": -227
+  },
+  {
+    "paragraph": 2,
+    "word": "<sil>",
+    "start": 18.3,
+    "end": 18.48,
+    "score": -72
+  },
+  {
+    "paragraph": 2,
+    "word": "by",
+    "start": 18.48,
+    "end": 18.61,
+    "score": -91
+  },
+  {
+    "paragraph": 2,
+    "word": "thursday",
+    "start": 18.61,
+    "end": 19.35,
+    "score": -608
+  },
+  {
+    "paragraph": 2,
+    "word": "<sil>",
+    "start": 19.35,
+    "end": 19.53,
+    "score": -314
+  },
+  {
+    "paragraph": 2,
+    "word": "i",
+    "start": 19.53,
+    "end": 19.63,
+    "score": -68
+  },
+  {
+    "paragraph": 2,
+    "word": "hadn't(2)",
+    "start": 19.63,
+    "end": 19.92,
+    "score": -303
+  },
+  {
+    "paragraph": 2,
+    "word": "slept",
+    "start": 19.92,
+    "end": 20.33,
+    "score": -346
+  },
+  {
+    "paragraph": 2,
+    "word": "in",
+    "start": 20.33,
+    "end": 20.44,
+    "score": -72
+  },
+  {
+    "paragraph": 2,
+    "word": "four",
+    "start": 20.44,
+    "end": 20.9,
+    "score": -794
+  },
+  {
+    "paragraph": 2,
+    "word": "days",
+    "start": 20.9,
+    "end": 21.65,
+    "score": -800
+  },
+  {
+    "paragraph": 2,
+    "word": "<sil>",
+    "start": 21.65,
+    "end": 21.88,
+    "score": -264
+  },
+  {
+    "paragraph": 2,
+    "word": "my",
+    "start": 21.88,
+    "end": 21.99,
+    "score": -366
+  },
+  {
+    "paragraph": 2,
+    "word": "girlfriend",
+    "start": 21.99,
+    "end": 22.45,
+    "score": -616
+  },
+  {
+    "paragraph": 2,
+    "word": "rolled",
+    "start": 22.45,
+    "end": 22.75,
+    "score": -443
+  },
+  {
+    "paragraph": 2,
+    "word": "over",
+    "start": 22.75,
+    "end": 23.08,
+    "score": -687
+  },
+  {
+    "paragraph": 2,
+    "word": "and",
+    "start": 23.08,
+    "end": 23.2,
+    "score": -570
+  },
+  {
+    "paragraph": 2,
+    "word": "groaned",
+    "start": 23.2,
+    "end": 23.73,
+    "score": -825
+  },
+  {
+    "paragraph": 2,
+    "word": "<sil>",
+    "start": 23.73,
+    "end": 24.12,
+    "score": -439
+  },
+  {
+    "paragraph": 2,
+    "word": "it's",
+    "start": 24.12,
+    "end": 24.31,
+    "score": -170
+  },
+  {
+    "paragraph": 2,
+    "word": "your",
+    "start": 24.31,
+    "end": 24.61,
+    "score": -250
+  },
+  {
+    "paragraph": 2,
+    "word": "dog",
+    "start": 24.61,
+    "end": 25.12,
+    "score": -238
+  },
+  {
+    "paragraph": 2,
+    "word": "you",
+    "start": 25.12,
+    "end": 25.41,
+    "score": -284
+  },
+  {
+    "paragraph": 2,
+    "word": "fix",
+    "start": 25.41,
+    "end": 25.8,
+    "score": -310
+  },
+  {
+    "paragraph": 2,
+    "word": "it",
+    "start": 25.8,
+    "end": 25.99,
+    "score": -403
+  },
+  {
+    "paragraph": 2,
+    "word": "<sil>",
+    "start": 25.99,
+    "end": 26.23,
+    "score": -106
+  },
+  {
+    "paragraph": 2,
+    "word": "the",
+    "start": 26.23,
+    "end": 26.34,
+    "score": -220
+  },
+  {
+    "paragraph": 2,
+    "word": "neighbor",
+    "start": 26.34,
+    "end": 26.8,
+    "score": -925
+  },
+  {
+    "paragraph": 2,
+    "word": "is",
+    "start": 26.8,
+    "end": 26.93,
+    "score": -211
+  },
+  {
+    "paragraph": 2,
+    "word": "eighty",
+    "start": 26.93,
+    "end": 27.34,
+    "score": -1379
+  },
+  {
+    "paragraph": 2,
+    "word": "four",
+    "start": 27.34,
+    "end": 27.92,
+    "score": -870
+  },
+  {
+    "paragraph": 2,
+    "word": "he's",
+    "start": 27.92,
+    "end": 28.08,
+    "score": -370
+  },
+  {
+    "paragraph": 2,
+    "word": "asleep",
+    "start": 28.08,
+    "end": 28.58,
+    "score": -1020
+  },
+  {
+    "paragraph": 2,
+    "word": "by",
+    "start": 28.58,
+    "end": 28.74,
+    "score": -406
+  },
+  {
+    "paragraph": 2,
+    "word": "seven",
+    "start": 28.74,
+    "end": 29.39,
+    "score": -2037
+  },
+  {
+    "paragraph": 2,
+    "word": "<sil>",
+    "start": 29.39,
+    "end": 29.73,
+    "score": -181
+  },
+  {
+    "paragraph": 2,
+    "word": "i",
+    "start": 29.73,
+    "end": 29.82,
+    "score": -114
+  },
+  {
+    "paragraph": 2,
+    "word": "dragged",
+    "start": 29.82,
+    "end": 30.29,
+    "score": -806
+  },
+  {
+    "paragraph": 2,
+    "word": "max",
+    "start": 30.29,
+    "end": 30.61,
+    "score": -590
+  },
+  {
+    "paragraph": 2,
+    "word": "out",
+    "start": 30.61,
+    "end": 30.78,
+    "score": -276
+  },
+  {
+    "paragraph": 2,
+    "word": "by",
+    "start": 30.78,
+    "end": 30.93,
+    "score": -225
+  },
+  {
+    "paragraph": 2,
+    "word": "his",
+    "start": 30.93,
+    "end": 31.08,
+    "score": -508
+  },
+  {
+    "paragraph": 2,
+    "word": "collar",
+    "start": 31.08,
+    "end": 31.58,
+    "score": -691
+  },
+  {
+    "paragraph": 2,
+    "word": "but",
+    "start": 31.58,
+    "end": 31.73,
+    "score": -474
+  },
+  {
+    "paragraph": 2,
+    "word": "he",
+    "start": 31.73,
+    "end": 31.81,
+    "score": -527
+  },
+  {
+    "paragraph": 2,
+    "word": "broke",
+    "start": 31.81,
+    "end": 32.14,
+    "score": -619
+  },
+  {
+    "paragraph": 2,
+    "word": "free",
+    "start": 32.14,
+    "end": 32.49,
+    "score": -417
+  },
+  {
+    "paragraph": 2,
+    "word": "and",
+    "start": 32.49,
+    "end": 32.58,
+    "score": -321
+  },
+  {
+    "paragraph": 2,
+    "word": "sprinted",
+    "start": 32.58,
+    "end": 33.13,
+    "score": -1015
+  },
+  {
+    "paragraph": 2,
+    "word": "right",
+    "start": 33.13,
+    "end": 33.47,
+    "score": -996
+  },
+  {
+    "paragraph": 2,
+    "word": "back",
+    "start": 33.47,
+    "end": 33.69,
+    "score": -220
+  },
+  {
+    "paragraph": 2,
+    "word": "to(3)",
+    "start": 33.69,
+    "end": 33.78,
+    "score": -103
+  },
+  {
+    "paragraph": 2,
+    "word": "the",
+    "start": 33.78,
+    "end": 33.86,
+    "score": -358
+  },
+  {
+    "paragraph": 2,
+    "word": "wall",
+    "start": 33.86,
+    "end": 34.33,
+    "score": -349
+  },
+  {
+    "paragraph": 2,
+    "word": "<sil>",
+    "start": 34.33,
+    "end": 34.49,
+    "score": -165
+  },
+  {
+    "paragraph": 3,
+    "word": "<sil>",
+    "start": 34.5,
+    "end": 34.69,
+    "score": -103
+  },
+  {
+    "paragraph": 3,
+    "word": "that",
+    "start": 34.69,
+    "end": 34.91,
+    "score": -139
+  },
+  {
+    "paragraph": 3,
+    "word": "morning",
+    "start": 34.91,
+    "end": 35.35,
+    "score": -377
+  },
+  {
+    "paragraph": 3,
+    "word": "<sil>",
+    "start": 35.35,
+    "end": 35.49,
+    "score": -233
+  },
+  {
+    "paragraph": 3,
+    "word": "i",
+    "start": 35.49,
+    "end": 35.6,
+    "score": -69
+  },
+  {
+    "paragraph": 3,
+    "word": "wrote",
+    "start": 35.6,
+    "end": 35.83,
+    "score": -376
+  },
+  {
+    "paragraph": 3,
+    "word": "a",
+    "start": 35.83,
+    "end": 35.91,
+    "score": -160
+  },
+  {
+    "paragraph": 3,
+    "word": "post",
+    "start": 35.91,
+    "end": 36.43,
+    "score": -485
+  },
+  {
+    "paragraph": 3,
+    "word": "<sil>",
+    "start": 36.43,
+    "end": 36.75,
+    "score": -294
+  },
+  {
+    "paragraph": 3,
+    "word": "free",
+    "start": 36.75,
+    "end": 37.03,
+    "score": -238
+  },
+  {
+    "paragraph": 3,
+    "word": "to",
+    "start": 37.03,
+    "end": 37.17,
+    "score": -572
+  },
+  {
+    "paragraph": 3,
+    "word": "a",
+    "start": 37.17,
+    "end": 37.23,
+    "score": -79
+  },
+  {
+    "paragraph": 3,
+    "word": "good",
+    "start": 37.23,
+    "end": 37.44,
+    "score": -300
+  },
+  {
+    "paragraph": 3,
+    "word": "home",
+    "start": 37.44,
+    "end": 37.91,
+    "score": -718
+  },
+  {
+    "paragraph": 3,
+    "word": "<sil>",
+    "start": 37.91,
+    "end": 38.09,
+    "score": -126
+  },
+  {
+    "paragraph": 3,
+    "word": "one",
+    "start": 38.09,
+    "end": 38.44,
+    "score": -416
+  },
+  {
+    "paragraph": 3,
+    "word": "loud",
+    "start": 38.44,
+    "end": 38.89,
+    "score": -670
+  },
+  {
+    "paragraph": 3,
+    "word": "dog",
+    "start": 38.89,
+    "end": 39.42,
+    "score": -437
+  },
+  {
+    "paragraph": 3,
+    "word": "<sil>",
+    "start": 39.42,
+    "end": 39.76,
+    "score": -137
+  },
+  {
+    "paragraph": 3,
+    "word": "i",
+    "start": 39.76,
+    "end": 39.85,
+    "score": -119
+  },
+  {
+    "paragraph": 3,
+    "word": "hit",
+    "start": 39.85,
+    "end": 40.04,
+    "score": -146
+  },
+  {
+    "paragraph": 3,
+    "word": "save",
+    "start": 40.04,
+    "end": 40.36,
+    "score": -316
+  },
+  {
+    "paragraph": 3,
+    "word": "as(2)",
+    "start": 40.36,
+    "end": 40.46,
+    "score": -120
+  },
+  {
+    "paragraph": 3,
+    "word": "a",
+    "start": 40.46,
+    "end": 40.51,
+    "score": -33
+  },
+  {
+    "paragraph": 3,
+    "word": "draft",
+    "start": 40.51,
+    "end": 41.02,
+    "score": -586
+  },
+  {
+    "paragraph": 3,
+    "word": "and(2)",
+    "start": 41.02,
+    "end": 41.13,
+    "score": -346
+  },
+  {
+    "paragraph": 3,
+    "word": "went",
+    "start": 41.13,
+    "end": 41.36,
+    "score": -378
+  },
+  {
+    "paragraph": 3,
+    "word": "to(2)",
+    "start": 41.36,
+    "end": 41.45,
+    "score": -255
+  },
+  {
+    "paragraph": 3,
+    "word": "bed",
+    "start": 41.45,
+    "end": 41.75,
+    "score": -244
+  },
+  {
+    "paragraph": 3,
+    "word": "angry",
+    "start": 41.75,
+    "end": 42.51,
+    "score": -1008
+  },
+  {
+    "paragraph": 3,
+    "word": "<sil>",
+    "start": 42.51,
+    "end": 42.69,
+    "score": -137
+  },
+  {
+    "paragraph": 4,
+    "word": "<sil>",
+    "start": 42.7,
+    "end": 42.9,
+    "score": -69
+  },
+  {
+    "paragraph": 4,
+    "word": "at",
+    "start": 42.9,
+    "end": 43.11,
+    "score": -139
+  },
+  {
+    "paragraph": 4,
+    "word": "three",
+    "start": 43.11,
+    "end": 43.32,
+    "score": -209
+  },
+  {
+    "paragraph": 4,
+    "word": "a.m.",
+    "start": 43.32,
+    "end": 43.82,
+    "score": -273
+  },
+  {
+    "paragraph": 4,
+    "word": "<sil>",
+    "start": 43.82,
+    "end": 43.94,
+    "score": -245
+  },
+  {
+    "paragraph": 4,
+    "word": "max",
+    "start": 43.94,
+    "end": 44.3,
+    "score": -219
+  },
+  {
+    "paragraph": 4,
+    "word": "started",
+    "start": 44.3,
+    "end": 44.66,
+    "score": -286
+  },
+  {
+    "paragraph": 4,
+    "word": "again",
+    "start": 44.66,
+    "end": 45.22,
+    "score": -770
+  },
+  {
+    "paragraph": 4,
+    "word": "<sil>",
+    "start": 45.22,
+    "end": 45.3,
+    "score": -125
+  },
+  {
+    "paragraph": 4,
+    "word": "but",
+    "start": 45.3,
+    "end": 45.66,
+    "score": -1284
+  },
+  {
+    "paragraph": 4,
+    "word": "this",
+    "start": 45.66,
+    "end": 45.89,
+    "score": -219
+  },
+  {
+    "paragraph": 4,
+    "word": "time",
+    "start": 45.89,
+    "end": 46.22,
+    "score": -209
+  },
+  {
+    "paragraph": 4,
+    "word": "he",
+    "start": 46.22,
+    "end": 46.31,
+    "score": -73
+  },
+  {
+    "paragraph": 4,
+    "word": "wasn't(2)",
+    "start": 46.31,
+    "end": 46.65,
+    "score": -837
+  },
+  {
+    "paragraph": 4,
+    "word": "barking",
+    "start": 46.65,
+    "end": 47.14,
+    "score": -683
+  },
+  {
+    "paragraph": 4,
+    "word": "<sil>",
+    "start": 47.14,
+    "end": 47.42,
+    "score": -331
+  },
+  {
+    "paragraph": 4,
+    "word": "he",
+    "start": 47.42,
+    "end": 47.56,
+    "score": -118
+  },
+  {
+    "paragraph": 4,
+    "word": "was(2)",
+    "start": 47.56,
+    "end": 47.74,
+    "score": -112
+  },
+  {
+    "paragraph": 4,
+    "word": "howling",
+    "start": 47.74,
+    "end": 48.5,
+    "score": -456
+  },
+  {
+    "paragraph": 4,
+    "word": "<sil>",
+    "start": 48.5,
+    "end": 48.68,
+    "score": -217
+  },
+  {
+    "paragraph": 4,
+    "word": "throwing",
+    "start": 48.68,
+    "end": 49.02,
+    "score": -380
+  },
+  {
+    "paragraph": 4,
+    "word": "his",
+    "start": 49.02,
+    "end": 49.16,
+    "score": -427
+  },
+  {
+    "paragraph": 4,
+    "word": "whole",
+    "start": 49.16,
+    "end": 49.54,
+    "score": -267
+  },
+  {
+    "paragraph": 4,
+    "word": "body",
+    "start": 49.54,
+    "end": 50.0,
+    "score": -448
+  },
+  {
+    "paragraph": 4,
+    "word": "against",
+    "start": 50.0,
+    "end": 50.29,
+    "score": -532
+  },
+  {
+    "paragraph": 4,
+    "word": "the",
+    "start": 50.29,
+    "end": 50.36,
+    "score": -433
+  },
+  {
+    "paragraph": 4,
+    "word": "wall",
+    "start": 50.36,
+    "end": 50.91,
+    "score": -422
+  },
+  {
+    "paragraph": 4,
+    "word": "<sil>",
+    "start": 50.91,
+    "end": 51.19,
+    "score": -183
+  },
+  {
+    "paragraph": 4,
+    "word": "i",
+    "start": 51.19,
+    "end": 51.31,
+    "score": -99
+  },
+  {
+    "paragraph": 4,
+    "word": "opened",
+    "start": 51.31,
+    "end": 51.57,
+    "score": -478
+  },
+  {
+    "paragraph": 4,
+    "word": "my",
+    "start": 51.57,
+    "end": 51.68,
+    "score": -129
+  },
+  {
+    "paragraph": 4,
+    "word": "mouth",
+    "start": 51.68,
+    "end": 51.94,
+    "score": -418
+  },
+  {
+    "paragraph": 4,
+    "word": "to(2)",
+    "start": 51.94,
+    "end": 52.07,
+    "score": -367
+  },
+  {
+    "paragraph": 4,
+    "word": "yell",
+    "start": 52.07,
+    "end": 52.58,
+    "score": -671
+  },
+  {
+    "paragraph": 4,
+    "word": "<sil>",
+    "start": 52.58,
+    "end": 52.76,
+    "score": -357
+  },
+  {
+    "paragraph": 4,
+    "word": "and(2)",
+    "start": 52.76,
+    "end": 52.94,
+    "score": -368
+  },
+  {
+    "paragraph": 4,
+    "word": "then",
+    "start": 52.94,
+    "end": 53.09,
+    "score": -197
+  },
+  {
+    "paragraph": 4,
+    "word": "i",
+    "start": 53.09,
+    "end": 53.17,
+    "score": -149
+  },
+  {
+    "paragraph": 4,
+    "word": "heard",
+    "start": 53.17,
+    "end": 53.48,
+    "score": -204
+  },
+  {
+    "paragraph": 4,
+    "word": "it",
+    "start": 53.48,
+    "end": 53.62,
+    "score": -272
+  },
+  {
+    "paragraph": 4,
+    "word": "through",
+    "start": 53.62,
+    "end": 53.75,
+    "score": -210
+  },
+  {
+    "paragraph": 4,
+    "word": "the",
+    "start": 53.75,
+    "end": 53.83,
+    "score": -66
+  },
+  {
+    "paragraph": 4,
+    "word": "drywall",
+    "start": 53.83,
+    "end": 54.53,
+    "score": -949
+  },
+  {
+    "paragraph": 4,
+    "word": "<sil>",
+    "start": 54.53,
+    "end": 54.94,
+    "score": -191
+  },
+  {
+    "paragraph": 4,
+    "word": "thump",
+    "start": 54.94,
+    "end": 55.47,
+    "score": -1417
+  },
+  {
+    "paragraph": 4,
+    "word": "<sil>",
+    "start": 55.47,
+    "end": 55.9,
+    "score": -165
+  },
+  {
+    "paragraph": 4,
+    "word": "thump",
+    "start": 55.9,
+    "end": 56.41,
+    "score": -1161
+  },
+  {
+    "paragraph": 4,
+    "word": "<sil>",
+    "start": 56.41,
+    "end": 56.81,
+    "score": -149
+  },
+  {
+    "paragraph": 4,
+    "word": "thump",
+    "start": 56.81,
+    "end": 57.34,
+    "score": -962
+  },
+  {
+    "paragraph": 4,
+    "word": "<sil>",
+    "start": 57.34,
+    "end": 57.59,
+    "score": -178
+  },
+  {
+    "paragraph": 5,
+    "word": "<sil>",
+    "start": 57.6,
+    "end": 57.86,
+    "score": -43
+  },
+  {
+    "paragraph": 5,
+    "word": "my",
+    "start": 57.86,
+    "end": 57.94,
+    "score": -331
+  },
+  {
+    "paragraph": 5,
+    "word": "stomach",
+    "start": 57.94,
+    "end": 58.49,
+    "score": -562
+  },
+  {
+    "paragraph": 5,
+    "word": "dropped",
+    "start": 58.49,
+    "end": 59.23,
+    "score": -984
+  },
+  {
+    "paragraph": 5,
+    "word": "<sil>",
+    "start": 59.23,
+    "end": 59.52,
+    "score": -243
+  },
+  {
+    "paragraph": 5,
+    "word": "i",
+    "start": 59.52,
+    "end": 59.59,
+    "score": -50
+  },
+  {
+    "paragraph": 5,
+    "word": "ran",
+    "start": 59.59,
+    "end": 59.94,
+    "score": -562
+  },
+  {
+    "paragraph": 5,
+    "word": "into(2)",
+    "start": 59.94,
+    "end": 60.12,
+    "score": -284
+  },
+  {
+    "paragraph": 5,
+    "word": "the",
+    "start": 60.12,
+    "end": 60.21,
+    "score": -53
+  },
+  {
+    "paragraph": 5,
+    "word": "hallway",
+    "start": 60.21,
+    "end": 60.61,
+    "score": -247
+  },
+  {
+    "paragraph": 5,
+    "word": "in",
+    "start": 60.61,
+    "end": 60.69,
+    "score": -110
+  },
+  {
+    "paragraph": 5,
+    "word": "my",
+    "start": 60.69,
+    "end": 60.82,
+    "score": -99
+  },
+  {
+    "paragraph": 5,
+    "word": "socks",
+    "start": 60.82,
+    "end": 61.26,
+    "score": -359
+  },
+  {
+    "paragraph": 5,
+    "word": "and",
+    "start": 61.26,
+    "end": 61.41,
+    "score": -306
+  },
+  {
+    "paragraph": 5,
+    "word": "pounded",
+    "start": 61.41,
+    "end": 61.88,
+    "score": -628
+  },
+  {
+    "paragraph": 5,
+    "word": "on(2)",
+    "start": 61.88,
+    "end": 61.99,
+    "score": -238
+  },
+  {
+    "paragraph": 5,
+    "word": "mr",
+    "start": 61.99,
+    "end": 62.27,
+    "score": -352
+  },
+  {
+    "paragraph": 5,
+    "word": "harlan's",
+    "start": 62.27,
+    "end": 62.7,
+    "score": -462
+  },
+  {
+    "paragraph": 5,
+    "word": "door",
+    "start": 62.7,
+    "end": 63.1,
+    "score": -197
+  },
+  {
+    "paragraph": 5,
+    "word": "<sil>",
+    "start": 63.1,
+    "end": 63.34,
+    "score": -345
+  },
+  {
+    "paragraph": 5,
+    "word": "sir",
+    "start": 63.34,
+    "end": 63.85,
+    "score": -2118
+  },
+  {
+    "paragraph": 5,
+    "word": "are",
+    "start": 63.85,
+    "end": 64.09,
+    "score": -1071
+  },
+  {
+    "paragraph": 5,
+    "word": "you",
+    "start": 64.09,
+    "end": 64.21,
+    "score": -198
+  },
+  {
+    "paragraph": 5,
+    "word": "okay",
+    "start": 64.21,
+    "end": 64.84,
+    "score": -1146
+  },
+  {
+    "paragraph": 5,
+    "word": "<sil>",
+    "start": 64.84,
+    "end": 65.21,
+    "score": -272
+  },
+  {
+    "paragraph": 5,
+    "word": "nothing",
+    "start": 65.21,
+    "end": 65.75,
+    "score": -658
+  },
+  {
+    "paragraph": 5,
+    "word": "<sil>",
+    "start": 65.75,
+    "end": 66.19,
+    "score": -326
+  },
+  {
+    "paragraph": 5,
+    "word": "then",
+    "start": 66.19,
+    "end": 66.46,
+    "score": -431
+  },
+  {
+    "paragraph": 5,
+    "word": "the",
+    "start": 66.46,
+    "end": 66.52,
+    "score": -81
+  },
+  {
+    "paragraph": 5,
+    "word": "weak",
+    "start": 66.52,
+    "end": 66.9,
+    "score": -339
+  },
+  {
+    "paragraph": 5,
+    "word": "sound",
+    "start": 66.9,
+    "end": 67.33,
+    "score": -535
+  },
+  {
+    "paragraph": 5,
+    "word": "of",
+    "start": 67.33,
+    "end": 67.41,
+    "score": -59
+  },
+  {
+    "paragraph": 5,
+    "word": "someone",
+    "start": 67.41,
+    "end": 67.78,
+    "score": -763
+  },
+  {
+    "paragraph": 5,
+    "word": "tapping",
+    "start": 67.78,
+    "end": 68.23,
+    "score": -394
+  },
+  {
+    "paragraph": 5,
+    "word": "back",
+    "start": 68.23,
+    "end": 68.69,
+    "score": -750
+  },
+  {
+    "paragraph": 5,
+    "word": "<sil>",
+    "start": 68.69,
+    "end": 69.0,
+    "score": -182
+  },
+  {
+    "paragraph": 5,
+    "word": "i",
+    "start": 69.0,
+    "end": 69.07,
+    "score": -51
+  },
+  {
+    "paragraph": 5,
+    "word": "called",
+    "start": 69.07,
+    "end": 69.39,
+    "score": -392
+  },
+  {
+    "paragraph": 5,
+    "word": "nine",
+    "start": 69.39,
+    "end": 69.6,
+    "score": -445
+  },
+  {
+    "paragraph": 5,
+    "word": "one",
+    "start": 69.6,
+    "end": 69.74,
+    "score": -556
+  },
+  {
+    "paragraph": 5,
+    "word": "one",
+    "start": 69.74,
+    "end": 70.1,
+    "score": -584
+  },
+  {
+    "paragraph": 5,
+    "word": "and(2)",
+    "start": 70.1,
+    "end": 70.32,
+    "score": -687
+  },
+  {
+    "paragraph": 5,
+    "word": "by",
+    "start": 70.32,
+    "end": 70.43,
+    "score": -125
+  },
+  {
+    "paragraph": 5,
+    "word": "the",
+    "start": 70.43,
+    "end": 70.53,
+    "score": -112
+  },
+  {
+    "paragraph": 5,
+    "word": "time",
+    "start": 70.53,
+    "end": 70.82,
+    "score": -355
+  },
+  {
+    "paragraph": 5,
+    "word": "the",
+    "start": 70.82,
+    "end": 70.9,
+    "score": -97
+  },
+  {
+    "paragraph": 5,
+    "word": "paramedics",
+    "start": 70.9,
+    "end": 71.46,
+    "score": -894
+  },
+  {
+    "paragraph": 5,
+    "word": "broke",
+    "start": 71.46,
+    "end": 71.69,
+    "score": -364
+  },
+  {
+    "paragraph": 5,
+    "word": "the",
+    "start": 71.69,
+    "end": 71.76,
+    "score": -74
+  },
+  {
+    "paragraph": 5,
+    "word": "door",
+    "start": 71.76,
+    "end": 72.03,
+    "score": -230
+  },
+  {
+    "paragraph": 5,
+    "word": "down",
+    "start": 72.03,
+    "end": 72.38,
+    "score": -716
+  },
+  {
+    "paragraph": 5,
+    "word": "<sil>",
+    "start": 72.38,
+    "end": 72.51,
+    "score": -425
+  },
+  {
+    "paragraph": 5,
+    "word": "max",
+    "start": 72.51,
+    "end": 72.84,
+    "score": -370
+  },
+  {
+    "paragraph": 5,
+    "word": "was(2)",
+    "start": 72.84,
+    "end": 72.99,
+    "score": -168
+  },
+  {
+    "paragraph": 5,
+    "word": "already",
+    "start": 72.99,
+    "end": 73.47,
+    "score": -783
+  },
+  {
+    "paragraph": 5,
+    "word": "scratching",
+    "start": 73.47,
+    "end": 74.03,
+    "score": -671
+  },
+  {
+    "paragraph": 5,
+    "word": "at",
+    "start": 74.03,
+    "end": 74.11,
+    "score": -327
+  },
+  {
+    "paragraph": 5,
+    "word": "the",
+    "start": 74.11,
+    "end": 74.18,
+    "score": -125
+  },
+  {
+    "paragraph": 5,
+    "word": "bathroom",
+    "start": 74.18,
+    "end": 74.75,
+    "score": -1193
+  },
+  {
+    "paragraph": 5,
+    "word": "<sil>",
+    "start": 74.75,
+    "end": 74.89,
+    "score": -130
+  },
+  {
+    "paragraph": 6,
+    "word": "<sil>",
+    "start": 74.9,
+    "end": 75.07,
+    "score": -64
+  },
+  {
+    "paragraph": 6,
+    "word": "mr",
+    "start": 75.07,
+    "end": 75.36,
+    "score": -196
+  },
+  {
+    "paragraph": 6,
+    "word": "harlan",
+    "start": 75.36,
+    "end": 75.78,
+    "score": -336
+  },
+  {
+    "paragraph": 6,
+    "word": "was(2)",
+    "start": 75.78,
+    "end": 75.95,
+    "score": -240
+  },
+  {
+    "paragraph": 6,
+    "word": "on(2)",
+    "start": 75.95,
+    "end": 76.04,
+    "score": -98
+  },
+  {
+    "paragraph": 6,
+    "word": "the",
+    "start": 76.04,
+    "end": 76.1,
+    "score": -108
+  },
+  {
+    "paragraph": 6,
+    "word": "floor",
+    "start": 76.1,
+    "end": 76.79,
+    "score": -768
+  },
+  {
+    "paragraph": 7,
+    "word": "<sil>",
+    "start": 76.8,
+    "end": 76.89,
+    "score": -49
+  },
+  {
+    "paragraph": 7,
+    "word": "he'd",
+    "start": 76.89,
+    "end": 77.04,
+    "score": -130
+  },
+  {
+    "paragraph": 7,
+    "word": "fallen",
+    "start": 77.04,
+    "end": 77.55,
+    "score": -678
+  },
+  {
+    "paragraph": 7,
+    "word": "hours",
+    "start": 77.55,
+    "end": 77.95,
+    "score": -247
+  },
+  {
+    "paragraph": 7,
+    "word": "earlier",
+    "start": 77.95,
+    "end": 78.39,
+    "score": -348
+  },
+  {
+    "paragraph": 7,
+    "word": "and",
+    "start": 78.39,
+    "end": 78.48,
+    "score": -315
+  },
+  {
+    "paragraph": 7,
+    "word": "couldn't(2)",
+    "start": 78.48,
+    "end": 78.74,
+    "score": -349
+  },
+  {
+    "paragraph": 7,
+    "word": "reach",
+    "start": 78.74,
+    "end": 78.97,
+    "score": -149
+  },
+  {
+    "paragraph": 7,
+    "word": "his",
+    "start": 78.97,
+    "end": 79.15,
+    "score": -123
+  },
+  {
+    "paragraph": 7,
+    "word": "phone",
+    "start": 79.15,
+    "end": 79.63,
+    "score": -613
+  },
+  {
+    "paragraph": 7,
+    "word": "<sil>",
+    "start": 79.63,
+    "end": 79.79,
+    "score": -103
+  },
+  {
+    "paragraph": 8,
+    "word": "<sil>",
+    "start": 79.8,
+    "end": 79.92,
+    "score": -78
+  },
+  {
+    "paragraph": 8,
+    "word": "the",
+    "start": 79.92,
+    "end": 80.01,
+    "score": -58
+  },
+  {
+    "paragraph": 8,
+    "word": "paramedic",
+    "start": 80.01,
+    "end": 80.54,
+    "score": -428
+  },
+  {
+    "paragraph": 8,
+    "word": "looked",
+    "start": 80.54,
+    "end": 80.78,
+    "score": -290
+  },
+  {
+    "paragraph": 8,
+    "word": "at",
+    "start": 80.78,
+    "end": 80.84,
+    "score": -288
+  },
+  {
+    "paragraph": 8,
+    "word": "me",
+    "start": 80.84,
+    "end": 81.0,
+    "score": -112
+  },
+  {
+    "paragraph": 8,
+    "word": "and",
+    "start": 81.0,
+    "end": 81.09,
+    "score": -122
+  },
+  {
+    "paragraph": 8,
+    "word": "said",
+    "start": 81.09,
+    "end": 81.45,
+    "score": -397
+  },
+  {
+    "paragraph": 8,
+    "word": "<sil>",
+    "start": 81.45,
+    "end": 81.59,
+    "score": -168
+  },
+  {
+    "paragraph": 9,
+    "word": "<sil>",
+    "start": 81.6,
+    "end": 81.75,
+    "score": -65
+  },
+  {
+    "paragraph": 9,
+    "word": "another",
+    "start": 81.75,
+    "end": 82.17,
+    "score": -282
+  },
+  {
+    "paragraph": 9,
+    "word": "hour",
+    "start": 82.17,
+    "end": 82.57,
+    "score": -159
+  },
+  {
+    "paragraph": 9,
+    "word": "and(2)",
+    "start": 82.57,
+    "end": 82.81,
+    "score": -408
+  },
+  {
+    "paragraph": 9,
+    "word": "we",
+    "start": 82.81,
+    "end": 82.97,
+    "score": -93
+  },
+  {
+    "paragraph": 9,
+    "word": "wouldn't",
+    "start": 82.97,
+    "end": 83.24,
+    "score": -875
+  },
+  {
+    "paragraph": 9,
+    "word": "have",
+    "start": 83.24,
+    "end": 83.33,
+    "score": -735
+  },
+  {
+    "paragraph": 9,
+    "word": "been",
+    "start": 83.33,
+    "end": 83.45,
+    "score": -275
+  },
+  {
+    "paragraph": 9,
+    "word": "having",
+    "start": 83.45,
+    "end": 83.84,
+    "score": -274
+  },
+  {
+    "paragraph": 9,
+    "word": "this",
+    "start": 83.84,
+    "end": 83.98,
+    "score": -232
+  },
+  {
+    "paragraph": 9,
+    "word": "conversation",
+    "start": 83.98,
+    "end": 84.81,
+    "score": -1036
+  },
+  {
+    "paragraph": 9,
+    "word": "<sil>",
+    "start": 84.81,
+    "end": 84.99,
+    "score": -258
+  },
+  {
+    "paragraph": 10,
+    "word": "<sil>",
+    "start": 85.0,
+    "end": 85.25,
+    "score": -209
+  },
+  {
+    "paragraph": 10,
+    "word": "i",
+    "start": 85.25,
+    "end": 85.3,
+    "score": -155
+  },
+  {
+    "paragraph": 10,
+    "word": "went",
+    "start": 85.3,
+    "end": 85.51,
+    "score": -317
+  },
+  {
+    "paragraph": 10,
+    "word": "back",
+    "start": 85.51,
+    "end": 85.71,
+    "score": -178
+  },
+  {
+    "paragraph": 10,
+    "word": "to(3)",
+    "start": 85.71,
+    "end": 85.79,
+    "score": -58
+  },
+  {
+    "paragraph": 10,
+    "word": "my",
+    "start": 85.79,
+    "end": 85.96,
+    "score": -145
+  },
+  {
+    "paragraph": 10,
+    "word": "apartment",
+    "start": 85.96,
+    "end": 86.72,
+    "score": -1746
+  },
+  {
+    "paragraph": 10,
+    "word": "and(2)",
+    "start": 86.72,
+    "end": 86.83,
+    "score": -257
+  },
+  {
+    "paragraph": 10,
+    "word": "deleted",
+    "start": 86.83,
+    "end": 87.23,
+    "score": -339
+  },
+  {
+    "paragraph": 10,
+    "word": "the",
+    "start": 87.23,
+    "end": 87.3,
+    "score": -132
+  },
+  {
+    "paragraph": 10,
+    "word": "post",
+    "start": 87.3,
+    "end": 87.9,
+    "score": -664
+  },
+  {
+    "paragraph": 10,
+    "word": "<sil>",
+    "start": 87.9,
+    "end": 88.27,
+    "score": -213
+  },
+  {
+    "paragraph": 10,
+    "word": "max",
+    "start": 88.27,
+    "end": 88.63,
+    "score": -285
+  },
+  {
+    "paragraph": 10,
+    "word": "got",
+    "start": 88.63,
+    "end": 88.79,
+    "score": -149
+  },
+  {
+    "paragraph": 10,
+    "word": "a",
+    "start": 88.79,
+    "end": 88.88,
+    "score": -541
+  },
+  {
+    "paragraph": 10,
+    "word": "whole",
+    "start": 88.88,
+    "end": 89.24,
+    "score": -212
+  },
+  {
+    "paragraph": 10,
+    "word": "steak",
+    "start": 89.24,
+    "end": 89.72,
+    "score": -449
+  },
+  {
+    "paragraph": 10,
+    "word": "that",
+    "start": 89.72,
+    "end": 89.96,
+    "score": -285
+  },
+  {
+    "paragraph": 10,
+    "word": "night",
+    "start": 89.96,
+    "end": 90.24,
+    "score": -521
+  },
+  {
+    "paragraph": 10,
+    "word": "<sil>",
+    "start": 90.24,
+    "end": 90.39,
+    "score": -183
+  },
+  {
+    "paragraph": 11,
+    "word": "<sil>",
+    "start": 90.4,
+    "end": 90.58,
+    "score": -42
+  },
+  {
+    "paragraph": 11,
+    "word": "and",
+    "start": 90.58,
+    "end": 90.7,
+    "score": -283
+  },
+  {
+    "paragraph": 11,
+    "word": "mr",
+    "start": 90.7,
+    "end": 90.97,
+    "score": -198
+  },
+  {
+    "paragraph": 11,
+    "word": "harlan",
+    "start": 90.97,
+    "end": 91.46,
+    "score": -530
+  },
+  {
+    "paragraph": 11,
+    "word": "<sil>",
+    "start": 91.46,
+    "end": 91.73,
+    "score": -240
+  },
+  {
+    "paragraph": 11,
+    "word": "every(2)",
+    "start": 91.73,
+    "end": 92.04,
+    "score": -304
+  },
+  {
+    "paragraph": 11,
+    "word": "sunday",
+    "start": 92.04,
+    "end": 92.42,
+    "score": -372
+  },
+  {
+    "paragraph": 11,
+    "word": "now",
+    "start": 92.42,
+    "end": 92.79,
+    "score": -315
+  },
+  {
+    "paragraph": 11,
+    "word": "he",
+    "start": 92.79,
+    "end": 93.06,
+    "score": -484
+  },
+  {
+    "paragraph": 11,
+    "word": "knocks",
+    "start": 93.06,
+    "end": 93.37,
+    "score": -267
+  },
+  {
+    "paragraph": 11,
+    "word": "on(2)",
+    "start": 93.37,
+    "end": 93.48,
+    "score": -114
+  },
+  {
+    "paragraph": 11,
+    "word": "our(3)",
+    "start": 93.48,
+    "end": 93.64,
+    "score": -123
+  },
+  {
+    "paragraph": 11,
+    "word": "wall",
+    "start": 93.64,
+    "end": 93.87,
+    "score": -201
+  },
+  {
+    "paragraph": 11,
+    "word": "twice",
+    "start": 93.87,
+    "end": 94.6,
+    "score": -788
+  },
+  {
+    "paragraph": 11,
+    "word": "<sil>",
+    "start": 94.6,
+    "end": 94.66,
+    "score": -128
+  },
+  {
+    "paragraph": 11,
+    "word": "and(2)",
+    "start": 94.66,
+    "end": 94.84,
+    "score": -491
+  },
+  {
+    "paragraph": 11,
+    "word": "max",
+    "start": 94.84,
+    "end": 95.23,
+    "score": -317
+  },
+  {
+    "paragraph": 11,
+    "word": "barks",
+    "start": 95.23,
+    "end": 95.61,
+    "score": -343
+  },
+  {
+    "paragraph": 11,
+    "word": "back",
+    "start": 95.61,
+    "end": 96.11,
+    "score": -575
+  },
+  {
+    "paragraph": 11,
+    "word": "<sil>",
+    "start": 96.11,
+    "end": 96.2,
+    "score": -111
+  }
+]

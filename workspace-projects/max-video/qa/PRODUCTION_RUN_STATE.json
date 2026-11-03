@@ -1,0 +1,27 @@
+{
+  "task": "Max and the shared wall \u2014 approved native full film",
+  "updatedAt": "2026-11-02T16:52:08.239160+00:00",
+  "authorization": "User explicitly approved full video and renewed start rendering instruction on 2026-11-02 16:40 UTC",
+  "productionSource": "outputs/film_v01/source",
+  "sourceManifest": "outputs/film_v01/source_manifest.json",
+  "sourceSha256": "6766a0c41e2a12bbfc03a617957a3c6a29dbd660c05685d7b3068bd94fa67b38",
+  "approvedPrefixSourceSha256": "5d3d413277a442da7168481852d693f8a41c5465a7fa1ff1620039f4427ce5b5",
+  "approvedPreviewLibraryFileId": "libfile_de520f5b1ec48191ae6196c6baf0d8b1",
+  "renderSession": 63430,
+  "log": "outputs/film_v01.log",
+  "progress": "outputs/film_v01/progress.json",
+  "resumeCommand": "node scripts/render_film.mjs film_v01 3 >> outputs/film_v01.log 2>&1",
+  "totalFrames": 2887,
+  "native": "1080x1920 / 30fps",
+  "audio": "Unchanged 96.208938-second supplied narration, 286 exact words",
+  "targetedBlockingFixes": "All six groups independently passed native full_proof_v2 on 2026-11-02 16:45 UTC",
+  "renderSourceFrozen": true,
+  "warning": "Do not mutate frozen source or restart while session/process still alive. Resuming reuses validated per-shot MP4 receipt hashes; incomplete shot gets rerendered. Never edit approved baseball project.",
+  "pending": [
+    "Finish chunks 300\u20132886",
+    "Independent decoded motion review",
+    "Final 2887-frame concat/source/audio/caption checks",
+    "Compact editable ZIP with licenses, unchanged narration, sidecar captions, run docs",
+    "Create new private Library full-film and editable-source items; do not overwrite approved preview; return exact IDs to root"
+  ]
+}

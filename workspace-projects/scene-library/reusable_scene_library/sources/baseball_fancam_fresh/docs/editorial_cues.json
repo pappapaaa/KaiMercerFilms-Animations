@@ -1,0 +1,1560 @@
+{
+  "version": 7,
+  "source": "mromidev/claude-animated-shorts pinned e3b817b6afc6cd413466d43f11ba31209e034bbf; actual story.ts engine ported",
+  "fps": 30,
+  "totalFrames": 2253,
+  "audioSpeed": 1,
+  "preview": {
+    "startFrame": 1162,
+    "endFrameExclusive": 1462,
+    "frames": 300,
+    "nativeResolution": [
+      1080,
+      1920
+    ],
+    "pictureSourceSha256": "56781cfb35872d2473eea171e779c28076ee5ce702729a0a7a184dcd3847a908"
+  },
+  "timingAuthority": "src/captions.json exact per-word timings; visual landings0\u20133f before words",
+  "shots": [
+    {
+      "id": 0,
+      "startSeconds": 0.0,
+      "endSeconds": 3.43,
+      "startFrame": 0,
+      "endFrameExclusive": 103,
+      "frames": 103,
+      "label": "FRIDAY",
+      "set": "bedroom",
+      "editorialIntent": "The excuse / secret delight",
+      "cameraPlan": "Medium phone hook immediately; cut tighter on baseball, not a long establishing float.",
+      "actingPlan": "phone up by4; fake sick17; glance toward baseball intention65",
+      "words": [
+        {
+          "text": "I",
+          "startFrame": 2,
+          "endFrameExclusive": 4
+        },
+        {
+          "text": "called",
+          "startFrame": 4,
+          "endFrameExclusive": 13
+        },
+        {
+          "text": "in",
+          "startFrame": 13,
+          "endFrameExclusive": 17
+        },
+        {
+          "text": "sick",
+          "startFrame": 17,
+          "endFrameExclusive": 26
+        },
+        {
+          "text": "on",
+          "startFrame": 26,
+          "endFrameExclusive": 31
+        },
+        {
+          "text": "Friday",
+          "startFrame": 31,
+          "endFrameExclusive": 44
+        },
+        {
+          "text": "so",
+          "startFrame": 44,
+          "endFrameExclusive": 49
+        },
+        {
+          "text": "I",
+          "startFrame": 49,
+          "endFrameExclusive": 51
+        },
+        {
+          "text": "could",
+          "startFrame": 51,
+          "endFrameExclusive": 56
+        },
+        {
+          "text": "go",
+          "startFrame": 56,
+          "endFrameExclusive": 60
+        },
+        {
+          "text": "to",
+          "startFrame": 60,
+          "endFrameExclusive": 64
+        },
+        {
+          "text": "a",
+          "startFrame": 64,
+          "endFrameExclusive": 65
+        },
+        {
+          "text": "baseball",
+          "startFrame": 65,
+          "endFrameExclusive": 81
+        },
+        {
+          "text": "game.",
+          "startFrame": 81,
+          "endFrameExclusive": 92
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "startSeconds": 3.43,
+      "endSeconds": 6.28,
+      "startFrame": 103,
+      "endFrameExclusive": 189,
+      "frames": 86,
+      "label": "THE PERFORMANCE",
+      "set": "bedroom",
+      "editorialIntent": "Cough performance",
+      "cameraPlan": "22f tightening on hard; two restrained7f cough kicks, no handheld.",
+      "actingPlan": "cough104\u2013121 and140\u2013157; keep phone contact",
+      "words": [
+        {
+          "text": "I",
+          "startFrame": 103,
+          "endFrameExclusive": 107
+        },
+        {
+          "text": "coughed",
+          "startFrame": 107,
+          "endFrameExclusive": 119
+        },
+        {
+          "text": "into",
+          "startFrame": 119,
+          "endFrameExclusive": 125
+        },
+        {
+          "text": "the",
+          "startFrame": 125,
+          "endFrameExclusive": 128
+        },
+        {
+          "text": "phone",
+          "startFrame": 128,
+          "endFrameExclusive": 138
+        },
+        {
+          "text": "as",
+          "startFrame": 138,
+          "endFrameExclusive": 142
+        },
+        {
+          "text": "hard",
+          "startFrame": 142,
+          "endFrameExclusive": 155
+        },
+        {
+          "text": "as",
+          "startFrame": 155,
+          "endFrameExclusive": 160
+        },
+        {
+          "text": "I",
+          "startFrame": 160,
+          "endFrameExclusive": 162
+        },
+        {
+          "text": "could.",
+          "startFrame": 162,
+          "endFrameExclusive": 176
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "startSeconds": 6.28,
+      "endSeconds": 9.06,
+      "startFrame": 189,
+      "endFrameExclusive": 272,
+      "frames": 83,
+      "label": "BARELY OUT OF BED",
+      "set": "bedroom",
+      "editorialIntent": "Barely out of bed",
+      "cameraPlan": "MS\u2192face glide232\u2013254; knowingly overdone sick face.",
+      "actingPlan": "slump218; mouth on quoted line; no teleport",
+      "words": [
+        {
+          "text": "\"Boss,",
+          "startFrame": 188,
+          "endFrameExclusive": 204
+        },
+        {
+          "text": "I",
+          "startFrame": 211,
+          "endFrameExclusive": 213
+        },
+        {
+          "text": "can",
+          "startFrame": 213,
+          "endFrameExclusive": 219
+        },
+        {
+          "text": "barely",
+          "startFrame": 219,
+          "endFrameExclusive": 233
+        },
+        {
+          "text": "get",
+          "startFrame": 233,
+          "endFrameExclusive": 238
+        },
+        {
+          "text": "out",
+          "startFrame": 238,
+          "endFrameExclusive": 241
+        },
+        {
+          "text": "of",
+          "startFrame": 241,
+          "endFrameExclusive": 244
+        },
+        {
+          "text": "bed.\"",
+          "startFrame": 244,
+          "endFrameExclusive": 256
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "startSeconds": 9.06,
+      "endSeconds": 12.51,
+      "startFrame": 272,
+      "endFrameExclusive": 376,
+      "frames": 104,
+      "label": "\u201cGET SOME REST.\u201d",
+      "set": "bossOffice",
+      "editorialIntent": "Boss gives permission",
+      "cameraPlan": "Boss sigh reaction276\u2013296;22f settle toward face302\u2013324.",
+      "actingPlan": "eyes close276; shoulders release291; permission mouth305\u2013363",
+      "words": [
+        {
+          "text": "He",
+          "startFrame": 272,
+          "endFrameExclusive": 276
+        },
+        {
+          "text": "sighed.",
+          "startFrame": 276,
+          "endFrameExclusive": 291
+        },
+        {
+          "text": "\"Get",
+          "startFrame": 305,
+          "endFrameExclusive": 311
+        },
+        {
+          "text": "some",
+          "startFrame": 311,
+          "endFrameExclusive": 316
+        },
+        {
+          "text": "rest.",
+          "startFrame": 316,
+          "endFrameExclusive": 333
+        },
+        {
+          "text": "We'll",
+          "startFrame": 338,
+          "endFrameExclusive": 346
+        },
+        {
+          "text": "manage.\"",
+          "startFrame": 346,
+          "endFrameExclusive": 363
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "startSeconds": 12.51,
+      "endSeconds": 15.19,
+      "startFrame": 376,
+      "endFrameExclusive": 456,
+      "frames": 80,
+      "label": "GENIUS.",
+      "set": "bedroom",
+      "editorialIntent": "Genius",
+      "cameraPlan": "Hang-up first; grin393;20f punch push then read smug face.",
+      "actingPlan": "phone lowers379\u2013395; grin395; tiny proud chin lift424",
+      "words": [
+        {
+          "text": "I",
+          "startFrame": 375,
+          "endFrameExclusive": 379
+        },
+        {
+          "text": "hung",
+          "startFrame": 379,
+          "endFrameExclusive": 388
+        },
+        {
+          "text": "up,",
+          "startFrame": 388,
+          "endFrameExclusive": 395
+        },
+        {
+          "text": "grinning",
+          "startFrame": 395,
+          "endFrameExclusive": 414
+        },
+        {
+          "text": "like",
+          "startFrame": 414,
+          "endFrameExclusive": 421
+        },
+        {
+          "text": "a",
+          "startFrame": 421,
+          "endFrameExclusive": 424
+        },
+        {
+          "text": "genius.",
+          "startFrame": 424,
+          "endFrameExclusive": 447
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "startSeconds": 15.19,
+      "endSeconds": 19.73,
+      "startFrame": 456,
+      "endFrameExclusive": 592,
+      "frames": 136,
+      "label": "ONE HOUR LATER",
+      "set": "stadium",
+      "editorialIntent": "At the ballpark",
+      "cameraPlan": "34f dimensional field establish; hard cut490 to stands;22f nudge543 to hotdog.",
+      "actingPlan": "jersey presentation518; hotdog hand settled568",
+      "words": [
+        {
+          "text": "An",
+          "startFrame": 456,
+          "endFrameExclusive": 460
+        },
+        {
+          "text": "hour",
+          "startFrame": 460,
+          "endFrameExclusive": 468
+        },
+        {
+          "text": "later,",
+          "startFrame": 468,
+          "endFrameExclusive": 482
+        },
+        {
+          "text": "I",
+          "startFrame": 483,
+          "endFrameExclusive": 487
+        },
+        {
+          "text": "was",
+          "startFrame": 487,
+          "endFrameExclusive": 492
+        },
+        {
+          "text": "in",
+          "startFrame": 492,
+          "endFrameExclusive": 495
+        },
+        {
+          "text": "the",
+          "startFrame": 495,
+          "endFrameExclusive": 497
+        },
+        {
+          "text": "stands",
+          "startFrame": 497,
+          "endFrameExclusive": 511
+        },
+        {
+          "text": "in",
+          "startFrame": 511,
+          "endFrameExclusive": 513
+        },
+        {
+          "text": "my",
+          "startFrame": 513,
+          "endFrameExclusive": 518
+        },
+        {
+          "text": "lucky",
+          "startFrame": 518,
+          "endFrameExclusive": 531
+        },
+        {
+          "text": "jersey,",
+          "startFrame": 531,
+          "endFrameExclusive": 545
+        },
+        {
+          "text": "hot",
+          "startFrame": 545,
+          "endFrameExclusive": 556
+        },
+        {
+          "text": "dog",
+          "startFrame": 556,
+          "endFrameExclusive": 565
+        },
+        {
+          "text": "in",
+          "startFrame": 565,
+          "endFrameExclusive": 568
+        },
+        {
+          "text": "hand.",
+          "startFrame": 568,
+          "endFrameExclusive": 583
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "startSeconds": 19.73,
+      "endSeconds": 24.38,
+      "startFrame": 592,
+      "endFrameExclusive": 732,
+      "frames": 140,
+      "label": "FIFTH INNING",
+      "set": "stadium",
+      "editorialIntent": "Fan Cam ignition",
+      "cameraPlan": "24f board reframe618\u2013642; screen activates635\u2013642; sharp full board at675; cut684 to crowd.",
+      "actingPlan": "board onset just before lit637; crowd rises685\u2013700",
+      "words": [
+        {
+          "text": "In",
+          "startFrame": 592,
+          "endFrameExclusive": 594
+        },
+        {
+          "text": "the",
+          "startFrame": 594,
+          "endFrameExclusive": 597
+        },
+        {
+          "text": "fifth",
+          "startFrame": 597,
+          "endFrameExclusive": 606
+        },
+        {
+          "text": "inning,",
+          "startFrame": 606,
+          "endFrameExclusive": 617
+        },
+        {
+          "text": "the",
+          "startFrame": 617,
+          "endFrameExclusive": 620
+        },
+        {
+          "text": "big",
+          "startFrame": 620,
+          "endFrameExclusive": 628
+        },
+        {
+          "text": "screen",
+          "startFrame": 628,
+          "endFrameExclusive": 637
+        },
+        {
+          "text": "lit",
+          "startFrame": 637,
+          "endFrameExclusive": 647
+        },
+        {
+          "text": "up",
+          "startFrame": 647,
+          "endFrameExclusive": 652
+        },
+        {
+          "text": "with",
+          "startFrame": 652,
+          "endFrameExclusive": 656
+        },
+        {
+          "text": "the",
+          "startFrame": 656,
+          "endFrameExclusive": 659
+        },
+        {
+          "text": "Fan",
+          "startFrame": 659,
+          "endFrameExclusive": 669
+        },
+        {
+          "text": "Cam,",
+          "startFrame": 669,
+          "endFrameExclusive": 680
+        },
+        {
+          "text": "and",
+          "startFrame": 680,
+          "endFrameExclusive": 682
+        },
+        {
+          "text": "the",
+          "startFrame": 682,
+          "endFrameExclusive": 685
+        },
+        {
+          "text": "crowd",
+          "startFrame": 685,
+          "endFrameExclusive": 700
+        },
+        {
+          "text": "roared.",
+          "startFrame": 700,
+          "endFrameExclusive": 724
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "startSeconds": 24.38,
+      "endSeconds": 26.03,
+      "startFrame": 732,
+      "endFrameExclusive": 781,
+      "frames": 49,
+      "label": "FAN CAM \u00b7 LIVE",
+      "set": "stadium",
+      "editorialIntent": "Kid",
+      "cameraPlan": "22f purposeful sidestep744\u2013766 ends on kid768.",
+      "actingPlan": "kid wave/cheer766; read face through780",
+      "words": [
+        {
+          "text": "The",
+          "startFrame": 731,
+          "endFrameExclusive": 734
+        },
+        {
+          "text": "camera",
+          "startFrame": 734,
+          "endFrameExclusive": 744
+        },
+        {
+          "text": "swept",
+          "startFrame": 744,
+          "endFrameExclusive": 757
+        },
+        {
+          "text": "past",
+          "startFrame": 757,
+          "endFrameExclusive": 766
+        },
+        {
+          "text": "a",
+          "startFrame": 766,
+          "endFrameExclusive": 768
+        },
+        {
+          "text": "kid,",
+          "startFrame": 768,
+          "endFrameExclusive": 784
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "startSeconds": 26.03,
+      "endSeconds": 27.81,
+      "startFrame": 781,
+      "endFrameExclusive": 835,
+      "frames": 54,
+      "label": "FAN CAM \u00b7 LIVE",
+      "set": "stadium",
+      "editorialIntent": "Grandma",
+      "cameraPlan": "20f controlled reveal791\u2013811 on grandma794.",
+      "actingPlan": "grandma unexpected enthusiastic wave794\u2013813",
+      "words": [
+        {
+          "text": "past",
+          "startFrame": 784,
+          "endFrameExclusive": 793
+        },
+        {
+          "text": "a",
+          "startFrame": 793,
+          "endFrameExclusive": 794
+        },
+        {
+          "text": "grandma,",
+          "startFrame": 794,
+          "endFrameExclusive": 813
+        },
+        {
+          "text": "and",
+          "startFrame": 817,
+          "endFrameExclusive": 822
+        },
+        {
+          "text": "then",
+          "startFrame": 822,
+          "endFrameExclusive": 834
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "startSeconds": 27.81,
+      "endSeconds": 32.88,
+      "startFrame": 835,
+      "endFrameExclusive": 987,
+      "frames": 152,
+      "label": "FAN CAM \u00b7 LIVE",
+      "set": "stadium",
+      "editorialIntent": "Employee caught celebrating",
+      "cameraPlan": "Land835; cut mouth insert870; cut open918 so foam wave is physically visible.",
+      "actingPlan": "mouth stuffed871\u2013919; foam rises918\u2013936",
+      "words": [
+        {
+          "text": "landed",
+          "startFrame": 834,
+          "endFrameExclusive": 848
+        },
+        {
+          "text": "on",
+          "startFrame": 848,
+          "endFrameExclusive": 853
+        },
+        {
+          "text": "me:",
+          "startFrame": 853,
+          "endFrameExclusive": 864
+        },
+        {
+          "text": "mouth",
+          "startFrame": 871,
+          "endFrameExclusive": 882
+        },
+        {
+          "text": "stuffed",
+          "startFrame": 882,
+          "endFrameExclusive": 898
+        },
+        {
+          "text": "with",
+          "startFrame": 898,
+          "endFrameExclusive": 902
+        },
+        {
+          "text": "hot",
+          "startFrame": 902,
+          "endFrameExclusive": 910
+        },
+        {
+          "text": "dog,",
+          "startFrame": 910,
+          "endFrameExclusive": 920
+        },
+        {
+          "text": "waving",
+          "startFrame": 920,
+          "endFrameExclusive": 933
+        },
+        {
+          "text": "a",
+          "startFrame": 933,
+          "endFrameExclusive": 936
+        },
+        {
+          "text": "giant",
+          "startFrame": 936,
+          "endFrameExclusive": 952
+        },
+        {
+          "text": "foam",
+          "startFrame": 952,
+          "endFrameExclusive": 962
+        },
+        {
+          "text": "finger.",
+          "startFrame": 962,
+          "endFrameExclusive": 977
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "startSeconds": 32.88,
+      "endSeconds": 34.26,
+      "startFrame": 987,
+      "endFrameExclusive": 1028,
+      "frames": 41,
+      "label": "THE CROWD GOES WILD",
+      "set": "stadium",
+      "editorialIntent": "Crowd reaction",
+      "cameraPlan": "41f sharp crowd reaction; short rocking bodies, not synchronized bobbing.",
+      "actingPlan": "cheer986\u20131020",
+      "words": [
+        {
+          "text": "Everybody",
+          "startFrame": 986,
+          "endFrameExclusive": 1004
+        },
+        {
+          "text": "cheered.",
+          "startFrame": 1004,
+          "endFrameExclusive": 1020
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "startSeconds": 34.26,
+      "endSeconds": 36.15,
+      "startFrame": 1028,
+      "endFrameExclusive": 1085,
+      "frames": 57,
+      "label": "LOCAL CELEBRITY",
+      "set": "stadium",
+      "editorialIntent": "Celebrity",
+      "cameraPlan": "18f roll/reframe1052\u20131070 supports overconfident performance.",
+      "actingPlan": "wave1031\u20131050; smug grin1055\u20131076",
+      "words": [
+        {
+          "text": "I",
+          "startFrame": 1028,
+          "endFrameExclusive": 1031
+        },
+        {
+          "text": "waved",
+          "startFrame": 1031,
+          "endFrameExclusive": 1041
+        },
+        {
+          "text": "back",
+          "startFrame": 1041,
+          "endFrameExclusive": 1050
+        },
+        {
+          "text": "like",
+          "startFrame": 1050,
+          "endFrameExclusive": 1054
+        },
+        {
+          "text": "a",
+          "startFrame": 1054,
+          "endFrameExclusive": 1055
+        },
+        {
+          "text": "celebrity.",
+          "startFrame": 1055,
+          "endFrameExclusive": 1076
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "startSeconds": 36.15,
+      "endSeconds": 40.84,
+      "startFrame": 1085,
+      "endFrameExclusive": 1226,
+      "frames": 141,
+      "label": "RIGHT. BEHIND. ME.",
+      "set": "stadium",
+      "editorialIntent": "Someone right behind",
+      "cameraPlan": "Close employee notices; hard cut 1136 to a high/down two-plane view: near-left employee face/shoulder and rear-right anonymous boss shirt/seat, mouth/eyes above frame. Cut 1170 to actual waving LEFT hand; quiet push to 1225.",
+      "actingPlan": "employee notice1101\u20131115; boss chest-height wave1170\u20131210",
+      "words": [
+        {
+          "text": "Then",
+          "startFrame": 1084,
+          "endFrameExclusive": 1099
+        },
+        {
+          "text": "I",
+          "startFrame": 1099,
+          "endFrameExclusive": 1104
+        },
+        {
+          "text": "noticed",
+          "startFrame": 1104,
+          "endFrameExclusive": 1118
+        },
+        {
+          "text": "the",
+          "startFrame": 1118,
+          "endFrameExclusive": 1120
+        },
+        {
+          "text": "man",
+          "startFrame": 1120,
+          "endFrameExclusive": 1129
+        },
+        {
+          "text": "sitting",
+          "startFrame": 1129,
+          "endFrameExclusive": 1139
+        },
+        {
+          "text": "right",
+          "startFrame": 1139,
+          "endFrameExclusive": 1150
+        },
+        {
+          "text": "behind",
+          "startFrame": 1150,
+          "endFrameExclusive": 1163
+        },
+        {
+          "text": "me,",
+          "startFrame": 1163,
+          "endFrameExclusive": 1171
+        },
+        {
+          "text": "waving",
+          "startFrame": 1171,
+          "endFrameExclusive": 1182
+        },
+        {
+          "text": "at",
+          "startFrame": 1182,
+          "endFrameExclusive": 1185
+        },
+        {
+          "text": "the",
+          "startFrame": 1185,
+          "endFrameExclusive": 1187
+        },
+        {
+          "text": "camera",
+          "startFrame": 1187,
+          "endFrameExclusive": 1198
+        },
+        {
+          "text": "too.",
+          "startFrame": 1198,
+          "endFrameExclusive": 1212
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "startSeconds": 40.84,
+      "endSeconds": 42.1,
+      "startFrame": 1226,
+      "endFrameExclusive": 1263,
+      "frames": 37,
+      "label": "HAWAIIAN SHIRT.",
+      "set": "stadium",
+      "editorialIntent": "Hawaiian shirt clue",
+      "cameraPlan": "37-frame wider shirt-silhouette insert, FOV 29.5; modest .0014/frame push. Enough torso/seat context to read the garment rather than an abstract pattern.",
+      "actingPlan": "shirt readable1226\u20131254; no head reaction revealed yet",
+      "words": [
+        {
+          "text": "Hawaiian",
+          "startFrame": 1225,
+          "endFrameExclusive": 1238
+        },
+        {
+          "text": "shirt.",
+          "startFrame": 1238,
+          "endFrameExclusive": 1254
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "startSeconds": 42.1,
+      "endSeconds": 43.64,
+      "startFrame": 1263,
+      "endFrameExclusive": 1310,
+      "frames": 47,
+      "label": "GIANT BEER.",
+      "set": "stadium",
+      "editorialIntent": "Giant beer clue",
+      "cameraPlan": "47-frame whole-cup/right-hand insert; camera (2.05, 2.10, 2.10) toward (1.70, 2.04, -1.395), FOV 20, .0015/frame push. Cup occupies approximately 72\u201378% height; eyes and moustache stay above frame.",
+      "actingPlan": "tiny beer toast1263\u20131279 then steady on beer1279\u20131296",
+      "words": [
+        {
+          "text": "Giant",
+          "startFrame": 1263,
+          "endFrameExclusive": 1279
+        },
+        {
+          "text": "beer.",
+          "startFrame": 1279,
+          "endFrameExclusive": 1296
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "startSeconds": 43.64,
+      "endSeconds": 44.91,
+      "startFrame": 1310,
+      "endFrameExclusive": 1348,
+      "frames": 38,
+      "label": "MY BOSS.",
+      "set": "stadium",
+      "editorialIntent": "My boss reveal",
+      "cameraPlan": "Cut1310 to centered recognisable repo boss;18f roll1313\u20131331; no camera shake.",
+      "actingPlan": "smile drains1313\u20131327; wave cancels1311\u20131317; beer settles1327\u20131342",
+      "words": [
+        {
+          "text": "My",
+          "startFrame": 1309,
+          "endFrameExclusive": 1315
+        },
+        {
+          "text": "boss.",
+          "startFrame": 1315,
+          "endFrameExclusive": 1334
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "startSeconds": 44.91,
+      "endSeconds": 46.27,
+      "startFrame": 1348,
+      "endFrameExclusive": 1389,
+      "frames": 41,
+      "label": "OH.",
+      "set": "stadium",
+      "editorialIntent": "Mutual recognition",
+      "cameraPlan": "Cut 1348 to three-quarter right-side two-shot, actual repository cInf 12 and midpoint of rotated eye anchors. Body yaw employee 1.05 rad, boss .78 rad. Both faces remain readable. V3 FOV 46 and center shifted 0.10 m screen-right to preserve cup handle while retaining left foam.",
+      "actingPlan": "both gazes shift1349\u20131359; lock complete3f before eyes1362",
+      "words": [
+        {
+          "text": "We",
+          "startFrame": 1347,
+          "endFrameExclusive": 1351
+        },
+        {
+          "text": "locked",
+          "startFrame": 1351,
+          "endFrameExclusive": 1362
+        },
+        {
+          "text": "eyes.",
+          "startFrame": 1362,
+          "endFrameExclusive": 1378
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "startSeconds": 46.27,
+      "endSeconds": 48.71,
+      "startFrame": 1389,
+      "endFrameExclusive": 1462,
+      "frames": 73,
+      "label": "NOT A CELEBRITY",
+      "set": "stadium",
+      "editorialIntent": "Foam finger falls",
+      "cameraPlan": "Same camera at1389;24f modest downward/open reframe1406\u20131430 retains both faces.",
+      "actingPlan": "anticipation1390\u20131412; foam descent1413\u20131447; fourteen-frame aftermath1448\u20131461",
+      "words": [
+        {
+          "text": "My",
+          "startFrame": 1388,
+          "endFrameExclusive": 1392
+        },
+        {
+          "text": "foam",
+          "startFrame": 1392,
+          "endFrameExclusive": 1403
+        },
+        {
+          "text": "finger",
+          "startFrame": 1403,
+          "endFrameExclusive": 1416
+        },
+        {
+          "text": "slowly",
+          "startFrame": 1416,
+          "endFrameExclusive": 1432
+        },
+        {
+          "text": "dropped.",
+          "startFrame": 1432,
+          "endFrameExclusive": 1449
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "startSeconds": 48.71,
+      "endSeconds": 52.21,
+      "startFrame": 1462,
+      "endFrameExclusive": 1567,
+      "frames": 105,
+      "label": "AWKWARD.",
+      "set": "stadium",
+      "editorialIntent": "Comic breath hold",
+      "cameraPlan": "105f described ten-second beat, not literal extra ten seconds. Slow push;20f gentle reframe1514\u20131534.",
+      "actingPlan": "no blinks/breath on1515\u20131555; background lowenergy; preserve eye contact",
+      "words": [
+        {
+          "text": "For",
+          "startFrame": 1461,
+          "endFrameExclusive": 1465
+        },
+        {
+          "text": "ten",
+          "startFrame": 1465,
+          "endFrameExclusive": 1478
+        },
+        {
+          "text": "whole",
+          "startFrame": 1478,
+          "endFrameExclusive": 1489
+        },
+        {
+          "text": "seconds,",
+          "startFrame": 1489,
+          "endFrameExclusive": 1512
+        },
+        {
+          "text": "neither",
+          "startFrame": 1515,
+          "endFrameExclusive": 1529
+        },
+        {
+          "text": "of",
+          "startFrame": 1529,
+          "endFrameExclusive": 1533
+        },
+        {
+          "text": "us",
+          "startFrame": 1533,
+          "endFrameExclusive": 1537
+        },
+        {
+          "text": "breathed.",
+          "startFrame": 1537,
+          "endFrameExclusive": 1555
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "startSeconds": 52.21,
+      "endSeconds": 54.65,
+      "startFrame": 1567,
+      "endFrameExclusive": 1640,
+      "frames": 73,
+      "label": "INVISIBLE. PROBABLY.",
+      "set": "stadium",
+      "editorialIntent": "Hotdog hiding",
+      "cameraPlan": "24f small downward follow1582\u20131606; no jump to a duck pose.",
+      "actingPlan": "anticipate1584; crouch1591\u20131607; comically insufficient hotdog camouflage1610\u20131627",
+      "words": [
+        {
+          "text": "Then",
+          "startFrame": 1566,
+          "endFrameExclusive": 1580
+        },
+        {
+          "text": "I",
+          "startFrame": 1587,
+          "endFrameExclusive": 1591
+        },
+        {
+          "text": "ducked",
+          "startFrame": 1591,
+          "endFrameExclusive": 1598
+        },
+        {
+          "text": "behind",
+          "startFrame": 1598,
+          "endFrameExclusive": 1607
+        },
+        {
+          "text": "my",
+          "startFrame": 1607,
+          "endFrameExclusive": 1610
+        },
+        {
+          "text": "hot",
+          "startFrame": 1610,
+          "endFrameExclusive": 1617
+        },
+        {
+          "text": "dog.",
+          "startFrame": 1617,
+          "endFrameExclusive": 1627
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "startSeconds": 54.65,
+      "endSeconds": 58.41,
+      "startFrame": 1640,
+      "endFrameExclusive": 1753,
+      "frames": 113,
+      "label": "MONDAY MORNING",
+      "set": "office",
+      "editorialIntent": "Monday dread",
+      "cameraPlan": "Walk establish; cut1699 to anxiety on heart; no extra transit time.",
+      "actingPlan": "feet contact1667\u20131700; anxious hands1710; pulse1724",
+      "words": [
+        {
+          "text": "On",
+          "startFrame": 1640,
+          "endFrameExclusive": 1644
+        },
+        {
+          "text": "Monday",
+          "startFrame": 1644,
+          "endFrameExclusive": 1653
+        },
+        {
+          "text": "morning,",
+          "startFrame": 1653,
+          "endFrameExclusive": 1667
+        },
+        {
+          "text": "I",
+          "startFrame": 1667,
+          "endFrameExclusive": 1671
+        },
+        {
+          "text": "walked",
+          "startFrame": 1671,
+          "endFrameExclusive": 1682
+        },
+        {
+          "text": "into",
+          "startFrame": 1682,
+          "endFrameExclusive": 1688
+        },
+        {
+          "text": "the",
+          "startFrame": 1688,
+          "endFrameExclusive": 1692
+        },
+        {
+          "text": "office",
+          "startFrame": 1692,
+          "endFrameExclusive": 1702
+        },
+        {
+          "text": "with",
+          "startFrame": 1702,
+          "endFrameExclusive": 1706
+        },
+        {
+          "text": "my",
+          "startFrame": 1706,
+          "endFrameExclusive": 1710
+        },
+        {
+          "text": "heart",
+          "startFrame": 1710,
+          "endFrameExclusive": 1724
+        },
+        {
+          "text": "pounding.",
+          "startFrame": 1724,
+          "endFrameExclusive": 1743
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "startSeconds": 58.41,
+      "endSeconds": 60.4,
+      "startFrame": 1753,
+      "endFrameExclusive": 1812,
+      "frames": 59,
+      "label": "A NOTE.",
+      "set": "office",
+      "editorialIntent": "The note",
+      "cameraPlan": "Reveal1753;22f paper move1772\u20131794; do not reveal interpretation too early.",
+      "actingPlan": "hand approaches1758\u20131774; touch/pickup anchored1774\u20131803",
+      "words": [
+        {
+          "text": "There",
+          "startFrame": 1752,
+          "endFrameExclusive": 1755
+        },
+        {
+          "text": "was",
+          "startFrame": 1755,
+          "endFrameExclusive": 1759
+        },
+        {
+          "text": "a",
+          "startFrame": 1759,
+          "endFrameExclusive": 1760
+        },
+        {
+          "text": "sticky",
+          "startFrame": 1760,
+          "endFrameExclusive": 1773
+        },
+        {
+          "text": "note",
+          "startFrame": 1773,
+          "endFrameExclusive": 1779
+        },
+        {
+          "text": "on",
+          "startFrame": 1779,
+          "endFrameExclusive": 1782
+        },
+        {
+          "text": "my",
+          "startFrame": 1782,
+          "endFrameExclusive": 1786
+        },
+        {
+          "text": "desk:",
+          "startFrame": 1786,
+          "endFrameExclusive": 1802
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "startSeconds": 60.4,
+      "endSeconds": 64.05,
+      "startFrame": 1812,
+      "endFrameExclusive": 1922,
+      "frames": 110,
+      "label": "FEEL BETTER SOON.",
+      "set": "office",
+      "editorialIntent": "Conspiracy relief",
+      "cameraPlan": "Legible note for two quoted lines1812\u20131880; cut1881 to relieved employee.",
+      "actingPlan": "eyes track reading1812\u20131876; relief1883\u20131908",
+      "words": [
+        {
+          "text": "\"You",
+          "startFrame": 1812,
+          "endFrameExclusive": 1817
+        },
+        {
+          "text": "didn't",
+          "startFrame": 1817,
+          "endFrameExclusive": 1823
+        },
+        {
+          "text": "see",
+          "startFrame": 1823,
+          "endFrameExclusive": 1829
+        },
+        {
+          "text": "me.",
+          "startFrame": 1829,
+          "endFrameExclusive": 1840
+        },
+        {
+          "text": "I",
+          "startFrame": 1846,
+          "endFrameExclusive": 1851
+        },
+        {
+          "text": "didn't",
+          "startFrame": 1851,
+          "endFrameExclusive": 1857
+        },
+        {
+          "text": "see",
+          "startFrame": 1857,
+          "endFrameExclusive": 1864
+        },
+        {
+          "text": "you.",
+          "startFrame": 1864,
+          "endFrameExclusive": 1876
+        },
+        {
+          "text": "Feel",
+          "startFrame": 1883,
+          "endFrameExclusive": 1889
+        },
+        {
+          "text": "better",
+          "startFrame": 1889,
+          "endFrameExclusive": 1896
+        },
+        {
+          "text": "soon.\"",
+          "startFrame": 1896,
+          "endFrameExclusive": 1908
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "startSeconds": 64.05,
+      "endSeconds": 66.57,
+      "startFrame": 1922,
+      "endFrameExclusive": 1998,
+      "frames": 76,
+      "label": "9:00 AM \u00b7 TEAM MEETING",
+      "set": "meeting",
+      "editorialIntent": "Stand up",
+      "cameraPlan": "26f meeting establish; cut1948 to full seated boss before rise. Camera follows22f only.",
+      "actingPlan": "seat confirmed1957; lean1955\u20131967; rise1967\u20131986; settle1986\u20131997; feet planted",
+      "words": [
+        {
+          "text": "At",
+          "startFrame": 1922,
+          "endFrameExclusive": 1925
+        },
+        {
+          "text": "the",
+          "startFrame": 1925,
+          "endFrameExclusive": 1927
+        },
+        {
+          "text": "9",
+          "startFrame": 1927,
+          "endFrameExclusive": 1935
+        },
+        {
+          "text": "AM",
+          "startFrame": 1935,
+          "endFrameExclusive": 1944
+        },
+        {
+          "text": "meeting,",
+          "startFrame": 1944,
+          "endFrameExclusive": 1957
+        },
+        {
+          "text": "my",
+          "startFrame": 1957,
+          "endFrameExclusive": 1961
+        },
+        {
+          "text": "boss",
+          "startFrame": 1961,
+          "endFrameExclusive": 1971
+        },
+        {
+          "text": "stood",
+          "startFrame": 1971,
+          "endFrameExclusive": 1978
+        },
+        {
+          "text": "up.",
+          "startFrame": 1978,
+          "endFrameExclusive": 1989
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "startSeconds": 66.57,
+      "endSeconds": 67.7,
+      "startFrame": 1998,
+      "endFrameExclusive": 2031,
+      "frames": 33,
+      "label": "GREAT NEWS, TEAM.",
+      "set": "meeting",
+      "editorialIntent": "Great news",
+      "cameraPlan": "Clean boss announcement shot; no extra close-up changes within33f.",
+      "actingPlan": "hands open1998\u20132015; confident face",
+      "words": [
+        {
+          "text": "\"Great",
+          "startFrame": 1997,
+          "endFrameExclusive": 2005
+        },
+        {
+          "text": "news,",
+          "startFrame": 2005,
+          "endFrameExclusive": 2015
+        },
+        {
+          "text": "team.",
+          "startFrame": 2015,
+          "endFrameExclusive": 2027
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "startSeconds": 67.7,
+      "endSeconds": 71.43,
+      "startFrame": 2031,
+      "endFrameExclusive": 2143,
+      "frames": 112,
+      "label": "+1 PERSONAL DAY",
+      "set": "meeting",
+      "editorialIntent": "Personal day payoff",
+      "cameraPlan": "Room reaction, then cut2085 on one to boss/sign reveal.",
+      "actingPlan": "announcement appears2087; employee surprised2087\u20132110; group relief2124",
+      "words": [
+        {
+          "text": "Starting",
+          "startFrame": 2031,
+          "endFrameExclusive": 2044
+        },
+        {
+          "text": "this",
+          "startFrame": 2044,
+          "endFrameExclusive": 2051
+        },
+        {
+          "text": "month,",
+          "startFrame": 2051,
+          "endFrameExclusive": 2063
+        },
+        {
+          "text": "everyone",
+          "startFrame": 2066,
+          "endFrameExclusive": 2081
+        },
+        {
+          "text": "gets",
+          "startFrame": 2081,
+          "endFrameExclusive": 2087
+        },
+        {
+          "text": "one",
+          "startFrame": 2087,
+          "endFrameExclusive": 2098
+        },
+        {
+          "text": "extra",
+          "startFrame": 2098,
+          "endFrameExclusive": 2110
+        },
+        {
+          "text": "personal",
+          "startFrame": 2110,
+          "endFrameExclusive": 2124
+        },
+        {
+          "text": "day.\"",
+          "startFrame": 2124,
+          "endFrameExclusive": 2134
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "startSeconds": 71.43,
+      "endSeconds": 72.76,
+      "startFrame": 2143,
+      "endFrameExclusive": 2183,
+      "frames": 40,
+      "label": "THE GLANCE",
+      "set": "meeting",
+      "editorialIntent": "Shared glance",
+      "cameraPlan": "Boss close2143; reverse reaction2159.",
+      "actingPlan": "boss glance2144\u20132155; employee receives2158\u20132168",
+      "words": [
+        {
+          "text": "He",
+          "startFrame": 2143,
+          "endFrameExclusive": 2146
+        },
+        {
+          "text": "glanced",
+          "startFrame": 2146,
+          "endFrameExclusive": 2158
+        },
+        {
+          "text": "at",
+          "startFrame": 2158,
+          "endFrameExclusive": 2161
+        },
+        {
+          "text": "me.",
+          "startFrame": 2161,
+          "endFrameExclusive": 2171
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "startSeconds": 72.76,
+      "endSeconds": 75.1,
+      "startFrame": 2183,
+      "endFrameExclusive": 2253,
+      "frames": 70,
+      "label": "STAY AWAY FROM THE FAN CAM.",
+      "set": "meeting",
+      "editorialIntent": "Callback",
+      "cameraPlan": "Group relation for warning; cut2223 to employee just ahead of Fan2226.",
+      "actingPlan": "employee gives tiny caught/knowing reaction2226\u20132248; no end fade before voice ends",
+      "words": [
+        {
+          "text": "\"Just",
+          "startFrame": 2183,
+          "endFrameExclusive": 2194
+        },
+        {
+          "text": "stay",
+          "startFrame": 2201,
+          "endFrameExclusive": 2211
+        },
+        {
+          "text": "away",
+          "startFrame": 2211,
+          "endFrameExclusive": 2219
+        },
+        {
+          "text": "from",
+          "startFrame": 2219,
+          "endFrameExclusive": 2224
+        },
+        {
+          "text": "the",
+          "startFrame": 2224,
+          "endFrameExclusive": 2226
+        },
+        {
+          "text": "Fan",
+          "startFrame": 2226,
+          "endFrameExclusive": 2236
+        },
+        {
+          "text": "Cam.\"",
+          "startFrame": 2236,
+          "endFrameExclusive": 2248
+        }
+      ]
+    }
+  ],
+  "rigContract": {
+    "seatedEyeLocal": {
+      "employee": 2.155,
+      "boss": 2.178
+    },
+    "cardZ": 0.44,
+    "eyeZ": 0.51,
+    "propZ": 0.505,
+    "reactionRootYaw": {
+      "employee": 1.05,
+      "boss": 0.78
+    },
+    "beerRightHand": [
+      0.55,
+      1.4,
+      0.505
+    ],
+    "beerScale": 1.65,
+    "foamLeftHandHigh": [
+      -0.58,
+      1.96,
+      0.505
+    ],
+    "foamLeftHandLow": [
+      -0.58,
+      0.94,
+      0.505
+    ],
+    "reactionDOF": 12,
+    "seatOffsetSpace": "world",
+    "seatWorldForwardZ": 0.44,
+    "eyeLocalPlaneZ": 0.07,
+    "propLocalPlaneZ": 0.065,
+    "eyeFormula": "root + yaw * (0, eyeY, .070) + (0, 0, .44)"
+  }
+}

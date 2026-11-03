@@ -1,0 +1,20 @@
+import React,{useMemo} from 'react';
+import * as THREE from 'three';
+import {AbsoluteFill,useCurrentFrame,getInputProps,Audio,staticFile} from 'remotion';
+import {ThreeCanvas} from '@remotion/three';
+import {useThree} from '@react-three/fiber';
+import {EffectComposer} from '@react-three/postprocessing';
+import {BloomEffect,BlendFunction,ToneMappingEffect,ToneMappingMode} from 'postprocessing';
+import {World} from './world';
+import {InkPass} from './ink';
+import {LensBlur} from './lensblur';
+import {GradeEffect,GRADES,gradeFor} from './grade';
+const Inner:React.FC=()=>{
+ const frame=useCurrentFrame();const {scene,camera}=useThree();
+ const world=useMemo(()=>new World(),[]);
+ const fx=useMemo(()=>({ink:new InkPass(scene,camera as THREE.PerspectiveCamera,{widthNear:3.7,widthFar:2.2,color:'#181923'}),lens:new LensBlur({maxCoC:20,nearScale:1.05}),bloom:new BloomEffect({blendFunction:BlendFunction.ADD,intensity:.32,luminanceThreshold:1.05,mipmapBlur:true,levels:5,radius:.55}),tone:new ToneMappingEffect({mode:ToneMappingMode.NEUTRAL}),grade:new GradeEffect(GRADES.day,.65)}),[scene,camera]);
+ const state=world.update(frame,camera as THREE.PerspectiveCamera,scene);
+ fx.lens.focus=state.focus;fx.lens.cInf=state.dof;gradeFor(fx.grade,state.light);fx.grade.amount=state.stage==='atoms'?.25:.62;
+ return <><primitive object={world.root}/><EffectComposer multisampling={4}><primitive object={fx.ink}/><primitive object={fx.lens.pre}/><primitive object={fx.lens.main}/><primitive object={fx.bloom}/><primitive object={fx.tone}/><primitive object={fx.grade}/></EffectComposer></>;
+};
+export const EiffelShort:React.FC=()=>{const props=getInputProps() as {dpr?:number};return <AbsoluteFill style={{background:'#93b9e5'}}><Audio src={staticFile('audio/mix.wav')}/><ThreeCanvas width={1080} height={1920} dpr={props.dpr??1} shadows gl={{antialias:false,stencil:false,powerPreference:'high-performance'}} camera={{fov:43,near:.1,far:500}}><Inner/></ThreeCanvas></AbsoluteFill>;};

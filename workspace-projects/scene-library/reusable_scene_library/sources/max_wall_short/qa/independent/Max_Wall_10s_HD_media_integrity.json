@@ -1,0 +1,30 @@
+{
+  "video": "/workspace/scratch/81cf969d0a39/max_wall_short/outputs/preview_v01/Max_Wall_10s_HD.mp4",
+  "sha256": "80a712b19afb4b5f5d64d121b1f19a0f94b4658ceb43577847994d8607ffb743",
+  "bytes": 4974777,
+  "method": "ffprobe counted decodedframes;ffmpeg full decode;crosscorrelation of decoded16kmono source vs mux. These do not establish subjective motion or listening quality.",
+  "videoStream": {
+    "codec_name": "h264",
+    "width": 1080,
+    "height": 1920,
+    "r_frame_rate": "30/1",
+    "avg_frame_rate": "30/1",
+    "nb_frames": "300",
+    "nb_read_frames": "300",
+    "duration": "10.000000",
+    "pix_fmt": "yuv420p"
+  },
+  "audioStream": {
+    "codec_name": "aac",
+    "sample_rate": "44100",
+    "channels": 1,
+    "duration": "10.000000",
+    "start_time": "0.000000"
+  },
+  "sourceAudioSha256": "3c2934a5b65079635d018ff24e308277810873583b65372356614fd6b23a9eb9",
+  "audioLagMilliseconds": 0.0,
+  "audioCorrelation": 0.999971517835254,
+  "decodePass": true,
+  "issues": [],
+  "pass": true
+}

@@ -1,0 +1,14 @@
+node_modules
+.bundle/
+outputs/
+qa/*.png
+qa/*.jpg
+.audio*/
+.alignment-venv/
+.library_helpers/
+audio/
+docs/narration_16k.wav
+docs/alignment.log
+
+qa/independent/motion_sheets/
+qa/independent/previewframes/

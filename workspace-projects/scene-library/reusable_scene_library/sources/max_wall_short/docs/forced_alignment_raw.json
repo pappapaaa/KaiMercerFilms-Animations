@@ -1,0 +1,2403 @@
+[
+  {
+    "paragraph": 0,
+    "word": "<sil>",
+    "start": 0.0,
+    "end": 0.08,
+    "prob": 0.9381956119317141
+  },
+  {
+    "paragraph": 0,
+    "word": "my",
+    "start": 0.08,
+    "end": 0.26,
+    "prob": 0.9800036429119603
+  },
+  {
+    "paragraph": 0,
+    "word": "dog",
+    "start": 0.26,
+    "end": 0.53,
+    "prob": 0.9751160981144337
+  },
+  {
+    "paragraph": 0,
+    "word": "max",
+    "start": 0.53,
+    "end": 0.99,
+    "prob": 0.9701559132412462
+  },
+  {
+    "paragraph": 0,
+    "word": "had",
+    "start": 0.99,
+    "end": 1.16,
+    "prob": 0.9814746778261886
+  },
+  {
+    "paragraph": 0,
+    "word": "barked",
+    "start": 1.16,
+    "end": 1.42,
+    "prob": 0.9621373431798407
+  },
+  {
+    "paragraph": 0,
+    "word": "at",
+    "start": 1.42,
+    "end": 1.53,
+    "prob": 0.9724869670279723
+  },
+  {
+    "paragraph": 0,
+    "word": "the",
+    "start": 1.53,
+    "end": 1.6,
+    "prob": 0.9907435719165536
+  },
+  {
+    "paragraph": 0,
+    "word": "same",
+    "start": 1.6,
+    "end": 2.1,
+    "prob": 0.9386648035666235
+  },
+  {
+    "paragraph": 0,
+    "word": "wall",
+    "start": 2.1,
+    "end": 2.4,
+    "prob": 0.9789262854269787
+  },
+  {
+    "paragraph": 0,
+    "word": "at",
+    "start": 2.4,
+    "end": 2.63,
+    "prob": 0.960407140120713
+  },
+  {
+    "paragraph": 0,
+    "word": "three",
+    "start": 2.63,
+    "end": 2.9,
+    "prob": 0.9764821483624829
+  },
+  {
+    "paragraph": 0,
+    "word": "a.m.",
+    "start": 2.9,
+    "end": 3.31,
+    "prob": 0.9638706632530979
+  },
+  {
+    "paragraph": 0,
+    "word": "every(2)",
+    "start": 3.31,
+    "end": 3.83,
+    "prob": 0.8863937886510224
+  },
+  {
+    "paragraph": 0,
+    "word": "night",
+    "start": 3.83,
+    "end": 4.19,
+    "prob": 0.9549486637769518
+  },
+  {
+    "paragraph": 0,
+    "word": "for(3)",
+    "start": 4.19,
+    "end": 4.43,
+    "prob": 0.9637742858245154
+  },
+  {
+    "paragraph": 0,
+    "word": "a",
+    "start": 4.43,
+    "end": 4.46,
+    "prob": 0.9822601324363287
+  },
+  {
+    "paragraph": 0,
+    "word": "week",
+    "start": 4.46,
+    "end": 5.0,
+    "prob": 0.9533267111951039
+  },
+  {
+    "paragraph": 0,
+    "word": "<sil>",
+    "start": 5.0,
+    "end": 5.11,
+    "prob": 0.9548531784591059
+  },
+  {
+    "paragraph": 0,
+    "word": "and(2)",
+    "start": 5.11,
+    "end": 5.23,
+    "prob": 0.978143496694661
+  },
+  {
+    "paragraph": 0,
+    "word": "i",
+    "start": 5.23,
+    "end": 5.29,
+    "prob": 0.982849635874457
+  },
+  {
+    "paragraph": 0,
+    "word": "was(2)",
+    "start": 5.29,
+    "end": 5.46,
+    "prob": 0.9724869670279723
+  },
+  {
+    "paragraph": 0,
+    "word": "about",
+    "start": 5.46,
+    "end": 5.74,
+    "prob": 0.9701559132412462
+  },
+  {
+    "paragraph": 0,
+    "word": "to(2)",
+    "start": 5.74,
+    "end": 5.83,
+    "prob": 0.9887641638093535
+  },
+  {
+    "paragraph": 0,
+    "word": "give",
+    "start": 5.83,
+    "end": 6.04,
+    "prob": 0.984324942767717
+  },
+  {
+    "paragraph": 0,
+    "word": "him(2)",
+    "start": 6.04,
+    "end": 6.17,
+    "prob": 0.9550441586433295
+  },
+  {
+    "paragraph": 0,
+    "word": "away",
+    "start": 6.17,
+    "end": 6.74,
+    "prob": 0.9605992311528085
+  },
+  {
+    "paragraph": 0,
+    "word": "<sil>",
+    "start": 6.74,
+    "end": 7.09,
+    "prob": 0.9518978644723943
+  },
+  {
+    "paragraph": 1,
+    "word": "<sil>",
+    "start": 7.1,
+    "end": 7.24,
+    "prob": 0.9510415845913922
+  },
+  {
+    "paragraph": 1,
+    "word": "the",
+    "start": 7.24,
+    "end": 7.33,
+    "prob": 0.9907435719165536
+  },
+  {
+    "paragraph": 1,
+    "word": "first",
+    "start": 7.33,
+    "end": 7.68,
+    "prob": 0.9621373431798407
+  },
+  {
+    "paragraph": 1,
+    "word": "night",
+    "start": 7.68,
+    "end": 8.07,
+    "prob": 0.9536127378092171
+  },
+  {
+    "paragraph": 1,
+    "word": "i",
+    "start": 8.07,
+    "end": 8.17,
+    "prob": 0.9803957031732637
+  },
+  {
+    "paragraph": 1,
+    "word": "figured",
+    "start": 8.17,
+    "end": 8.56,
+    "prob": 0.935572469486366
+  },
+  {
+    "paragraph": 1,
+    "word": "he",
+    "start": 8.56,
+    "end": 8.66,
+    "prob": 0.966476500050923
+  },
+  {
+    "paragraph": 1,
+    "word": "heard",
+    "start": 8.66,
+    "end": 8.83,
+    "prob": 0.9812784123309384
+  },
+  {
+    "paragraph": 1,
+    "word": "a",
+    "start": 8.83,
+    "end": 8.87,
+    "prob": 0.9924291840740108
+  },
+  {
+    "paragraph": 1,
+    "word": "mouse",
+    "start": 8.87,
+    "end": 9.49,
+    "prob": 0.968701842899071
+  },
+  {
+    "paragraph": 1,
+    "word": "<sil>",
+    "start": 9.49,
+    "end": 9.74,
+    "prob": 0.9309996056906393
+  },
+  {
+    "paragraph": 1,
+    "word": "i",
+    "start": 9.74,
+    "end": 9.81,
+    "prob": 0.9809840876741325
+  },
+  {
+    "paragraph": 1,
+    "word": "pressed",
+    "start": 9.81,
+    "end": 10.12,
+    "prob": 0.9661866150798345
+  },
+  {
+    "paragraph": 1,
+    "word": "my",
+    "start": 10.12,
+    "end": 10.24,
+    "prob": 0.9864927329490042
+  },
+  {
+    "paragraph": 1,
+    "word": "ear",
+    "start": 10.24,
+    "end": 10.51,
+    "prob": 0.9764821483624829
+  },
+  {
+    "paragraph": 1,
+    "word": "against",
+    "start": 10.51,
+    "end": 10.77,
+    "prob": 0.9584883412172891
+  },
+  {
+    "paragraph": 1,
+    "word": "the",
+    "start": 10.77,
+    "end": 10.83,
+    "prob": 0.990644507465807
+  },
+  {
+    "paragraph": 1,
+    "word": "wall",
+    "start": 10.83,
+    "end": 11.34,
+    "prob": 0.9506612630426967
+  },
+  {
+    "paragraph": 1,
+    "word": "and",
+    "start": 11.34,
+    "end": 11.55,
+    "prob": 0.9516123522174069
+  },
+  {
+    "paragraph": 1,
+    "word": "heard",
+    "start": 11.55,
+    "end": 11.8,
+    "prob": 0.9812784123309384
+  },
+  {
+    "paragraph": 1,
+    "word": "nothing",
+    "start": 11.8,
+    "end": 12.35,
+    "prob": 0.946393111306585
+  },
+  {
+    "paragraph": 1,
+    "word": "<sil>",
+    "start": 12.35,
+    "end": 12.75,
+    "prob": 0.9445023110528981
+  },
+  {
+    "paragraph": 1,
+    "word": "max",
+    "start": 12.75,
+    "end": 13.29,
+    "prob": 0.9631962235916616
+  },
+  {
+    "paragraph": 1,
+    "word": "go",
+    "start": 13.29,
+    "end": 13.63,
+    "prob": 0.9516123522174069
+  },
+  {
+    "paragraph": 1,
+    "word": "to(3)",
+    "start": 13.63,
+    "end": 13.69,
+    "prob": 0.9566690332227361
+  },
+  {
+    "paragraph": 1,
+    "word": "sleep",
+    "start": 13.69,
+    "end": 14.27,
+    "prob": 0.9506612630426967
+  },
+  {
+    "paragraph": 1,
+    "word": "<sil>",
+    "start": 14.27,
+    "end": 14.64,
+    "prob": 0.9478136951170496
+  },
+  {
+    "paragraph": 1,
+    "word": "he",
+    "start": 14.64,
+    "end": 14.78,
+    "prob": 0.985211189655883
+  },
+  {
+    "paragraph": 1,
+    "word": "whined",
+    "start": 14.78,
+    "end": 15.36,
+    "prob": 0.9476241608086463
+  },
+  {
+    "paragraph": 1,
+    "word": "and",
+    "start": 15.36,
+    "end": 15.5,
+    "prob": 0.9707381523319824
+  },
+  {
+    "paragraph": 1,
+    "word": "clawed",
+    "start": 15.5,
+    "end": 15.94,
+    "prob": 0.9720980694704116
+  },
+  {
+    "paragraph": 1,
+    "word": "at",
+    "start": 15.94,
+    "end": 16.05,
+    "prob": 0.9848172036814388
+  },
+  {
+    "paragraph": 1,
+    "word": "the",
+    "start": 16.05,
+    "end": 16.13,
+    "prob": 0.9900503287412106
+  },
+  {
+    "paragraph": 1,
+    "word": "paint",
+    "start": 16.13,
+    "end": 16.48,
+    "prob": 0.9440302015396673
+  },
+  {
+    "paragraph": 1,
+    "word": "like",
+    "start": 16.48,
+    "end": 16.62,
+    "prob": 0.9753111310852175
+  },
+  {
+    "paragraph": 1,
+    "word": "his",
+    "start": 16.62,
+    "end": 16.74,
+    "prob": 0.9716121662163701
+  },
+  {
+    "paragraph": 1,
+    "word": "life",
+    "start": 16.74,
+    "end": 17.15,
+    "prob": 0.9678304469965034
+  },
+  {
+    "paragraph": 1,
+    "word": "depended",
+    "start": 17.15,
+    "end": 17.73,
+    "prob": 0.944974656668101
+  },
+  {
+    "paragraph": 1,
+    "word": "on(2)",
+    "start": 17.73,
+    "end": 17.92,
+    "prob": 0.98383292791063
+  },
+  {
+    "paragraph": 1,
+    "word": "it",
+    "start": 17.92,
+    "end": 18.05,
+    "prob": 0.9793179146806423
+  },
+  {
+    "paragraph": 1,
+    "word": "<sil>",
+    "start": 18.05,
+    "end": 18.29,
+    "prob": 0.9496161628179894
+  },
+  {
+    "paragraph": 2,
+    "word": "<sil>",
+    "start": 18.3,
+    "end": 18.48,
+    "prob": 0.9554262336132565
+  },
+  {
+    "paragraph": 2,
+    "word": "by",
+    "start": 18.48,
+    "end": 18.61,
+    "prob": 0.9881711128961841
+  },
+  {
+    "paragraph": 2,
+    "word": "thursday",
+    "start": 18.61,
+    "end": 19.35,
+    "prob": 0.9319310243578919
+  },
+  {
+    "paragraph": 2,
+    "word": "<sil>",
+    "start": 19.35,
+    "end": 19.53,
+    "prob": 0.9359467546122511
+  },
+  {
+    "paragraph": 2,
+    "word": "i",
+    "start": 19.53,
+    "end": 19.63,
+    "prob": 0.9842265201157054
+  },
+  {
+    "paragraph": 2,
+    "word": "hadn't(2)",
+    "start": 19.63,
+    "end": 19.92,
+    "prob": 0.9647384939244417
+  },
+  {
+    "paragraph": 2,
+    "word": "slept",
+    "start": 19.92,
+    "end": 20.33,
+    "prob": 0.9603111090098121
+  },
+  {
+    "paragraph": 2,
+    "word": "in",
+    "start": 20.33,
+    "end": 20.44,
+    "prob": 0.9703499541254536
+  },
+  {
+    "paragraph": 2,
+    "word": "four",
+    "start": 20.44,
+    "end": 20.9,
+    "prob": 0.9338900378042206
+  },
+  {
+    "paragraph": 2,
+    "word": "days",
+    "start": 20.9,
+    "end": 21.65,
+    "prob": 0.9127480130751056
+  },
+  {
+    "paragraph": 2,
+    "word": "<sil>",
+    "start": 21.65,
+    "end": 21.88,
+    "prob": 0.9488568116356312
+  },
+  {
+    "paragraph": 2,
+    "word": "my",
+    "start": 21.88,
+    "end": 21.99,
+    "prob": 0.9833411589871868
+  },
+  {
+    "paragraph": 2,
+    "word": "girlfriend",
+    "start": 21.99,
+    "end": 22.45,
+    "prob": 0.9517075134526287
+  },
+  {
+    "paragraph": 2,
+    "word": "rolled",
+    "start": 22.45,
+    "end": 22.75,
+    "prob": 0.9676369099381468
+  },
+  {
+    "paragraph": 2,
+    "word": "over",
+    "start": 22.75,
+    "end": 23.08,
+    "prob": 0.9450691541337678
+  },
+  {
+    "paragraph": 2,
+    "word": "and",
+    "start": 23.08,
+    "end": 23.2,
+    "prob": 0.9589676812463171
+  },
+  {
+    "paragraph": 2,
+    "word": "groaned",
+    "start": 23.2,
+    "end": 23.73,
+    "prob": 0.94705578526018
+  },
+  {
+    "paragraph": 2,
+    "word": "<sil>",
+    "start": 23.73,
+    "end": 24.12,
+    "prob": 0.9221974260876552
+  },
+  {
+    "paragraph": 2,
+    "word": "it's",
+    "start": 24.12,
+    "end": 24.31,
+    "prob": 0.977165890961768
+  },
+  {
+    "paragraph": 2,
+    "word": "your",
+    "start": 24.31,
+    "end": 24.61,
+    "prob": 0.9785348127858613
+  },
+  {
+    "paragraph": 2,
+    "word": "dog",
+    "start": 24.61,
+    "end": 25.12,
+    "prob": 0.974238932267529
+  },
+  {
+    "paragraph": 2,
+    "word": "you",
+    "start": 25.12,
+    "end": 25.41,
+    "prob": 0.9801996534405791
+  },
+  {
+    "paragraph": 2,
+    "word": "fix",
+    "start": 25.41,
+    "end": 25.8,
+    "prob": 0.9762868812233695
+  },
+  {
+    "paragraph": 2,
+    "word": "it",
+    "start": 25.8,
+    "end": 25.99,
+    "prob": 0.958200852214641
+  },
+  {
+    "paragraph": 2,
+    "word": "<sil>",
+    "start": 25.99,
+    "end": 26.23,
+    "prob": 0.9548531784591059
+  },
+  {
+    "paragraph": 2,
+    "word": "the",
+    "start": 26.23,
+    "end": 26.34,
+    "prob": 0.9793179146806423
+  },
+  {
+    "paragraph": 2,
+    "word": "neighbor",
+    "start": 26.34,
+    "end": 26.8,
+    "prob": 0.9446912209601317
+  },
+  {
+    "paragraph": 2,
+    "word": "is",
+    "start": 26.8,
+    "end": 26.93,
+    "prob": 0.9864927329490042
+  },
+  {
+    "paragraph": 2,
+    "word": "eighty",
+    "start": 26.93,
+    "end": 27.34,
+    "prob": 0.918975537781461
+  },
+  {
+    "paragraph": 2,
+    "word": "four",
+    "start": 27.34,
+    "end": 27.92,
+    "prob": 0.9480980676609434
+  },
+  {
+    "paragraph": 2,
+    "word": "he's",
+    "start": 27.92,
+    "end": 28.08,
+    "prob": 0.974238932267529
+  },
+  {
+    "paragraph": 2,
+    "word": "asleep",
+    "start": 28.08,
+    "end": 28.58,
+    "prob": 0.9428981012978789
+  },
+  {
+    "paragraph": 2,
+    "word": "by",
+    "start": 28.58,
+    "end": 28.74,
+    "prob": 0.9801016432762515
+  },
+  {
+    "paragraph": 2,
+    "word": "seven",
+    "start": 28.74,
+    "end": 29.39,
+    "prob": 0.8814441029691711
+  },
+  {
+    "paragraph": 2,
+    "word": "<sil>",
+    "start": 29.39,
+    "end": 29.73,
+    "prob": 0.9500910658705113
+  },
+  {
+    "paragraph": 2,
+    "word": "i",
+    "start": 29.73,
+    "end": 29.82,
+    "prob": 0.9877759432483769
+  },
+  {
+    "paragraph": 2,
+    "word": "dragged",
+    "start": 29.82,
+    "end": 30.29,
+    "prob": 0.9585841900514108
+  },
+  {
+    "paragraph": 2,
+    "word": "max",
+    "start": 30.29,
+    "end": 30.61,
+    "prob": 0.9765797965773192
+  },
+  {
+    "paragraph": 2,
+    "word": "out",
+    "start": 30.61,
+    "end": 30.78,
+    "prob": 0.9851126783880441
+  },
+  {
+    "paragraph": 2,
+    "word": "by",
+    "start": 30.78,
+    "end": 30.93,
+    "prob": 0.9869860779746173
+  },
+  {
+    "paragraph": 2,
+    "word": "his",
+    "start": 30.93,
+    "end": 31.08,
+    "prob": 0.9489516973167947
+  },
+  {
+    "paragraph": 2,
+    "word": "collar",
+    "start": 31.08,
+    "end": 31.58,
+    "prob": 0.9414848849827715
+  },
+  {
+    "paragraph": 2,
+    "word": "but",
+    "start": 31.58,
+    "end": 31.73,
+    "prob": 0.966476500050923
+  },
+  {
+    "paragraph": 2,
+    "word": "he",
+    "start": 31.73,
+    "end": 31.81,
+    "prob": 0.9567647001260584
+  },
+  {
+    "paragraph": 2,
+    "word": "broke",
+    "start": 31.81,
+    "end": 32.14,
+    "prob": 0.9720008693834732
+  },
+  {
+    "paragraph": 2,
+    "word": "free",
+    "start": 32.14,
+    "end": 32.49,
+    "prob": 0.977947897335715
+  },
+  {
+    "paragraph": 2,
+    "word": "and",
+    "start": 32.49,
+    "end": 32.58,
+    "prob": 0.9827513607383832
+  },
+  {
+    "paragraph": 2,
+    "word": "sprinted",
+    "start": 32.58,
+    "end": 33.13,
+    "prob": 0.9493313349366191
+  },
+  {
+    "paragraph": 2,
+    "word": "right",
+    "start": 33.13,
+    "end": 33.47,
+    "prob": 0.958200852214641
+  },
+  {
+    "paragraph": 2,
+    "word": "back",
+    "start": 33.47,
+    "end": 33.69,
+    "prob": 0.9811802943015082
+  },
+  {
+    "paragraph": 2,
+    "word": "to(3)",
+    "start": 33.69,
+    "end": 33.78,
+    "prob": 0.9785348127858613
+  },
+  {
+    "paragraph": 2,
+    "word": "the",
+    "start": 33.78,
+    "end": 33.86,
+    "prob": 0.9758964640800459
+  },
+  {
+    "paragraph": 2,
+    "word": "wall",
+    "start": 33.86,
+    "end": 34.33,
+    "prob": 0.9657036666664771
+  },
+  {
+    "paragraph": 2,
+    "word": "<sil>",
+    "start": 34.33,
+    "end": 34.49,
+    "prob": 0.9531360744488535
+  },
+  {
+    "paragraph": 3,
+    "word": "<sil>",
+    "start": 34.5,
+    "end": 34.69,
+    "prob": 0.9475294078678596
+  },
+  {
+    "paragraph": 3,
+    "word": "that",
+    "start": 34.69,
+    "end": 34.91,
+    "prob": 0.9808859990742251
+  },
+  {
+    "paragraph": 3,
+    "word": "morning",
+    "start": 34.91,
+    "end": 35.35,
+    "prob": 0.9458254741293683
+  },
+  {
+    "paragraph": 3,
+    "word": "<sil>",
+    "start": 35.35,
+    "end": 35.49,
+    "prob": 0.9406379720991869
+  },
+  {
+    "paragraph": 3,
+    "word": "i",
+    "start": 35.49,
+    "end": 35.6,
+    "prob": 0.9822601324363287
+  },
+  {
+    "paragraph": 3,
+    "word": "wrote",
+    "start": 35.6,
+    "end": 35.83,
+    "prob": 0.9702529288325703
+  },
+  {
+    "paragraph": 3,
+    "word": "a",
+    "start": 35.83,
+    "end": 35.91,
+    "prob": 0.978143496694661
+  },
+  {
+    "paragraph": 3,
+    "word": "post",
+    "start": 35.91,
+    "end": 36.43,
+    "prob": 0.9504711593061239
+  },
+  {
+    "paragraph": 3,
+    "word": "<sil>",
+    "start": 36.43,
+    "end": 36.75,
+    "prob": 0.9396978512710993
+  },
+  {
+    "paragraph": 3,
+    "word": "free",
+    "start": 36.75,
+    "end": 37.03,
+    "prob": 0.9735572377200272
+  },
+  {
+    "paragraph": 3,
+    "word": "to",
+    "start": 37.03,
+    "end": 37.17,
+    "prob": 0.9499960662638849
+  },
+  {
+    "paragraph": 3,
+    "word": "a",
+    "start": 37.17,
+    "end": 37.23,
+    "prob": 0.9877759432483769
+  },
+  {
+    "paragraph": 3,
+    "word": "good",
+    "start": 37.23,
+    "end": 37.44,
+    "prob": 0.9694770756641603
+  },
+  {
+    "paragraph": 3,
+    "word": "home",
+    "start": 37.44,
+    "end": 37.91,
+    "prob": 0.9499010761562693
+  },
+  {
+    "paragraph": 3,
+    "word": "<sil>",
+    "start": 37.91,
+    "end": 38.09,
+    "prob": 0.9481928774677095
+  },
+  {
+    "paragraph": 3,
+    "word": "one",
+    "start": 38.09,
+    "end": 38.44,
+    "prob": 0.9745312331753515
+  },
+  {
+    "paragraph": 3,
+    "word": "loud",
+    "start": 38.44,
+    "end": 38.89,
+    "prob": 0.9514220582915281
+  },
+  {
+    "paragraph": 3,
+    "word": "dog",
+    "start": 38.89,
+    "end": 39.42,
+    "prob": 0.9564777281123363
+  },
+  {
+    "paragraph": 3,
+    "word": "<sil>",
+    "start": 39.42,
+    "end": 39.76,
+    "prob": 0.9546622364651906
+  },
+  {
+    "paragraph": 3,
+    "word": "i",
+    "start": 39.76,
+    "end": 39.85,
+    "prob": 0.9895554520497445
+  },
+  {
+    "paragraph": 3,
+    "word": "hit",
+    "start": 39.85,
+    "end": 40.04,
+    "prob": 0.9808859990742251
+  },
+  {
+    "paragraph": 3,
+    "word": "save",
+    "start": 40.04,
+    "end": 40.36,
+    "prob": 0.9727787422936621
+  },
+  {
+    "paragraph": 3,
+    "word": "as(2)",
+    "start": 40.36,
+    "end": 40.46,
+    "prob": 0.9840297043345415
+  },
+  {
+    "paragraph": 3,
+    "word": "a",
+    "start": 40.46,
+    "end": 40.51,
+    "prob": 0.9931240929477297
+  },
+  {
+    "paragraph": 3,
+    "word": "draft",
+    "start": 40.51,
+    "end": 41.02,
+    "prob": 0.9577218954851312
+  },
+  {
+    "paragraph": 3,
+    "word": "and(2)",
+    "start": 41.02,
+    "end": 41.13,
+    "prob": 0.9709323096698302
+  },
+  {
+    "paragraph": 3,
+    "word": "went",
+    "start": 41.13,
+    "end": 41.36,
+    "prob": 0.9775568159520149
+  },
+  {
+    "paragraph": 3,
+    "word": "to(2)",
+    "start": 41.36,
+    "end": 41.45,
+    "prob": 0.9864927329490042
+  },
+  {
+    "paragraph": 3,
+    "word": "bed",
+    "start": 41.45,
+    "end": 41.75,
+    "prob": 0.9790241780555213
+  },
+  {
+    "paragraph": 3,
+    "word": "angry",
+    "start": 41.75,
+    "end": 42.51,
+    "prob": 0.9300691179299785
+  },
+  {
+    "paragraph": 3,
+    "word": "<sil>",
+    "start": 42.51,
+    "end": 42.69,
+    "prob": 0.951802684203974
+  },
+  {
+    "paragraph": 4,
+    "word": "<sil>",
+    "start": 42.7,
+    "end": 42.9,
+    "prob": 0.9513269255989683
+  },
+  {
+    "paragraph": 4,
+    "word": "at",
+    "start": 42.9,
+    "end": 43.11,
+    "prob": 0.980493742743581
+  },
+  {
+    "paragraph": 4,
+    "word": "three",
+    "start": 43.11,
+    "end": 43.32,
+    "prob": 0.9757013140602208
+  },
+  {
+    "paragraph": 4,
+    "word": "a.m.",
+    "start": 43.32,
+    "end": 43.82,
+    "prob": 0.9456363374055239
+  },
+  {
+    "paragraph": 4,
+    "word": "<sil>",
+    "start": 43.82,
+    "end": 43.94,
+    "prob": 0.9367894437108649
+  },
+  {
+    "paragraph": 4,
+    "word": "max",
+    "start": 43.94,
+    "end": 44.3,
+    "prob": 0.9621373431798407
+  },
+  {
+    "paragraph": 4,
+    "word": "started",
+    "start": 44.3,
+    "end": 44.66,
+    "prob": 0.968604982400831
+  },
+  {
+    "paragraph": 4,
+    "word": "again",
+    "start": 44.66,
+    "end": 45.22,
+    "prob": 0.9252455518314389
+  },
+  {
+    "paragraph": 4,
+    "word": "<sil>",
+    "start": 45.22,
+    "end": 45.3,
+    "prob": 0.9517075134526287
+  },
+  {
+    "paragraph": 4,
+    "word": "but",
+    "start": 45.3,
+    "end": 45.66,
+    "prob": 0.9755062030645458
+  },
+  {
+    "paragraph": 4,
+    "word": "this",
+    "start": 45.66,
+    "end": 45.89,
+    "prob": 0.9820637098737169
+  },
+  {
+    "paragraph": 4,
+    "word": "time",
+    "start": 45.89,
+    "end": 46.22,
+    "prob": 0.9791220804733268
+  },
+  {
+    "paragraph": 4,
+    "word": "he",
+    "start": 46.22,
+    "end": 46.31,
+    "prob": 0.9899513336078498
+  },
+  {
+    "paragraph": 4,
+    "word": "wasn't(2)",
+    "start": 46.31,
+    "end": 46.65,
+    "prob": 0.9636779180327122
+  },
+  {
+    "paragraph": 4,
+    "word": "barking",
+    "start": 46.65,
+    "end": 47.14,
+    "prob": 0.9411083851584405
+  },
+  {
+    "paragraph": 4,
+    "word": "<sil>",
+    "start": 47.14,
+    "end": 47.42,
+    "prob": 0.9379142095304908
+  },
+  {
+    "paragraph": 4,
+    "word": "he",
+    "start": 47.42,
+    "end": 47.56,
+    "prob": 0.98452181759952
+  },
+  {
+    "paragraph": 4,
+    "word": "was(2)",
+    "start": 47.56,
+    "end": 47.74,
+    "prob": 0.9859010444174776
+  },
+  {
+    "paragraph": 4,
+    "word": "howling",
+    "start": 47.74,
+    "end": 48.5,
+    "prob": 0.9503761216939545
+  },
+  {
+    "paragraph": 4,
+    "word": "<sil>",
+    "start": 48.5,
+    "end": 48.68,
+    "prob": 0.9499010761562693
+  },
+  {
+    "paragraph": 4,
+    "word": "throwing",
+    "start": 48.68,
+    "end": 49.02,
+    "prob": 0.9620411390659341
+  },
+  {
+    "paragraph": 4,
+    "word": "his",
+    "start": 49.02,
+    "end": 49.16,
+    "prob": 0.9758964640800459
+  },
+  {
+    "paragraph": 4,
+    "word": "whole",
+    "start": 49.16,
+    "end": 49.54,
+    "prob": 0.974628686298669
+  },
+  {
+    "paragraph": 4,
+    "word": "body",
+    "start": 49.54,
+    "end": 50.0,
+    "prob": 0.9637742858245154
+  },
+  {
+    "paragraph": 4,
+    "word": "against",
+    "start": 50.0,
+    "end": 50.29,
+    "prob": 0.9561908421730031
+  },
+  {
+    "paragraph": 4,
+    "word": "the",
+    "start": 50.29,
+    "end": 50.36,
+    "prob": 0.9824565942854173
+  },
+  {
+    "paragraph": 4,
+    "word": "wall",
+    "start": 50.36,
+    "end": 50.91,
+    "prob": 0.9540896395489321
+  },
+  {
+    "paragraph": 4,
+    "word": "<sil>",
+    "start": 50.91,
+    "end": 51.19,
+    "prob": 0.9488568116356312
+  },
+  {
+    "paragraph": 4,
+    "word": "i",
+    "start": 51.19,
+    "end": 51.31,
+    "prob": 0.9896544075949495
+  },
+  {
+    "paragraph": 4,
+    "word": "opened",
+    "start": 51.31,
+    "end": 51.57,
+    "prob": 0.9567647001260584
+  },
+  {
+    "paragraph": 4,
+    "word": "my",
+    "start": 51.57,
+    "end": 51.68,
+    "prob": 0.9869860779746173
+  },
+  {
+    "paragraph": 4,
+    "word": "mouth",
+    "start": 51.68,
+    "end": 51.94,
+    "prob": 0.9724869670279723
+  },
+  {
+    "paragraph": 4,
+    "word": "to(2)",
+    "start": 51.94,
+    "end": 52.07,
+    "prob": 0.9750185962548082
+  },
+  {
+    "paragraph": 4,
+    "word": "yell",
+    "start": 52.07,
+    "end": 52.58,
+    "prob": 0.9474346644014194
+  },
+  {
+    "paragraph": 4,
+    "word": "<sil>",
+    "start": 52.58,
+    "end": 52.76,
+    "prob": 0.9300691179299785
+  },
+  {
+    "paragraph": 4,
+    "word": "and(2)",
+    "start": 52.76,
+    "end": 52.94,
+    "prob": 0.9733625554753067
+  },
+  {
+    "paragraph": 4,
+    "word": "then",
+    "start": 52.94,
+    "end": 53.09,
+    "prob": 0.9818673265897258
+  },
+  {
+    "paragraph": 4,
+    "word": "i",
+    "start": 53.09,
+    "end": 53.17,
+    "prob": 0.98619684430882
+  },
+  {
+    "paragraph": 4,
+    "word": "heard",
+    "start": 53.17,
+    "end": 53.48,
+    "prob": 0.9798076715795677
+  },
+  {
+    "paragraph": 4,
+    "word": "it",
+    "start": 53.48,
+    "end": 53.62,
+    "prob": 0.9829479208380444
+  },
+  {
+    "paragraph": 4,
+    "word": "through",
+    "start": 53.62,
+    "end": 53.75,
+    "prob": 0.9817691496747583
+  },
+  {
+    "paragraph": 4,
+    "word": "the",
+    "start": 53.75,
+    "end": 53.83,
+    "prob": 0.990446408279687
+  },
+  {
+    "paragraph": 4,
+    "word": "drywall",
+    "start": 53.83,
+    "end": 54.53,
+    "prob": 0.9518978644723943
+  },
+  {
+    "paragraph": 4,
+    "word": "<sil>",
+    "start": 54.53,
+    "end": 54.94,
+    "prob": 0.9518978644723943
+  },
+  {
+    "paragraph": 4,
+    "word": "thump",
+    "start": 54.94,
+    "end": 55.47,
+    "prob": 0.9250605304747386
+  },
+  {
+    "paragraph": 4,
+    "word": "<sil>",
+    "start": 55.47,
+    "end": 55.9,
+    "prob": 0.9564777281123363
+  },
+  {
+    "paragraph": 4,
+    "word": "thump",
+    "start": 55.9,
+    "end": 56.41,
+    "prob": 0.9472452058877898
+  },
+  {
+    "paragraph": 4,
+    "word": "<sil>",
+    "start": 56.41,
+    "end": 56.81,
+    "prob": 0.9577218954851312
+  },
+  {
+    "paragraph": 4,
+    "word": "thump",
+    "start": 56.81,
+    "end": 57.34,
+    "prob": 0.9458254741293683
+  },
+  {
+    "paragraph": 4,
+    "word": "<sil>",
+    "start": 57.34,
+    "end": 57.59,
+    "prob": 0.950756329169001
+  },
+  {
+    "paragraph": 5,
+    "word": "<sil>",
+    "start": 57.6,
+    "end": 57.86,
+    "prob": 0.9534220438662234
+  },
+  {
+    "paragraph": 5,
+    "word": "my",
+    "start": 57.86,
+    "end": 57.94,
+    "prob": 0.9710294029007972
+  },
+  {
+    "paragraph": 5,
+    "word": "stomach",
+    "start": 57.94,
+    "end": 58.49,
+    "prob": 0.9496161628179894
+  },
+  {
+    "paragraph": 5,
+    "word": "dropped",
+    "start": 58.49,
+    "end": 59.23,
+    "prob": 0.9112888568470346
+  },
+  {
+    "paragraph": 5,
+    "word": "<sil>",
+    "start": 59.23,
+    "end": 59.52,
+    "prob": 0.9415790334712697
+  },
+  {
+    "paragraph": 5,
+    "word": "i",
+    "start": 59.52,
+    "end": 59.59,
+    "prob": 0.9899513336078498
+  },
+  {
+    "paragraph": 5,
+    "word": "ran",
+    "start": 59.59,
+    "end": 59.94,
+    "prob": 0.9508514048019179
+  },
+  {
+    "paragraph": 5,
+    "word": "into(2)",
+    "start": 59.94,
+    "end": 60.12,
+    "prob": 0.9796117394355632
+  },
+  {
+    "paragraph": 5,
+    "word": "the",
+    "start": 60.12,
+    "end": 60.21,
+    "prob": 0.9919331183116235
+  },
+  {
+    "paragraph": 5,
+    "word": "hallway",
+    "start": 60.21,
+    "end": 60.61,
+    "prob": 0.9728760201678915
+  },
+  {
+    "paragraph": 5,
+    "word": "in",
+    "start": 60.61,
+    "end": 60.69,
+    "prob": 0.990545452920515
+  },
+  {
+    "paragraph": 5,
+    "word": "my",
+    "start": 60.69,
+    "end": 60.82,
+    "prob": 0.9880723056656174
+  },
+  {
+    "paragraph": 5,
+    "word": "socks",
+    "start": 60.82,
+    "end": 61.26,
+    "prob": 0.9608874397410919
+  },
+  {
+    "paragraph": 5,
+    "word": "and",
+    "start": 61.26,
+    "end": 61.41,
+    "prob": 0.9769704870946442
+  },
+  {
+    "paragraph": 5,
+    "word": "pounded",
+    "start": 61.41,
+    "end": 61.88,
+    "prob": 0.9495212106969197
+  },
+  {
+    "paragraph": 5,
+    "word": "on(2)",
+    "start": 61.88,
+    "end": 61.99,
+    "prob": 0.9826530954288403
+  },
+  {
+    "paragraph": 5,
+    "word": "mr",
+    "start": 61.99,
+    "end": 62.27,
+    "prob": 0.974628686298669
+  },
+  {
+    "paragraph": 5,
+    "word": "harlan's",
+    "start": 62.27,
+    "end": 62.7,
+    "prob": 0.9683144590127251
+  },
+  {
+    "paragraph": 5,
+    "word": "door",
+    "start": 62.7,
+    "end": 63.1,
+    "prob": 0.9731679121611954
+  },
+  {
+    "paragraph": 5,
+    "word": "<sil>",
+    "start": 63.1,
+    "end": 63.34,
+    "prob": 0.9441246045598213
+  },
+  {
+    "paragraph": 5,
+    "word": "sir",
+    "start": 63.34,
+    "end": 63.85,
+    "prob": 0.8403042077859184
+  },
+  {
+    "paragraph": 5,
+    "word": "are",
+    "start": 63.85,
+    "end": 64.09,
+    "prob": 0.9415790334712697
+  },
+  {
+    "paragraph": 5,
+    "word": "you",
+    "start": 64.09,
+    "end": 64.21,
+    "prob": 0.982849635874457
+  },
+  {
+    "paragraph": 5,
+    "word": "okay",
+    "start": 64.21,
+    "end": 64.84,
+    "prob": 0.920815235958623
+  },
+  {
+    "paragraph": 5,
+    "word": "<sil>",
+    "start": 64.84,
+    "end": 65.21,
+    "prob": 0.9490465924865263
+  },
+  {
+    "paragraph": 5,
+    "word": "nothing",
+    "start": 65.21,
+    "end": 65.75,
+    "prob": 0.9520882535642674
+  },
+  {
+    "paragraph": 5,
+    "word": "<sil>",
+    "start": 65.75,
+    "end": 66.19,
+    "prob": 0.9441246045598213
+  },
+  {
+    "paragraph": 5,
+    "word": "then",
+    "start": 66.19,
+    "end": 66.46,
+    "prob": 0.9647384939244417
+  },
+  {
+    "paragraph": 5,
+    "word": "the",
+    "start": 66.46,
+    "end": 66.52,
+    "prob": 0.9901493337740847
+  },
+  {
+    "paragraph": 5,
+    "word": "weak",
+    "start": 66.52,
+    "end": 66.9,
+    "prob": 0.9711265058410873
+  },
+  {
+    "paragraph": 5,
+    "word": "sound",
+    "start": 66.9,
+    "end": 67.33,
+    "prob": 0.975408662198326
+  },
+  {
+    "paragraph": 5,
+    "word": "of",
+    "start": 67.33,
+    "end": 67.41,
+    "prob": 0.992726942603101
+  },
+  {
+    "paragraph": 5,
+    "word": "someone",
+    "start": 67.41,
+    "end": 67.78,
+    "prob": 0.9448801686512359
+  },
+  {
+    "paragraph": 5,
+    "word": "tapping",
+    "start": 67.78,
+    "end": 68.23,
+    "prob": 0.9720980694704116
+  },
+  {
+    "paragraph": 5,
+    "word": "back",
+    "start": 68.23,
+    "end": 68.69,
+    "prob": 0.9605031808347251
+  },
+  {
+    "paragraph": 5,
+    "word": "<sil>",
+    "start": 68.69,
+    "end": 69.0,
+    "prob": 0.9469610891512649
+  },
+  {
+    "paragraph": 5,
+    "word": "i",
+    "start": 69.0,
+    "end": 69.07,
+    "prob": 0.9921315148546169
+  },
+  {
+    "paragraph": 5,
+    "word": "called",
+    "start": 69.07,
+    "end": 69.39,
+    "prob": 0.968798713083361
+  },
+  {
+    "paragraph": 5,
+    "word": "nine",
+    "start": 69.39,
+    "end": 69.6,
+    "prob": 0.9812784123309384
+  },
+  {
+    "paragraph": 5,
+    "word": "one",
+    "start": 69.6,
+    "end": 69.74,
+    "prob": 0.980493742743581
+  },
+  {
+    "paragraph": 5,
+    "word": "one",
+    "start": 69.74,
+    "end": 70.1,
+    "prob": 0.9633888724683422
+  },
+  {
+    "paragraph": 5,
+    "word": "and(2)",
+    "start": 70.1,
+    "end": 70.32,
+    "prob": 0.9397918210562264
+  },
+  {
+    "paragraph": 5,
+    "word": "by",
+    "start": 70.32,
+    "end": 70.43,
+    "prob": 0.9848172036814388
+  },
+  {
+    "paragraph": 5,
+    "word": "the",
+    "start": 70.43,
+    "end": 70.53,
+    "prob": 0.987578417689055
+  },
+  {
+    "paragraph": 5,
+    "word": "time",
+    "start": 70.53,
+    "end": 70.82,
+    "prob": 0.9772636075508642
+  },
+  {
+    "paragraph": 5,
+    "word": "the",
+    "start": 70.82,
+    "end": 70.9,
+    "prob": 0.991239042786777
+  },
+  {
+    "paragraph": 5,
+    "word": "paramedics",
+    "start": 70.9,
+    "end": 71.46,
+    "prob": 0.9468664025110137
+  },
+  {
+    "paragraph": 5,
+    "word": "broke",
+    "start": 71.46,
+    "end": 71.69,
+    "prob": 0.9650279444157385
+  },
+  {
+    "paragraph": 5,
+    "word": "the",
+    "start": 71.69,
+    "end": 71.76,
+    "prob": 0.9910408247114264
+  },
+  {
+    "paragraph": 5,
+    "word": "door",
+    "start": 71.76,
+    "end": 72.03,
+    "prob": 0.9802976734059232
+  },
+  {
+    "paragraph": 5,
+    "word": "down",
+    "start": 72.03,
+    "end": 72.38,
+    "prob": 0.9653174817508665
+  },
+  {
+    "paragraph": 5,
+    "word": "<sil>",
+    "start": 72.38,
+    "end": 72.51,
+    "prob": 0.9404498727201441
+  },
+  {
+    "paragraph": 5,
+    "word": "max",
+    "start": 72.51,
+    "end": 72.84,
+    "prob": 0.9768727998146628
+  },
+  {
+    "paragraph": 5,
+    "word": "was(2)",
+    "start": 72.84,
+    "end": 72.99,
+    "prob": 0.9848172036814388
+  },
+  {
+    "paragraph": 5,
+    "word": "already",
+    "start": 72.99,
+    "end": 73.47,
+    "prob": 0.9409201917108964
+  },
+  {
+    "paragraph": 5,
+    "word": "scratching",
+    "start": 73.47,
+    "end": 74.03,
+    "prob": 0.9613679795593157
+  },
+  {
+    "paragraph": 5,
+    "word": "at",
+    "start": 74.03,
+    "end": 74.11,
+    "prob": 0.9831445202516912
+  },
+  {
+    "paragraph": 5,
+    "word": "the",
+    "start": 74.11,
+    "end": 74.18,
+    "prob": 0.9895554520497445
+  },
+  {
+    "paragraph": 5,
+    "word": "bathroom",
+    "start": 74.18,
+    "end": 74.75,
+    "prob": 0.9461092501473172
+  },
+  {
+    "paragraph": 5,
+    "word": "<sil>",
+    "start": 74.75,
+    "end": 74.89,
+    "prob": 0.9531360744488535
+  },
+  {
+    "paragraph": 6,
+    "word": "<sil>",
+    "start": 74.9,
+    "end": 75.07,
+    "prob": 0.9548531784591059
+  },
+  {
+    "paragraph": 6,
+    "word": "mr",
+    "start": 75.07,
+    "end": 75.36,
+    "prob": 0.9755062030645458
+  },
+  {
+    "paragraph": 6,
+    "word": "harlan",
+    "start": 75.36,
+    "end": 75.78,
+    "prob": 0.9669598349582637
+  },
+  {
+    "paragraph": 6,
+    "word": "was(2)",
+    "start": 75.78,
+    "end": 75.95,
+    "prob": 0.9708352261472156
+  },
+  {
+    "paragraph": 6,
+    "word": "on(2)",
+    "start": 75.95,
+    "end": 76.04,
+    "prob": 0.9869860779746173
+  },
+  {
+    "paragraph": 6,
+    "word": "the",
+    "start": 76.04,
+    "end": 76.1,
+    "prob": 0.9882699300074737
+  },
+  {
+    "paragraph": 6,
+    "word": "floor",
+    "start": 76.1,
+    "end": 76.79,
+    "prob": 0.9252455518314389
+  },
+  {
+    "paragraph": 7,
+    "word": "<sil>",
+    "start": 76.8,
+    "end": 76.89,
+    "prob": 0.9555217762366178
+  },
+  {
+    "paragraph": 7,
+    "word": "he'd",
+    "start": 76.89,
+    "end": 77.04,
+    "prob": 0.984718731808258
+  },
+  {
+    "paragraph": 7,
+    "word": "fallen",
+    "start": 77.04,
+    "end": 77.55,
+    "prob": 0.9358531692953215
+  },
+  {
+    "paragraph": 7,
+    "word": "hours",
+    "start": 77.55,
+    "end": 77.95,
+    "prob": 0.9726814741462475
+  },
+  {
+    "paragraph": 7,
+    "word": "earlier",
+    "start": 77.95,
+    "end": 78.39,
+    "prob": 0.9574346363702236
+  },
+  {
+    "paragraph": 7,
+    "word": "and",
+    "start": 78.39,
+    "end": 78.48,
+    "prob": 0.9702529288325703
+  },
+  {
+    "paragraph": 7,
+    "word": "couldn't(2)",
+    "start": 78.48,
+    "end": 78.74,
+    "prob": 0.9647384939244417
+  },
+  {
+    "paragraph": 7,
+    "word": "reach",
+    "start": 78.74,
+    "end": 78.97,
+    "prob": 0.9824565942854173
+  },
+  {
+    "paragraph": 7,
+    "word": "his",
+    "start": 78.97,
+    "end": 79.15,
+    "prob": 0.9866900413605213
+  },
+  {
+    "paragraph": 7,
+    "word": "phone",
+    "start": 79.15,
+    "end": 79.63,
+    "prob": 0.9477189232247272
+  },
+  {
+    "paragraph": 7,
+    "word": "<sil>",
+    "start": 79.63,
+    "end": 79.79,
+    "prob": 0.9558084614360977
+  },
+  {
+    "paragraph": 8,
+    "word": "<sil>",
+    "start": 79.8,
+    "end": 79.92,
+    "prob": 0.9533267111951039
+  },
+  {
+    "paragraph": 8,
+    "word": "the",
+    "start": 79.92,
+    "end": 80.01,
+    "prob": 0.992329951078903
+  },
+  {
+    "paragraph": 8,
+    "word": "paramedic",
+    "start": 80.01,
+    "end": 80.54,
+    "prob": 0.9545667797872118
+  },
+  {
+    "paragraph": 8,
+    "word": "looked",
+    "start": 80.54,
+    "end": 80.78,
+    "prob": 0.9765797965773192
+  },
+  {
+    "paragraph": 8,
+    "word": "at",
+    "start": 80.78,
+    "end": 80.84,
+    "prob": 0.96512444721018
+  },
+  {
+    "paragraph": 8,
+    "word": "me",
+    "start": 80.84,
+    "end": 81.0,
+    "prob": 0.9869860779746173
+  },
+  {
+    "paragraph": 8,
+    "word": "and",
+    "start": 81.0,
+    "end": 81.09,
+    "prob": 0.9869860779746173
+  },
+  {
+    "paragraph": 8,
+    "word": "said",
+    "start": 81.09,
+    "end": 81.45,
+    "prob": 0.9797097006095068
+  },
+  {
+    "paragraph": 8,
+    "word": "<sil>",
+    "start": 81.45,
+    "end": 81.59,
+    "prob": 0.9495212106969197
+  },
+  {
+    "paragraph": 9,
+    "word": "<sil>",
+    "start": 81.6,
+    "end": 81.75,
+    "prob": 0.9560952326497381
+  },
+  {
+    "paragraph": 9,
+    "word": "another",
+    "start": 81.75,
+    "end": 82.17,
+    "prob": 0.9571474634158179
+  },
+  {
+    "paragraph": 9,
+    "word": "hour",
+    "start": 82.17,
+    "end": 82.57,
+    "prob": 0.9605031808347251
+  },
+  {
+    "paragraph": 9,
+    "word": "and(2)",
+    "start": 82.57,
+    "end": 82.81,
+    "prob": 0.9548531784591059
+  },
+  {
+    "paragraph": 9,
+    "word": "we",
+    "start": 82.81,
+    "end": 82.97,
+    "prob": 0.9856053332483575
+  },
+  {
+    "paragraph": 9,
+    "word": "wouldn't",
+    "start": 82.97,
+    "end": 83.24,
+    "prob": 0.9340768251506818
+  },
+  {
+    "paragraph": 9,
+    "word": "have",
+    "start": 83.24,
+    "end": 83.33,
+    "prob": 0.9321174198820737
+  },
+  {
+    "paragraph": 9,
+    "word": "been",
+    "start": 83.33,
+    "end": 83.45,
+    "prob": 0.9743363561607558
+  },
+  {
+    "paragraph": 9,
+    "word": "having",
+    "start": 83.45,
+    "end": 83.84,
+    "prob": 0.9736545934437992
+  },
+  {
+    "paragraph": 9,
+    "word": "this",
+    "start": 83.84,
+    "end": 83.98,
+    "prob": 0.9813765401721715
+  },
+  {
+    "paragraph": 9,
+    "word": "conversation",
+    "start": 83.98,
+    "end": 84.81,
+    "prob": 0.9306272989297069
+  },
+  {
+    "paragraph": 9,
+    "word": "<sil>",
+    "start": 84.81,
+    "end": 84.99,
+    "prob": 0.9427095499607913
+  },
+  {
+    "paragraph": 10,
+    "word": "<sil>",
+    "start": 85.0,
+    "end": 85.25,
+    "prob": 0.9382894314929072
+  },
+  {
+    "paragraph": 10,
+    "word": "i",
+    "start": 85.25,
+    "end": 85.3,
+    "prob": 0.9760916531318266
+  },
+  {
+    "paragraph": 10,
+    "word": "went",
+    "start": 85.3,
+    "end": 85.51,
+    "prob": 0.9675401559225545
+  },
+  {
+    "paragraph": 10,
+    "word": "back",
+    "start": 85.51,
+    "end": 85.71,
+    "prob": 0.982849635874457
+  },
+  {
+    "paragraph": 10,
+    "word": "to(3)",
+    "start": 85.71,
+    "end": 85.79,
+    "prob": 0.9903473735423328
+  },
+  {
+    "paragraph": 10,
+    "word": "my",
+    "start": 85.79,
+    "end": 85.96,
+    "prob": 0.9865913822222991
+  },
+  {
+    "paragraph": 10,
+    "word": "apartment",
+    "start": 85.96,
+    "end": 86.72,
+    "prob": 0.864250427539501
+  },
+  {
+    "paragraph": 10,
+    "word": "and(2)",
+    "start": 86.72,
+    "end": 86.83,
+    "prob": 0.9679272300412031
+  },
+  {
+    "paragraph": 10,
+    "word": "deleted",
+    "start": 86.83,
+    "end": 87.23,
+    "prob": 0.9667664719961998
+  },
+  {
+    "paragraph": 10,
+    "word": "the",
+    "start": 87.23,
+    "end": 87.3,
+    "prob": 0.9848172036814388
+  },
+  {
+    "paragraph": 10,
+    "word": "post",
+    "start": 87.3,
+    "end": 87.9,
+    "prob": 0.9416731913746168
+  },
+  {
+    "paragraph": 10,
+    "word": "<sil>",
+    "start": 87.9,
+    "end": 88.27,
+    "prob": 0.9475294078678596
+  },
+  {
+    "paragraph": 10,
+    "word": "max",
+    "start": 88.27,
+    "end": 88.63,
+    "prob": 0.9762868812233695
+  },
+  {
+    "paragraph": 10,
+    "word": "got",
+    "start": 88.63,
+    "end": 88.79,
+    "prob": 0.9814746778261886
+  },
+  {
+    "paragraph": 10,
+    "word": "a",
+    "start": 88.79,
+    "end": 88.88,
+    "prob": 0.9351048235547548
+  },
+  {
+    "paragraph": 10,
+    "word": "whole",
+    "start": 88.88,
+    "end": 89.24,
+    "prob": 0.9758964640800459
+  },
+  {
+    "paragraph": 10,
+    "word": "steak",
+    "start": 89.24,
+    "end": 89.72,
+    "prob": 0.9633888724683422
+  },
+  {
+    "paragraph": 10,
+    "word": "that",
+    "start": 89.72,
+    "end": 89.96,
+    "prob": 0.9774590700450104
+  },
+  {
+    "paragraph": 10,
+    "word": "night",
+    "start": 89.96,
+    "end": 90.24,
+    "prob": 0.9672499519185132
+  },
+  {
+    "paragraph": 10,
+    "word": "<sil>",
+    "start": 90.24,
+    "end": 90.39,
+    "prob": 0.9472452058877898
+  },
+  {
+    "paragraph": 11,
+    "word": "<sil>",
+    "start": 90.4,
+    "end": 90.58,
+    "prob": 0.9499960662638849
+  },
+  {
+    "paragraph": 11,
+    "word": "and",
+    "start": 90.58,
+    "end": 90.7,
+    "prob": 0.9640634470244551
+  },
+  {
+    "paragraph": 11,
+    "word": "mr",
+    "start": 90.7,
+    "end": 90.97,
+    "prob": 0.9776545716336101
+  },
+  {
+    "paragraph": 11,
+    "word": "harlan",
+    "start": 90.97,
+    "end": 91.46,
+    "prob": 0.9580092407863914
+  },
+  {
+    "paragraph": 11,
+    "word": "<sil>",
+    "start": 91.46,
+    "end": 91.73,
+    "prob": 0.9436526838431943
+  },
+  {
+    "paragraph": 11,
+    "word": "every(2)",
+    "start": 91.73,
+    "end": 92.04,
+    "prob": 0.9747261491672988
+  },
+  {
+    "paragraph": 11,
+    "word": "sunday",
+    "start": 92.04,
+    "end": 92.42,
+    "prob": 0.9642562693544945
+  },
+  {
+    "paragraph": 11,
+    "word": "now",
+    "start": 92.42,
+    "end": 92.79,
+    "prob": 0.9652209596549011
+  },
+  {
+    "paragraph": 11,
+    "word": "he",
+    "start": 92.79,
+    "end": 93.06,
+    "prob": 0.9465823993927774
+  },
+  {
+    "paragraph": 11,
+    "word": "knocks",
+    "start": 93.06,
+    "end": 93.37,
+    "prob": 0.9758964640800459
+  },
+  {
+    "paragraph": 11,
+    "word": "on(2)",
+    "start": 93.37,
+    "end": 93.48,
+    "prob": 0.9887641638093535
+  },
+  {
+    "paragraph": 11,
+    "word": "our(3)",
+    "start": 93.48,
+    "end": 93.64,
+    "prob": 0.9777523370907735
+  },
+  {
+    "paragraph": 11,
+    "word": "wall",
+    "start": 93.64,
+    "end": 93.87,
+    "prob": 0.9790241780555213
+  },
+  {
+    "paragraph": 11,
+    "word": "twice",
+    "start": 93.87,
+    "end": 94.6,
+    "prob": 0.9553307005432022
+  },
+  {
+    "paragraph": 11,
+    "word": "<sil>",
+    "start": 94.6,
+    "end": 94.66,
+    "prob": 0.954185048512887
+  },
+  {
+    "paragraph": 11,
+    "word": "and(2)",
+    "start": 94.66,
+    "end": 94.84,
+    "prob": 0.9577218954851312
+  },
+  {
+    "paragraph": 11,
+    "word": "max",
+    "start": 94.84,
+    "end": 95.23,
+    "prob": 0.9735572377200272
+  },
+  {
+    "paragraph": 11,
+    "word": "barks",
+    "start": 95.23,
+    "end": 95.61,
+    "prob": 0.9718064983657351
+  },
+  {
+    "paragraph": 11,
+    "word": "back",
+    "start": 95.61,
+    "end": 96.11,
+    "prob": 0.9478136951170496
+  },
+  {
+    "paragraph": 11,
+    "word": "<sil>",
+    "start": 96.11,
+    "end": 96.2,
+    "prob": 0.9546622364651906
+  }
+]

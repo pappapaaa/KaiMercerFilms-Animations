@@ -1,0 +1,20 @@
+{
+  "method": "independent script-token, timing-order/range, cue-containment and source-audio SHA256 checks; no subjective listening support",
+  "cueCount": 72,
+  "wordCount": 286,
+  "scriptWordCount": 286,
+  "exactTokenSequenceMatch": true,
+  "firstWord": {
+    "text": "My",
+    "start": 0.08,
+    "end": 0.26
+  },
+  "lastWord": {
+    "text": "back.",
+    "start": 95.61,
+    "end": 96.11
+  },
+  "audioUnmodified": true,
+  "narrationSha256": "3c2934a5b65079635d018ff24e308277810873583b65372356614fd6b23a9eb9",
+  "issues": []
+}

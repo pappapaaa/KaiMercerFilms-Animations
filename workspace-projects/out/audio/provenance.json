@@ -1,0 +1,11 @@
+{
+  "source": "User supplied ElevenLabs MP3",
+  "sourceFile": "out/audio/user-elevenlabs.mp3",
+  "voice": "Alex - Upbeat, Energetic and Clear",
+  "sourceSHA256": "76a5aa236523c9d490ff5ed6e5f43ab8f4e822b32dbf4e69bc3c61a881753879",
+  "processing": "Decoded and resampled to 48kHz stereo PCM only. Original speed, pauses, and delivery preserved. No time compression, silence trimming, or pitch change. Mix master gain/limiting only.",
+  "voiceDuration": 62.641688,
+  "compositionFrames": 1880,
+  "compositionDuration": 62.666666666666664,
+  "transcriptCheck": "Same narration as SCRIPT.md; automatic ASR spelled Its as It's and split unsuccessfully at the 30-second analysis window. Corrected transcript only."
+}

@@ -1,0 +1,95 @@
+{
+  "nativeProof": "full_proof_v2",
+  "sourceSha256": "4f20ed0025b937eed9ba2c1009448a756101b7657696cd0c40fbd06fd059f1e8",
+  "match": true,
+  "files": [
+    {
+      "path": "src/captions.json",
+      "match": true
+    },
+    {
+      "path": "src/Characters.ts",
+      "match": true
+    },
+    {
+      "path": "src/DogMax.ts",
+      "match": true
+    },
+    {
+      "path": "src/Film.tsx",
+      "match": true
+    },
+    {
+      "path": "src/index.ts",
+      "match": true
+    },
+    {
+      "path": "src/Look.ts",
+      "match": true
+    },
+    {
+      "path": "src/Post.tsx",
+      "match": true
+    },
+    {
+      "path": "src/Props.ts",
+      "match": true
+    },
+    {
+      "path": "src/Root.tsx",
+      "match": true
+    },
+    {
+      "path": "src/Scene.tsx",
+      "match": true
+    },
+    {
+      "path": "src/Story.ts",
+      "match": true
+    },
+    {
+      "path": "src/vendor/cardshade.ts",
+      "match": true
+    },
+    {
+      "path": "src/vendor/grade.ts",
+      "match": true
+    },
+    {
+      "path": "src/vendor/ink.ts",
+      "match": true
+    },
+    {
+      "path": "src/vendor/lensblur.ts",
+      "match": true
+    },
+    {
+      "path": "src/vendor/LICENSE-claude-animated-shorts.txt",
+      "match": true
+    },
+    {
+      "path": "src/vendor/lights.ts",
+      "match": true
+    },
+    {
+      "path": "src/vendor/paint.ts",
+      "match": true
+    },
+    {
+      "path": "src/vendor/shade.ts",
+      "match": true
+    },
+    {
+      "path": "src/vendor/story.ts",
+      "match": true
+    },
+    {
+      "path": "src/vendor/toon.ts",
+      "match": true
+    },
+    {
+      "path": "src/Worlds.ts",
+      "match": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "max_fullfilm",
+    "compared_files": 59,
+    "differences": [],
+    "rendering_src_identical": true,
+    "note": "Read-only comparison; production inputs were not edited."
+  },
+  {
+    "id": "baseball_preview",
+    "compared_files": 36,
+    "differences": [
+      "docs/EDITORIAL_PACING.md",
+      "scripts/render_preview.mjs"
+    ],
+    "rendering_src_identical": true,
+    "note": "Read-only comparison; production inputs were not edited."
+  }
+]

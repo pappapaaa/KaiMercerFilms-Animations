@@ -1,0 +1,33 @@
+{
+  "name": "max-wall-short",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Max and the shared wall: original narrated short built with the approved audited MIT repository renderer",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "typecheck": "tsc --noEmit",
+    "render": "node scripts/produce.mjs video",
+    "render:stills": "node scripts/produce.mjs stills",
+    "render:preview": "node scripts/render_preview.mjs",
+    "render:film": "node scripts/render_film.mjs"
+  },
+  "dependencies": {
+    "three": "0.187.0",
+    "remotion": "4.0.539",
+    "@remotion/bundler": "4.0.539",
+    "@remotion/renderer": "4.0.539",
+    "@remotion/cli": "4.0.539",
+    "@remotion/three": "4.0.539",
+    "@react-three/fiber": "9.5.0",
+    "@react-three/postprocessing": "3.0.4",
+    "postprocessing": "6.39.6",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  },
+  "devDependencies": {
+    "typescript": "5.9.3",
+    "@types/react": "19.2.2",
+    "@types/react-dom": "19.2.2",
+    "@types/three": "0.183.1"
+  }
+}

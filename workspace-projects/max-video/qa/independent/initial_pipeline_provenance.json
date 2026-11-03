@@ -1,0 +1,164 @@
+{
+  "createdAt": "2026-11-02T14:45:26.315788+00:00",
+  "baseline": "baseball_fancam_short/repo_remake/fresh_project",
+  "newProject": "max_wall_short",
+  "note": "Initial scaffold provenance only; visual equivalence is not inferred from hashes. Baseline files are read-only by QA convention. Native reference pixels remain private and are excluded from QA deliverable assets.",
+  "files": [
+    {
+      "path": "src/Characters.ts",
+      "baselineSha256": "a33d5ccdf3b3522d2261e6750239da88de9266538fa8b482f905464d00fbb310",
+      "newInitialSha256": "a33d5ccdf3b3522d2261e6750239da88de9266538fa8b482f905464d00fbb310",
+      "identical": true
+    },
+    {
+      "path": "src/Film.tsx",
+      "baselineSha256": "782f83146a00d3c8fa520178f91141e2d4ff2ace8511f99ffa2848f50654c180",
+      "newInitialSha256": "782f83146a00d3c8fa520178f91141e2d4ff2ace8511f99ffa2848f50654c180",
+      "identical": true
+    },
+    {
+      "path": "src/Look.ts",
+      "baselineSha256": "a75f09021b0fbee39687feb63e4c6e9aa895799cdc85961024f23947f1dd7df8",
+      "newInitialSha256": "a75f09021b0fbee39687feb63e4c6e9aa895799cdc85961024f23947f1dd7df8",
+      "identical": true
+    },
+    {
+      "path": "src/Post.tsx",
+      "baselineSha256": "2c7560ecf115f9186d94fe6eb1a95d9c815fad578bd32ab11dea14ddfaec0203",
+      "newInitialSha256": "2c7560ecf115f9186d94fe6eb1a95d9c815fad578bd32ab11dea14ddfaec0203",
+      "identical": true
+    },
+    {
+      "path": "src/Props.ts",
+      "baselineSha256": "71a1a5df0a9f4162834276cc1d389e0c8a03f2f19c0dee620a5a4300eb4b47fe",
+      "newInitialSha256": null,
+      "identical": false
+    },
+    {
+      "path": "src/Root.tsx",
+      "baselineSha256": "f75dff03f4170e577482ad5e726fc31d8a9fecbc97437f68faf72ac4312c9ccb",
+      "newInitialSha256": null,
+      "identical": false
+    },
+    {
+      "path": "src/Scene.tsx",
+      "baselineSha256": "0b5b8f4745e23c6aab37040ac797e8e295a87d06049135b46991cfee6deeb2fe",
+      "newInitialSha256": null,
+      "identical": false
+    },
+    {
+      "path": "src/Story.ts",
+      "baselineSha256": "56781cfb35872d2473eea171e779c28076ee5ce702729a0a7a184dcd3847a908",
+      "newInitialSha256": null,
+      "identical": false
+    },
+    {
+      "path": "src/Worlds.ts",
+      "baselineSha256": "840b711afaad031c5372b8d6dc2ddca8a0f55b2d73164ebb4f0813eb954fcfcc",
+      "newInitialSha256": null,
+      "identical": false
+    },
+    {
+      "path": "src/captions.json",
+      "baselineSha256": "5f2be89b408a87e79e67e692dbe96d3cf18d73224e2d8e0dc60405f0f97f17a5",
+      "newInitialSha256": null,
+      "identical": false
+    },
+    {
+      "path": "src/index.ts",
+      "baselineSha256": "2e0e358282a1b998a65387c653b97c2bb2eb7aae94cf200fc0b8d919f7be73a6",
+      "newInitialSha256": "2e0e358282a1b998a65387c653b97c2bb2eb7aae94cf200fc0b8d919f7be73a6",
+      "identical": true
+    },
+    {
+      "path": "src/vendor/LICENSE-claude-animated-shorts.txt",
+      "baselineSha256": "7a9f540bcc5d44c6d56cb6fa7359e7674a76307e967e1ebfc223141def5bd9fd",
+      "newInitialSha256": "7a9f540bcc5d44c6d56cb6fa7359e7674a76307e967e1ebfc223141def5bd9fd",
+      "identical": true
+    },
+    {
+      "path": "src/vendor/cardshade.ts",
+      "baselineSha256": "2d84df886c71caf3aec7cfc5ff717708454e37c85ff5346b4b9d688621ac7844",
+      "newInitialSha256": "2d84df886c71caf3aec7cfc5ff717708454e37c85ff5346b4b9d688621ac7844",
+      "identical": true
+    },
+    {
+      "path": "src/vendor/grade.ts",
+      "baselineSha256": "86ba2bcf0a0ba2bf5cec18c040cd932bcb973715c3a83314e44ddebf577b8138",
+      "newInitialSha256": "86ba2bcf0a0ba2bf5cec18c040cd932bcb973715c3a83314e44ddebf577b8138",
+      "identical": true
+    },
+    {
+      "path": "src/vendor/ink.ts",
+      "baselineSha256": "08c281a4473a202d2512a7c9b276aa2be3351442a4cbaa0c0f7440e76f5d2678",
+      "newInitialSha256": "08c281a4473a202d2512a7c9b276aa2be3351442a4cbaa0c0f7440e76f5d2678",
+      "identical": true
+    },
+    {
+      "path": "src/vendor/lensblur.ts",
+      "baselineSha256": "34b545d1b89802423ffe0fa29def76e414bee9f7e08dfdd3b67c128b8a194ca9",
+      "newInitialSha256": "34b545d1b89802423ffe0fa29def76e414bee9f7e08dfdd3b67c128b8a194ca9",
+      "identical": true
+    },
+    {
+      "path": "src/vendor/lights.ts",
+      "baselineSha256": "6cac5ded364cbfe536e45679d982bbd0399778b71ca52585964be7eefcc830ea",
+      "newInitialSha256": "6cac5ded364cbfe536e45679d982bbd0399778b71ca52585964be7eefcc830ea",
+      "identical": true
+    },
+    {
+      "path": "src/vendor/paint.ts",
+      "baselineSha256": "594a360829d9de79565ef12fe226f475cbfa0525cf3c987b5ae9a065bd30c256",
+      "newInitialSha256": "594a360829d9de79565ef12fe226f475cbfa0525cf3c987b5ae9a065bd30c256",
+      "identical": true
+    },
+    {
+      "path": "src/vendor/shade.ts",
+      "baselineSha256": "fbddf3dc5075f471631a0ff926dca3d6c249f24bfdb023ec2d44fcbd9082f4e5",
+      "newInitialSha256": "fbddf3dc5075f471631a0ff926dca3d6c249f24bfdb023ec2d44fcbd9082f4e5",
+      "identical": true
+    },
+    {
+      "path": "src/vendor/story.ts",
+      "baselineSha256": "4a87c2e6929478f13923f7f6bcbee87f2a126ace1863441b2619748627ba1862",
+      "newInitialSha256": "4a87c2e6929478f13923f7f6bcbee87f2a126ace1863441b2619748627ba1862",
+      "identical": true
+    },
+    {
+      "path": "src/vendor/toon.ts",
+      "baselineSha256": "4c8dc6d031665e90e8b7b863369939dcc9864e6d9d9af05105a7de2c4452f01f",
+      "newInitialSha256": "4c8dc6d031665e90e8b7b863369939dcc9864e6d9d9af05105a7de2c4452f01f",
+      "identical": true
+    },
+    {
+      "path": "scripts/render.mjs",
+      "baselineSha256": "4f17bb8e64f306211addf4d02f400bc5952452716e2b5d2363527ae21a70ebd2",
+      "newInitialSha256": "4f17bb8e64f306211addf4d02f400bc5952452716e2b5d2363527ae21a70ebd2",
+      "identical": true
+    },
+    {
+      "path": "scripts/render_preview.mjs",
+      "baselineSha256": "9ea73af9a2162129cf2e68741cdf5e8fa90c1dd6dd4efd8ccbfe5bd6629b6d95",
+      "newInitialSha256": "9ea73af9a2162129cf2e68741cdf5e8fa90c1dd6dd4efd8ccbfe5bd6629b6d95",
+      "identical": true
+    },
+    {
+      "path": "scripts/setup-local.mjs",
+      "baselineSha256": "8f031b3508a33869d0699272c6308473264ae85d6d4c2ef2607210cbed64f826",
+      "newInitialSha256": "8f031b3508a33869d0699272c6308473264ae85d6d4c2ef2607210cbed64f826",
+      "identical": true
+    },
+    {
+      "path": "third_party/claude-animated-shorts-LICENSE",
+      "baselineSha256": "7a9f540bcc5d44c6d56cb6fa7359e7674a76307e967e1ebfc223141def5bd9fd",
+      "newInitialSha256": "7a9f540bcc5d44c6d56cb6fa7359e7674a76307e967e1ebfc223141def5bd9fd",
+      "identical": true
+    },
+    {
+      "path": "public/narration.mp3",
+      "baselineSha256": "6dba50471b054859264fe5dd2b4e3e892dbdda7a11e175c9fb7bb5a7dc90ac5d",
+      "newInitialSha256": "3c2934a5b65079635d018ff24e308277810873583b65372356614fd6b23a9eb9",
+      "identical": false
+    }
+  ]
+}

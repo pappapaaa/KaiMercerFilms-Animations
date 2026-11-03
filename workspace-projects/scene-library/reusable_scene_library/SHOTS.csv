@@ -1,0 +1,71 @@
+id,project,startFrame,endFrameExclusive,frames,set,implemented_action_or_label,lighting_mode,scene_source,scene_branch_line,camera_source
+0,max,0,79,79,bedroom,dog_hook,night,sources/max_wall_short/src/Scene.tsx,46,sources/max_wall_short/src/Story.ts
+1,max,79,153,74,bedroom,clock_3am,night,sources/max_wall_short/src/Scene.tsx,47,sources/max_wall_short/src/Story.ts
+2,max,153,217,64,bedroom,rehome_threat,night,sources/max_wall_short/src/Scene.tsx,48,sources/max_wall_short/src/Story.ts
+3,max,217,291,74,bedroom,first_night,night,sources/max_wall_short/src/Scene.tsx,49,sources/max_wall_short/src/Story.ts
+4,max,291,382,91,bedroom,ear_to_wall,night,sources/max_wall_short/src/Scene.tsx,50,sources/max_wall_short/src/Story.ts
+5,max,382,439,57,bedroom,go_to_sleep,night,sources/max_wall_short/src/Scene.tsx,51,sources/max_wall_short/src/Story.ts
+6,max,439,554,115,bedroom,claw_paint,night,sources/max_wall_short/src/Scene.tsx,52,sources/max_wall_short/src/Story.ts
+7,max,554,656,102,bedroom,sleepless,night,sources/max_wall_short/src/Scene.tsx,53,sources/max_wall_short/src/Story.ts
+8,max,656,724,68,bedroom,girlfriend_roll,night,sources/max_wall_short/src/Scene.tsx,54,sources/max_wall_short/src/Story.ts
+9,max,724,787,63,bedroom,girlfriend_scold,night,sources/max_wall_short/src/Scene.tsx,54,sources/max_wall_short/src/Story.ts
+10,max,787,892,105,bedroom,neighbor_excuse,night,sources/max_wall_short/src/Scene.tsx,57,sources/max_wall_short/src/Story.ts
+11,max,892,949,57,bedroom,collar_drag,night,sources/max_wall_short/src/Scene.tsx,58,sources/max_wall_short/src/Story.ts
+12,max,949,1041,92,bedroom,break_free,night,sources/max_wall_short/src/Scene.tsx,59,sources/max_wall_short/src/Story.ts
+13,max,1041,1102,61,bedroom,write_post,morning,sources/max_wall_short/src/Scene.tsx,60,sources/max_wall_short/src/Story.ts
+14,max,1102,1193,91,bedroom,draft_text,morning,sources/max_wall_short/src/Scene.tsx,60,sources/max_wall_short/src/Story.ts
+15,max,1193,1287,94,bedroom,save_draft,morning,sources/max_wall_short/src/Scene.tsx,60,sources/max_wall_short/src/Story.ts
+16,max,1287,1366,79,bedroom,alarm_again,night,sources/max_wall_short/src/Scene.tsx,61,sources/max_wall_short/src/Story.ts
+17,max,1366,1422,56,bedroom,ominous_quiet,night,sources/max_wall_short/src/Scene.tsx,62,sources/max_wall_short/src/Story.ts
+18,max,1422,1460,38,bedroom,howl,night,sources/max_wall_short/src/Scene.tsx,63,sources/max_wall_short/src/Story.ts
+19,max,1460,1536,76,bedroom,body_wall,night,sources/max_wall_short/src/Scene.tsx,64,sources/max_wall_short/src/Story.ts
+20,max,1536,1583,47,bedroom,yell_abort,night,sources/max_wall_short/src/Scene.tsx,65,sources/max_wall_short/src/Story.ts
+21,max,1583,1648,65,bedroom,hear_wall,night,sources/max_wall_short/src/Scene.tsx,66,sources/max_wall_short/src/Story.ts
+22,max,1648,1736,88,bedroom,thumps,night,sources/max_wall_short/src/Scene.tsx,66,sources/max_wall_short/src/Story.ts
+23,max,1736,1786,50,bedroom,stomach_drop,night,sources/max_wall_short/src/Scene.tsx,66,sources/max_wall_short/src/Story.ts
+24,max,1786,1844,58,hallway,hallway_run,hallway,sources/max_wall_short/src/Scene.tsx,70,sources/max_wall_short/src/Story.ts
+25,max,1844,1899,55,hallway,pound_door,hallway,sources/max_wall_short/src/Scene.tsx,71,sources/max_wall_short/src/Story.ts
+26,max,1899,1956,57,hallway,call_harlan,hallway,sources/max_wall_short/src/Scene.tsx,71,sources/max_wall_short/src/Story.ts
+27,max,1956,1985,29,hallway,no_answer,hallway,sources/max_wall_short/src/Scene.tsx,72,sources/max_wall_short/src/Story.ts
+28,max,1985,2070,85,hallway,tap_back,hallway,sources/max_wall_short/src/Scene.tsx,72,sources/max_wall_short/src/Story.ts
+29,max,2070,2110,40,hallway,call_911,hallway,sources/max_wall_short/src/Scene.tsx,73,sources/max_wall_short/src/Story.ts
+30,max,2110,2175,65,hallway,rescue_entry,hallway,sources/max_wall_short/src/Scene.tsx,74,sources/max_wall_short/src/Story.ts
+31,max,2175,2252,77,bathroom,bath_scratch,bathroom,sources/max_wall_short/src/Scene.tsx,78,sources/max_wall_short/src/Story.ts
+32,max,2252,2307,55,bathroom,fallen_harlan,bathroom,sources/max_wall_short/src/Scene.tsx,79,sources/max_wall_short/src/Story.ts
+33,max,2307,2398,91,bathroom,unreachable_phone,bathroom,sources/max_wall_short/src/Scene.tsx,79,sources/max_wall_short/src/Story.ts
+34,max,2398,2452,54,bathroom,paramedic,bathroom,sources/max_wall_short/src/Scene.tsx,81,sources/max_wall_short/src/Story.ts
+35,max,2452,2556,104,bathroom,warning,bathroom,sources/max_wall_short/src/Scene.tsx,81,sources/max_wall_short/src/Story.ts
+36,max,2556,2648,92,bedroom,delete_post,morning,sources/max_wall_short/src/Scene.tsx,60,sources/max_wall_short/src/Story.ts
+37,max,2648,2717,69,bedroom,steak,night,sources/max_wall_short/src/Scene.tsx,83,sources/max_wall_short/src/Story.ts
+38,max,2717,2752,35,sunday,harlan_payoff,sunday,sources/max_wall_short/src/Scene.tsx,87,sources/max_wall_short/src/Story.ts
+39,max,2752,2787,35,sunday,sunday,sunday,sources/max_wall_short/src/Scene.tsx,87,sources/max_wall_short/src/Story.ts
+40,max,2787,2840,53,sunday,two_knocks,sunday,sources/max_wall_short/src/Scene.tsx,87,sources/max_wall_short/src/Story.ts
+41,max,2840,2887,47,sunday,bark_back,sunday,sources/max_wall_short/src/Scene.tsx,85,sources/max_wall_short/src/Story.ts
+0,baseball,0,103,103,bedroom,FRIDAY,day,sources/baseball_fancam_fresh/src/Scene.tsx,32,sources/baseball_fancam_fresh/src/Story.ts
+1,baseball,103,189,86,bedroom,THE PERFORMANCE,day,sources/baseball_fancam_fresh/src/Scene.tsx,32,sources/baseball_fancam_fresh/src/Story.ts
+2,baseball,189,272,83,bedroom,BARELY OUT OF BED,day,sources/baseball_fancam_fresh/src/Scene.tsx,32,sources/baseball_fancam_fresh/src/Story.ts
+3,baseball,272,376,104,bossOffice,“GET SOME REST.”,day,sources/baseball_fancam_fresh/src/Scene.tsx,33,sources/baseball_fancam_fresh/src/Story.ts
+4,baseball,376,456,80,bedroom,GENIUS.,day,sources/baseball_fancam_fresh/src/Scene.tsx,32,sources/baseball_fancam_fresh/src/Story.ts
+5,baseball,456,592,136,stadium,ONE HOUR LATER,day,sources/baseball_fancam_fresh/src/Scene.tsx,19,sources/baseball_fancam_fresh/src/Story.ts
+6,baseball,592,732,140,stadium,FIFTH INNING,day,sources/baseball_fancam_fresh/src/Scene.tsx,19,sources/baseball_fancam_fresh/src/Story.ts
+7,baseball,732,781,49,stadium,FAN CAM · LIVE,day,sources/baseball_fancam_fresh/src/Scene.tsx,19,sources/baseball_fancam_fresh/src/Story.ts
+8,baseball,781,835,54,stadium,FAN CAM · LIVE,day,sources/baseball_fancam_fresh/src/Scene.tsx,19,sources/baseball_fancam_fresh/src/Story.ts
+9,baseball,835,987,152,stadium,FAN CAM · LIVE,day,sources/baseball_fancam_fresh/src/Scene.tsx,19,sources/baseball_fancam_fresh/src/Story.ts
+10,baseball,987,1028,41,stadium,THE CROWD GOES WILD,day,sources/baseball_fancam_fresh/src/Scene.tsx,19,sources/baseball_fancam_fresh/src/Story.ts
+11,baseball,1028,1085,57,stadium,LOCAL CELEBRITY,day,sources/baseball_fancam_fresh/src/Scene.tsx,19,sources/baseball_fancam_fresh/src/Story.ts
+12,baseball,1085,1226,141,stadium,RIGHT. BEHIND. ME.,day,sources/baseball_fancam_fresh/src/Scene.tsx,19,sources/baseball_fancam_fresh/src/Story.ts
+13,baseball,1226,1263,37,stadium,HAWAIIAN SHIRT.,day,sources/baseball_fancam_fresh/src/Scene.tsx,19,sources/baseball_fancam_fresh/src/Story.ts
+14,baseball,1263,1310,47,stadium,GIANT BEER.,day,sources/baseball_fancam_fresh/src/Scene.tsx,19,sources/baseball_fancam_fresh/src/Story.ts
+15,baseball,1310,1348,38,stadium,MY BOSS.,day,sources/baseball_fancam_fresh/src/Scene.tsx,19,sources/baseball_fancam_fresh/src/Story.ts
+16,baseball,1348,1389,41,stadium,OH.,day,sources/baseball_fancam_fresh/src/Scene.tsx,19,sources/baseball_fancam_fresh/src/Story.ts
+17,baseball,1389,1462,73,stadium,NOT A CELEBRITY,day,sources/baseball_fancam_fresh/src/Scene.tsx,19,sources/baseball_fancam_fresh/src/Story.ts
+18,baseball,1462,1567,105,stadium,AWKWARD.,day,sources/baseball_fancam_fresh/src/Scene.tsx,19,sources/baseball_fancam_fresh/src/Story.ts
+19,baseball,1567,1640,73,stadium,INVISIBLE. PROBABLY.,day,sources/baseball_fancam_fresh/src/Scene.tsx,19,sources/baseball_fancam_fresh/src/Story.ts
+20,baseball,1640,1753,113,office,MONDAY MORNING,day,sources/baseball_fancam_fresh/src/Scene.tsx,46,sources/baseball_fancam_fresh/src/Story.ts
+21,baseball,1753,1812,59,office,A NOTE.,day,sources/baseball_fancam_fresh/src/Scene.tsx,46,sources/baseball_fancam_fresh/src/Story.ts
+22,baseball,1812,1922,110,office,FEEL BETTER SOON.,day,sources/baseball_fancam_fresh/src/Scene.tsx,46,sources/baseball_fancam_fresh/src/Story.ts
+23,baseball,1922,1998,76,meeting,9:00 AM · TEAM MEETING,day,sources/baseball_fancam_fresh/src/Scene.tsx,21,sources/baseball_fancam_fresh/src/Story.ts
+24,baseball,1998,2031,33,meeting,"GREAT NEWS, TEAM.",day,sources/baseball_fancam_fresh/src/Scene.tsx,21,sources/baseball_fancam_fresh/src/Story.ts
+25,baseball,2031,2143,112,meeting,+1 PERSONAL DAY,day,sources/baseball_fancam_fresh/src/Scene.tsx,21,sources/baseball_fancam_fresh/src/Story.ts
+26,baseball,2143,2183,40,meeting,THE GLANCE,day,sources/baseball_fancam_fresh/src/Scene.tsx,21,sources/baseball_fancam_fresh/src/Story.ts
+27,baseball,2183,2253,70,meeting,STAY AWAY FROM THE FAN CAM.,day,sources/baseball_fancam_fresh/src/Scene.tsx,21,sources/baseball_fancam_fresh/src/Story.ts

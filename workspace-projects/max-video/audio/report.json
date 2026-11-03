@@ -1,0 +1,26 @@
+{
+  "duration": 96.23333333333333,
+  "frames": 2887,
+  "fps": 30,
+  "sampleRate": 48000,
+  "channels": 2,
+  "integratedLUFS": -14.12,
+  "truePeakDBTP": -1.2,
+  "loudnessRangeLU": 3.8,
+  "samplePeak": 0.8709855079650879,
+  "clippedSamples": 0,
+  "narrationSHA256": "3c2934a5b65079635d018ff24e308277810873583b65372356614fd6b23a9eb9",
+  "originalNarrationFileUnmodified": true,
+  "playbackRate": 1,
+  "voiceProcessing": "Resampling and light level compression only; no cuts, pause removal, stretch or pitch change. Master loudness normalization/limiting.",
+  "drywallThumps": [
+    54.94,
+    55.9,
+    56.81
+  ],
+  "finalKnocks": [
+    93.24,
+    94.05
+  ],
+  "cueCount": 44
+}

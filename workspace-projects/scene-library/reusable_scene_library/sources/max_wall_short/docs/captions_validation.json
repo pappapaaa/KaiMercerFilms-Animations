@@ -1,0 +1,41 @@
+{
+  "passed": true,
+  "scriptWords": 286,
+  "alignedScriptWords": 286,
+  "acousticTokens": 289,
+  "captionCount": 72,
+  "firstWordStart": 0.08,
+  "lastWordEnd": 96.11,
+  "mp3ContainerDurationSeconds": 96.208938,
+  "analysisDecodedPCMSeconds": 96.209,
+  "compositionFrames": 2887,
+  "compositionFPS": 30,
+  "compositionDurationSeconds": 96.23333333333333,
+  "audioPlaybackRate": 1,
+  "originalSha256": "3c2934a5b65079635d018ff24e308277810873583b65372356614fd6b23a9eb9",
+  "publicSha256": "3c2934a5b65079635d018ff24e308277810873583b65372356614fd6b23a9eb9",
+  "byteIdentical": true,
+  "method": "PocketSphinx5.0.4 local en-US acoustic forced alignment; word pass followed by phone/state pass; 10ms acoustic frames.12 silent-gap-delimited chunks. Broadbeam search retained to align compressed contracted warning sentence. Numeric display tokens84 and911 merge their two/three spoken tokens without changing original captions. No proportional timing, silence insertion, speech-speed modification or remote audio upload.",
+  "checks": [
+    "all286 original script tokens retained verbatim and in order",
+    "all positive word durations",
+    "all words enclosed in corresponding cue",
+    "all cue boundaries nonoverlapping",
+    "first audio and video frames start0; no pre-roll",
+    "last cue held through composition end96.233333; source MP3 untouched"
+  ],
+  "shortDramaticCues": [
+    "thump...",
+    "thump...",
+    "thump.",
+    "Nothing.",
+    "that night."
+  ],
+  "limitations": [
+    "Forced alignment is constrained to supplied script and does not independently prove spoken transcript accuracy.",
+    "Independent local unconstrained ASR saved in docs/independent_asr.json; recognition errors remain and were not used to rewrite captions.",
+    "No human-certified listening or transcription.10ms boundaries are acoustic estimates.",
+    "Whole-file narrow-beam alignment failed; successful chunked broad-beam results are authoritative."
+  ],
+  "officialDocumentation": "https://pocketsphinx.readthedocs.io/en/stable/pocketsphinx.html#pocketsphinx.Decoder.set_align_text"
+}

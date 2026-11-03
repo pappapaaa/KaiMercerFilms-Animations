@@ -1,0 +1,14 @@
+{
+  "actualRepoBodySide": true,
+  "testedProfileStrides": [
+    0.31,
+    1
+  ],
+  "stanceSamples": 1248,
+  "maxWorldSlipMetres": 7.771561172376096e-16,
+  "stanceSoleYRange": [
+    -0.002212499999999693,
+    -0.002212499999999693
+  ],
+  "failures": []
+}

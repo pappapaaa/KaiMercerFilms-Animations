@@ -1,0 +1,15 @@
+{
+  "reviewedUTC": "2026-11-02T16:43:00Z",
+  "method": "Independent token sequence, timing order/range, cue containment and SHA-256 source identity; not perceptual listening",
+  "cueCount": 72,
+  "wordCount": 286,
+  "scriptWordCount": 286,
+  "exactTokenSequenceMatch": true,
+  "audioUnmodified": true,
+  "narrationSha256": "3c2934a5b65079635d018ff24e308277810873583b65372356614fd6b23a9eb9",
+  "originalAudioSeconds": 96.208938,
+  "nativeFrames": 2887,
+  "nativeFrameSeconds": 96.23333333333333,
+  "issues": [],
+  "pass": true
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "file": "audio/sources/animal-dog-bark-25.wav",
+    "sha256": "c937b30da84d0900d976e1b31d8d9652f00ca4be0cbbd9f472fd137719bc343e",
+    "bytes": 352878,
+    "page": "https://sfxmint.com/sounds/animal-dog-bark-25",
+    "download": "https://sfxmint.com/dl/animal-dog-bark-25.wav",
+    "license": "CC0 1.0 Universal",
+    "licenseURL": "https://sfxmint.com/license",
+    "checked": "2026-11-02",
+    "type": "AI-generated published library sound",
+    "edits": "Leading/trailing silence trimmed, level adjusted, mixed under narration."
+  },
+  {
+    "file": "audio/sources/dog-howl-02.wav",
+    "sha256": "e2cc372c86471592a73aa9f81a989169b171b5dfbea6cff67423b00d33a46565",
+    "bytes": 441078,
+    "page": "https://sfxmint.com/sounds/dog-howl-02",
+    "download": "https://sfxmint.com/dl/dog-howl-02.wav",
+    "license": "CC0 1.0 Universal",
+    "licenseURL": "https://sfxmint.com/license",
+    "checked": "2026-11-02",
+    "type": "AI-generated published library sound",
+    "edits": "Leading/trailing silence trimmed, level adjusted, mixed under narration."
+  }
+]

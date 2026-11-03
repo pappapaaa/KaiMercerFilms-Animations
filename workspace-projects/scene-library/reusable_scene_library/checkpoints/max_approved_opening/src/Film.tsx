@@ -1,0 +1,5 @@
+import React from 'react';
+import {AbsoluteFill,Audio,staticFile,useCurrentFrame,useVideoConfig} from 'remotion';
+import {Scene} from './Scene';
+import captions from './captions.json';
+export const Film:React.FC<{post?:boolean}> = ({post=true})=>{const frame=useCurrentFrame(),{width}=useVideoConfig(),time=frame/30,s=width/1080;const cue=captions.find(c=>time>=c.start&&time<c.end);return <AbsoluteFill style={{background:'#a9d3df'}}><Scene frame={frame} post={post}/><Audio src={staticFile('narration.mp3')}/>{cue&&<div style={{position:'absolute',left:58*s,right:58*s,bottom:166*s,display:'flex',justifyContent:'center',pointerEvents:'none'}}><div style={{fontFamily:'Arial, sans-serif',fontSize:62*s,fontWeight:900,lineHeight:1.12,textAlign:'center',letterSpacing:-1.1*s,color:'#fff7e5',WebkitTextStroke:`${7*s}px #231d2d`,paintOrder:'stroke fill',textShadow:`0 ${4*s}px ${5*s}px #0005`}}>{cue.words.map((w,i)=><React.Fragment key={i}><span style={{color:time>=w.start&&time<w.end?'#ffd05a':undefined}}>{w.text}</span>{i<cue.words.length-1?' ':''}</React.Fragment>)}</div></div>}</AbsoluteFill>;};

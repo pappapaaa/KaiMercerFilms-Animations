@@ -1,0 +1,7 @@
+{
+  "method": "Compare all decoded raw-video frame MD5s from six source chunks concatenated in order against final assembledMP4; no perceptual claim",
+  "chunkFrames": 300,
+  "finalFrames": 300,
+  "identicalDecodedFrameSequence": true,
+  "mismatches": []
+}

@@ -1,0 +1,25 @@
+{
+  "defaultDogCanvasTraceMatchesFrozenPreview": true,
+  "frozenDogTrace": "00c79b01a2f777978c7ec635811f85455f6f50f852fec8976e9b08c365bc4b76",
+  "currentDogTrace": "00c79b01a2f777978c7ec635811f85455f6f50f852fec8976e9b08c365bc4b76",
+  "actualRepoBodySide": true,
+  "testedProfileStrides": [
+    0.31,
+    1
+  ],
+  "metrics": {
+    "stride": 0.31,
+    "cycleDistance": 0.86025,
+    "designScale": 0.00375
+  },
+  "stanceSamples": 1248,
+  "maxWorldSlipMetres": 7.771561172376096e-16,
+  "stanceSoleYRange": [
+    -0.002212499999999693,
+    -0.002212499999999693
+  ],
+  "defaultCanvasTraceMatchesFrozenPreview": true,
+  "frozenTrace": "5fad5f150705b2592033816a23434a266a7338f94e4253fa216ee084e66d4cef",
+  "currentTrace": "5fad5f150705b2592033816a23434a266a7338f94e4253fa216ee084e66d4cef",
+  "failures": []
+}

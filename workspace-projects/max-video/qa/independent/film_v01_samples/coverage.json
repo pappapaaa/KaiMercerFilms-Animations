@@ -1,0 +1,286 @@
+{
+  "method": "Native encoded frames decoded serially; chronological thumbnail review sheets, not real-time video playback",
+  "job": "/workspace/scratch/81cf969d0a39/max_wall_short/outputs/film_v01",
+  "sourceSha256": "6766a0c41e2a12bbfc03a617957a3c6a29dbd660c05685d7b3068bd94fa67b38",
+  "completedFrames": 1041,
+  "samples": [
+    {
+      "part": 0,
+      "globalFrame": 300,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0300.jpg",
+      "sha256": "52a32755ecf58a19603dfe72c23d3887c352726cd35b0402112dfba893561166"
+    },
+    {
+      "part": 0,
+      "globalFrame": 325,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0325.jpg",
+      "sha256": "e662e8e8a79cd7dca69ff508deb3c23aad03e31214876d623336f94317cc16df"
+    },
+    {
+      "part": 0,
+      "globalFrame": 381,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0381.jpg",
+      "sha256": "61e684eeea6b5d2e1e82aa97c9a0474d4bc358a135695ff0ba8fcf17c2f32ce1"
+    },
+    {
+      "part": 1,
+      "globalFrame": 382,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0382.jpg",
+      "sha256": "9d75ffda30a5808179cf7d684a8fc8fea41685b446dda1b300d79f550344485d"
+    },
+    {
+      "part": 1,
+      "globalFrame": 410,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0410.jpg",
+      "sha256": "3ae5537dd041b4e141f32c1feeba45c6050056ad6d87cb53d618fa9236f0e433"
+    },
+    {
+      "part": 1,
+      "globalFrame": 438,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0438.jpg",
+      "sha256": "50995582f4667dd11aefdf0f192f9e8d3802bf2ecbf15630c6022be3b928df73"
+    },
+    {
+      "part": 2,
+      "globalFrame": 439,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0439.jpg",
+      "sha256": "c79b13ce780b7128ad60c0a0c5224d22cbc449db2445579fbaf62213592c15e3"
+    },
+    {
+      "part": 2,
+      "globalFrame": 463,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0463.jpg",
+      "sha256": "dae6a18ffed7f3eda0647af2049c2ef4bcc0f8ef908c0b05115f8b2287f11da7"
+    },
+    {
+      "part": 2,
+      "globalFrame": 496,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0496.jpg",
+      "sha256": "bc92672ee2a33e28c372c67be6a3ede7c49f999b2f724d37b1d8223f98b728c3"
+    },
+    {
+      "part": 2,
+      "globalFrame": 523,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0523.jpg",
+      "sha256": "76d56afea3912d608c00add93843f3ad9eb0dafb51be0cb33ce2425461359aad"
+    },
+    {
+      "part": 2,
+      "globalFrame": 553,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0553.jpg",
+      "sha256": "dc18e6f1759e09921772d6b855a232cc4738f28d99ce14e0b2c037e41c84c62c"
+    },
+    {
+      "part": 3,
+      "globalFrame": 554,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0554.jpg",
+      "sha256": "39c4a5d911f6d57b5992c382340a66a1acdbb1195f4973798a221c8ebaceea1c"
+    },
+    {
+      "part": 3,
+      "globalFrame": 604,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0604.jpg",
+      "sha256": "70c2a10d33f7e8c273c70571418a0e41a2bb1e41018aa76eeabdb916eef12911"
+    },
+    {
+      "part": 3,
+      "globalFrame": 655,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0655.jpg",
+      "sha256": "6134e22582f220a9aa57b4024301abdef61bae1300756f36311e75dd6611c05a"
+    },
+    {
+      "part": 4,
+      "globalFrame": 656,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0656.jpg",
+      "sha256": "8f1541b6b6a0b2f8b6db9f7afaf039f7af3dfb063d494b6e4319dc7885446a67"
+    },
+    {
+      "part": 4,
+      "globalFrame": 668,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0668.jpg",
+      "sha256": "3abdce2c6b7b83a2bc736e237d495a22e5de8e6cb9143ab7d3102fcb02033e8a"
+    },
+    {
+      "part": 4,
+      "globalFrame": 689,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0689.jpg",
+      "sha256": "cd9c9e951108d0e7a1056f8c454ad078b2d12b30486941410993d6088ab2a286"
+    },
+    {
+      "part": 4,
+      "globalFrame": 711,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0711.jpg",
+      "sha256": "9531bca36907265e11a323378300c9e8f6065728d6939bc724baa5143af3dcf1"
+    },
+    {
+      "part": 4,
+      "globalFrame": 723,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0723.jpg",
+      "sha256": "8ff66bed80d4ad7c685864931a5dd20bc4806902e85e242af4ca7e74560f8a3b"
+    },
+    {
+      "part": 5,
+      "globalFrame": 724,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0724.jpg",
+      "sha256": "d7014c4f737dc05250f701ea17ebb4483c31bf620bece45cb485954c325391ed"
+    },
+    {
+      "part": 5,
+      "globalFrame": 755,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0755.jpg",
+      "sha256": "7668715c62210a70799e6fe240dfc62319ee6a37d3c07d8ef27cb67267aaaeb3"
+    },
+    {
+      "part": 5,
+      "globalFrame": 786,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0786.jpg",
+      "sha256": "aa942c22c1cb5f9dbeaa43ff4c4d89fe1e1711adaacf330ff719cc2b3dc1d1d4"
+    },
+    {
+      "part": 6,
+      "globalFrame": 787,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0787.jpg",
+      "sha256": "e22679e3d709c8f1454e39ff6a2250399e282c8e6ed98600b052446683df6ca7"
+    },
+    {
+      "part": 6,
+      "globalFrame": 839,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0839.jpg",
+      "sha256": "39cc0b8cf395f67473d266c8a73776cd16e0f4ead42397c9dd6e4ac279ea929b"
+    },
+    {
+      "part": 6,
+      "globalFrame": 891,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0891.jpg",
+      "sha256": "dad60f8585c85f93a11639ff9f851d6b00a18880da937187c59ec555d51d4b67"
+    },
+    {
+      "part": 7,
+      "globalFrame": 892,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0892.jpg",
+      "sha256": "c09b9f91fa02a38d2b87be5a1a1dd7ae43f160aee79ab138c95ef86b5dc8effb"
+    },
+    {
+      "part": 7,
+      "globalFrame": 907,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0907.jpg",
+      "sha256": "e495c759fe21d47a80f5e5c9e2bdd4f7dde5568936a021c23ae09e6f7e81c50c"
+    },
+    {
+      "part": 7,
+      "globalFrame": 920,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0920.jpg",
+      "sha256": "73081b557eb152a27eb42580ce9ebf123f78ae065b518d066fb043cd311174b2"
+    },
+    {
+      "part": 7,
+      "globalFrame": 938,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0938.jpg",
+      "sha256": "6006397ab9016ed17d53ae7e90f40629cc1f256ace4cf8355c107189fd6ab192"
+    },
+    {
+      "part": 7,
+      "globalFrame": 948,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0948.jpg",
+      "sha256": "3006847a754c08c9b8196cbf851577b51163805f8d8d584c41f17d69270ec601"
+    },
+    {
+      "part": 8,
+      "globalFrame": 949,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0949.jpg",
+      "sha256": "76c6378f824a4220be8678b6b25a9bad9c9fef0f4ea412d8f37bc5b1fb977891"
+    },
+    {
+      "part": 8,
+      "globalFrame": 960,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0960.jpg",
+      "sha256": "d217c5e7447468db124bc7d530fdda081e0c34411c5e3d558a36a3d2336dfe91"
+    },
+    {
+      "part": 8,
+      "globalFrame": 980,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0980.jpg",
+      "sha256": "c30778784093fd775f7cafb73318cc82efc42a6826fc3bd67cdd8a8907caa8ab"
+    },
+    {
+      "part": 8,
+      "globalFrame": 994,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f0994.jpg",
+      "sha256": "db0b3051f8ec1c98ea4a4625f35f5c0c3a2b8e1d38062b47daad92cb0059cfa1"
+    },
+    {
+      "part": 8,
+      "globalFrame": 1018,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f1018.jpg",
+      "sha256": "903a1e5b22cae3bd87781670f4ec6fb412ce1730d06fa9ead3663081247b5ca5"
+    },
+    {
+      "part": 8,
+      "globalFrame": 1040,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/f1040.jpg",
+      "sha256": "cd444ebc41d6815f6f31adbc5876da2cbb60321d2048b37ed71179f04c0f7e7f"
+    }
+  ],
+  "sheets": [
+    {
+      "page": 0,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/sheet_00.jpg",
+      "frames": [
+        300,
+        325,
+        381,
+        382,
+        410,
+        438,
+        439,
+        463,
+        496
+      ]
+    },
+    {
+      "page": 1,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/sheet_01.jpg",
+      "frames": [
+        523,
+        553,
+        554,
+        604,
+        655,
+        656,
+        668,
+        689,
+        711
+      ]
+    },
+    {
+      "page": 2,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/sheet_02.jpg",
+      "frames": [
+        723,
+        724,
+        755,
+        786,
+        787,
+        839,
+        891,
+        892,
+        907
+      ]
+    },
+    {
+      "page": 3,
+      "path": "/workspace/scratch/81cf969d0a39/max_wall_short/qa/independent/film_v01_samples/sheet_03.jpg",
+      "frames": [
+        920,
+        938,
+        948,
+        949,
+        960,
+        980,
+        994,
+        1018,
+        1040
+      ]
+    }
+  ]
+}

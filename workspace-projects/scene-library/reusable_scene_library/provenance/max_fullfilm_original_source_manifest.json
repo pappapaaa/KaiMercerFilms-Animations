@@ -1,0 +1,322 @@
+{
+  "sha256": "6766a0c41e2a12bbfc03a617957a3c6a29dbd660c05685d7b3068bd94fa67b38",
+  "createdAt": "2026-11-02T16:45:54.190Z",
+  "root": "/workspace/scratch/81cf969d0a39/max_wall_short/outputs/film_v01/source",
+  "files": [
+    {
+      "path": "docs/align_narration_fullfile_attempt.py",
+      "bytes": 1900,
+      "sha256": "9f411e8ed4f062699e476ea17c818096e8e08919a3441efb02dff2f10a818981"
+    },
+    {
+      "path": "docs/align_narration.py",
+      "bytes": 3144,
+      "sha256": "43eb8123ab0f4fcc8ee3b1b800dc3e4898f62e0b5a972a1e775ac1ec46bf8704"
+    },
+    {
+      "path": "docs/align_opening.py",
+      "bytes": 1913,
+      "sha256": "3c1fb2dcaae211d83026340e39ae19b75edf417fc93b8029b6d6a0af9cac1247"
+    },
+    {
+      "path": "docs/alignment_chunks.json",
+      "bytes": 577,
+      "sha256": "a4daaabedd829bb3bfdc7c58a357864d7532de32e7a2fbcd8d221a030e026355"
+    },
+    {
+      "path": "docs/alignment.log",
+      "bytes": 1087,
+      "sha256": "0f38bb3dfe4d1d8633474a544256b9b63b06d6bf3620619370b4da4bfcf8d99f"
+    },
+    {
+      "path": "docs/asr_probe.log",
+      "bytes": 1407,
+      "sha256": "c85be763cdefea616f988504a4c222e8ef6dc8a3847e85206b04b041e655b685"
+    },
+    {
+      "path": "docs/asr_probe.py",
+      "bytes": 516,
+      "sha256": "fdfc0a8896f1d67cae88b1354a3d3bf60394ad92f259fd38b5350ae5ffd9ca12"
+    },
+    {
+      "path": "docs/audio_identity.json",
+      "bytes": 470,
+      "sha256": "507089a94071a3214adac92341c4ffa04d2806a5b94b3966e9204f6f74b5e2b9"
+    },
+    {
+      "path": "docs/build_captions.py",
+      "bytes": 5217,
+      "sha256": "11875b445ca97a38299b4c91f8c5e9b406cf226a6e037b9ddc602e48411e8dc7"
+    },
+    {
+      "path": "docs/build_story_data.py",
+      "bytes": 4532,
+      "sha256": "93ca95aa6e540d332a8c5edce108f2fdf59d043d9d00ce18d01dbede67301993"
+    },
+    {
+      "path": "docs/captions_validation.json",
+      "bytes": 2083,
+      "sha256": "711b05b451c75df3218fc28c4c0e985ceb22925731fcd249b15c003926a2c2d8"
+    },
+    {
+      "path": "docs/captions.srt",
+      "bytes": 3917,
+      "sha256": "0a1ccef2c0267696a182d812af8bcaba7164a9e183904e9bf2cfc5bf9282140f"
+    },
+    {
+      "path": "docs/captions.vtt",
+      "bytes": 3718,
+      "sha256": "f53a62fb87f0f22c52b522bfb4d5f3045f91be8df9d8b267b638ded4fc642d66"
+    },
+    {
+      "path": "docs/EDITORIAL_PACING.md",
+      "bytes": 6197,
+      "sha256": "fe4c9862a746e1b8fc5231081b869114393c381366456b06da9e057701f6a039"
+    },
+    {
+      "path": "docs/forced_alignment_raw.json",
+      "bytes": 40453,
+      "sha256": "0533cb8b256a35ff99c2baefc428531304fc54ac49651486a7dbf48a4388d943"
+    },
+    {
+      "path": "docs/forced_alignment_refined.json",
+      "bytes": 36024,
+      "sha256": "00cd30b7c96d56a6c7ca22fe67ab312f61550f1dce86564746d1e3b70f552ae0"
+    },
+    {
+      "path": "docs/fullfilm_performance_fixes.md",
+      "bytes": 15648,
+      "sha256": "82148aad87b1660939d30b7376a925c80e18b9c3550f10ff258fb6738692c238"
+    },
+    {
+      "path": "docs/independent_asr.json",
+      "bytes": 26954,
+      "sha256": "ca6154f73de9e1c5731dbbb1288abfb9451bbbeaa25c1654e45ce0029d7df080"
+    },
+    {
+      "path": "docs/narration_16k.wav",
+      "bytes": 3078766,
+      "sha256": "94e745a1612c9dcd57d20b5056f30326a5f87968338d712f18a054ab28a79845"
+    },
+    {
+      "path": "docs/opening_alignment_raw.json",
+      "bytes": 2674,
+      "sha256": "38a43ce73c2512b54fa1398825d6dacd6bede64b7e128d22914117ad86c1388e"
+    },
+    {
+      "path": "docs/opening_alignment_refined.json",
+      "bytes": 2317,
+      "sha256": "a19bd90caa0d61067a660a6a01c76633ef4ac038b2006296aa1801c67a7728b0"
+    },
+    {
+      "path": "docs/opening_alignment.log",
+      "bytes": 1123,
+      "sha256": "066bd0a249526f2912c37f338f50eb8bb3eabe9c50048b7d08792b805a8fde4d"
+    },
+    {
+      "path": "docs/opening_word_alignment.json",
+      "bytes": 1572,
+      "sha256": "b4483cd234faf08d8dd866e8bc471deff3b10aa03960798a1004bfc00fb3ade9"
+    },
+    {
+      "path": "docs/PROJECT_SCOPE.md",
+      "bytes": 1682,
+      "sha256": "66e1b8f1dc6149d6b95cdf3607f66860d8093ab3a7d4fba205ed99fab7a70419"
+    },
+    {
+      "path": "docs/script.txt",
+      "bytes": 1487,
+      "sha256": "316688ee1de900af651b7cf7c6edb11146c16cd2ace50c6b3d9acdaee8bfb964"
+    },
+    {
+      "path": "docs/story_beats.json",
+      "bytes": 12346,
+      "sha256": "77a478480762d61aba9e5a13514bbb349c025e6fcccbf1d3a7285195c643352b"
+    },
+    {
+      "path": "docs/word_alignment.json",
+      "bytes": 18814,
+      "sha256": "4eaa8c741571374d0ab7130dcfa2642a849baead7a7760579f3bd289624c65aa"
+    },
+    {
+      "path": "docs/world_contract.md",
+      "bytes": 9237,
+      "sha256": "63c9c6cbe3a679da9c60b1a9d12c3d1c05f59d347e2104c67abd6faf92356b99"
+    },
+    {
+      "path": "package-lock.json",
+      "bytes": 157020,
+      "sha256": "3b9dce088e72031ec66b4acdf06a4956a6825f2df4b57c3c8964d096a07cb790"
+    },
+    {
+      "path": "package.json",
+      "bytes": 968,
+      "sha256": "1f0727e73e65857978e6e18309762cc61b7baa119819c9884062075c28c7fe9d"
+    },
+    {
+      "path": "public/narration.mp3",
+      "bytes": 1556280,
+      "sha256": "3c2934a5b65079635d018ff24e308277810873583b65372356614fd6b23a9eb9"
+    },
+    {
+      "path": "scripts/render_film.mjs",
+      "bytes": 6253,
+      "sha256": "f2ce0b2fc94e48bfdaa319ef4c90da665f87e504e30066d53e55910b0df6b4cd"
+    },
+    {
+      "path": "scripts/render_preview.mjs",
+      "bytes": 5042,
+      "sha256": "1bf2633bcb28f2abea4ee54f118c672b558585a262e81d314df82cf2ab9af497"
+    },
+    {
+      "path": "scripts/render.mjs",
+      "bytes": 4815,
+      "sha256": "850231db82574e85b6b7bd5eb6e01c24c5d2c4568e73d273a409d6c4e9cbcc77"
+    },
+    {
+      "path": "scripts/setup-local.mjs",
+      "bytes": 936,
+      "sha256": "8f031b3508a33869d0699272c6308473264ae85d6d4c2ef2607210cbed64f826"
+    },
+    {
+      "path": "src/captions.json",
+      "bytes": 31907,
+      "sha256": "280474a778c13b34c49baf98c3c48b0a8562ff5a94960870b3c69b942d8013ea"
+    },
+    {
+      "path": "src/Characters.ts",
+      "bytes": 15334,
+      "sha256": "d88b4c5df86fa6cc5d852efb4f6bc907756c9aee254cc08a9c4585bc413b01f0"
+    },
+    {
+      "path": "src/DogMax.ts",
+      "bytes": 11740,
+      "sha256": "e359e4012543f2f2faf3f0564f79659e0b08aead0667ac337ca1d7e74abf86ed"
+    },
+    {
+      "path": "src/Film.tsx",
+      "bytes": 1102,
+      "sha256": "782f83146a00d3c8fa520178f91141e2d4ff2ace8511f99ffa2848f50654c180"
+    },
+    {
+      "path": "src/index.ts",
+      "bytes": 88,
+      "sha256": "2e0e358282a1b998a65387c653b97c2bb2eb7aae94cf200fc0b8d919f7be73a6"
+    },
+    {
+      "path": "src/Look.ts",
+      "bytes": 4393,
+      "sha256": "313b372c8624903392f70d9135b3506fe97872f477bde2eff6d4a725c1789dce"
+    },
+    {
+      "path": "src/Post.tsx",
+      "bytes": 1697,
+      "sha256": "2c7560ecf115f9186d94fe6eb1a95d9c815fad578bd32ab11dea14ddfaec0203"
+    },
+    {
+      "path": "src/Props.ts",
+      "bytes": 2574,
+      "sha256": "ff17890d7423f1d455a08f00d16fdb5d7e589eb851d27e5dbe4befedcfe01cac"
+    },
+    {
+      "path": "src/Root.tsx",
+      "bytes": 489,
+      "sha256": "4ab30884cb99f1c209103deefcae699b91effb07926524bb794ffb9e734809f3"
+    },
+    {
+      "path": "src/Scene.tsx",
+      "bytes": 16318,
+      "sha256": "0e51958fd7f0745dac65539414e4eeed38547adbfb68c93c18e1787d34ed9871"
+    },
+    {
+      "path": "src/Story.ts",
+      "bytes": 8730,
+      "sha256": "57b5fd182f394191e98c1528a56798da200a9242771970e486392e5c6fd04ab7"
+    },
+    {
+      "path": "src/vendor/cardshade.ts",
+      "bytes": 6381,
+      "sha256": "2d84df886c71caf3aec7cfc5ff717708454e37c85ff5346b4b9d688621ac7844"
+    },
+    {
+      "path": "src/vendor/grade.ts",
+      "bytes": 10020,
+      "sha256": "86ba2bcf0a0ba2bf5cec18c040cd932bcb973715c3a83314e44ddebf577b8138"
+    },
+    {
+      "path": "src/vendor/ink.ts",
+      "bytes": 20876,
+      "sha256": "08c281a4473a202d2512a7c9b276aa2be3351442a4cbaa0c0f7440e76f5d2678"
+    },
+    {
+      "path": "src/vendor/lensblur.ts",
+      "bytes": 7963,
+      "sha256": "34b545d1b89802423ffe0fa29def76e414bee9f7e08dfdd3b67c128b8a194ca9"
+    },
+    {
+      "path": "src/vendor/LICENSE-claude-animated-shorts.txt",
+      "bytes": 1064,
+      "sha256": "7a9f540bcc5d44c6d56cb6fa7359e7674a76307e967e1ebfc223141def5bd9fd"
+    },
+    {
+      "path": "src/vendor/lights.ts",
+      "bytes": 4248,
+      "sha256": "6cac5ded364cbfe536e45679d982bbd0399778b71ca52585964be7eefcc830ea"
+    },
+    {
+      "path": "src/vendor/paint.ts",
+      "bytes": 43719,
+      "sha256": "594a360829d9de79565ef12fe226f475cbfa0525cf3c987b5ae9a065bd30c256"
+    },
+    {
+      "path": "src/vendor/shade.ts",
+      "bytes": 5386,
+      "sha256": "fbddf3dc5075f471631a0ff926dca3d6c249f24bfdb023ec2d44fcbd9082f4e5"
+    },
+    {
+      "path": "src/vendor/story.ts",
+      "bytes": 23870,
+      "sha256": "4a87c2e6929478f13923f7f6bcbee87f2a126ace1863441b2619748627ba1862"
+    },
+    {
+      "path": "src/vendor/toon.ts",
+      "bytes": 56874,
+      "sha256": "4c8dc6d031665e90e8b7b863369939dcc9864e6d9d9af05105a7de2c4452f01f"
+    },
+    {
+      "path": "src/Worlds.ts",
+      "bytes": 24297,
+      "sha256": "269f8ddc86e5a23342b4151693759b358336227e236f2c3d4ab16be38f6668df"
+    },
+    {
+      "path": "third_party/claude-animated-shorts-LICENSE",
+      "bytes": 1064,
+      "sha256": "7a9f540bcc5d44c6d56cb6fa7359e7674a76307e967e1ebfc223141def5bd9fd"
+    },
+    {
+      "path": "tsconfig.json",
+      "bytes": 341,
+      "sha256": "1407efee4373496595d1be8f0e80667c42ce5988e98f2373ff381c9931e1dfde"
+    }
+  ],
+  "totalFrames": 2887,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "prefix": {
+    "path": "/workspace/scratch/81cf969d0a39/max_wall_short/outputs/film_v01/shots/opening_0000_0299.mp4",
+    "sourceSha256": "5d3d413277a442da7168481852d693f8a41c5465a7fa1ff1620039f4427ce5b5",
+    "frames": 300,
+    "video": {
+      "sha256": "f629dba96eab90b70add7134847b16138b5762ef06cf2e36a2647becb65275de",
+      "bytes": 4746443,
+      "stream": {
+        "width": 1080,
+        "height": 1920,
+        "r_frame_rate": "30/1",
+        "nb_frames": "300"
+      }
+    }
+  },
+  "scope": "Full 96.2333-second native film, normal-speed original narration"
+}

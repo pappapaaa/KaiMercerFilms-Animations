@@ -1,0 +1,33 @@
+{
+  "testedDogFrames": 990,
+  "testedDogStrideLengths": [
+    0.62,
+    1
+  ],
+  "testedHumanFrames": 90,
+  "metrics": {
+    "floor": 0,
+    "shoulderHeight": 0.78,
+    "headTop": 1.22,
+    "bodyLength": 1.38,
+    "totalLength": 2.18,
+    "cardWidth": 2.4,
+    "cardHeight": 1.68,
+    "collar": [
+      0.42,
+      0.67,
+      0.055
+    ],
+    "muzzle": [
+      0.89,
+      0.8,
+      0.055
+    ],
+    "scratchWallX": 0.91,
+    "scratchHeight": 0.65,
+    "strideLength": 0.62
+  },
+  "stanceMaxErrorMetres": 3.1830820531458803e-16,
+  "humanHandXYMaxErrorMetres": 4.965068306494546e-16,
+  "failures": []
+}

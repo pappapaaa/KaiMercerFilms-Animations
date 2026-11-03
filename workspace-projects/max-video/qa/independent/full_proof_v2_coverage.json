@@ -1,0 +1,52 @@
+{
+  "method": "Direct native PNG pixel inspection; no real-time playback or subjective audio claim",
+  "sourceSha256": "4f20ed0025b937eed9ba2c1009448a756101b7657696cd0c40fbd06fd059f1e8",
+  "frames": [
+    {
+      "frame": 689,
+      "path": "outputs/full_proof_v2-f0689.png",
+      "sha256": "d358261358533902c8130cf35b6a6f4047780887d851d7751c5efc424474d426"
+    },
+    {
+      "frame": 1147,
+      "path": "outputs/full_proof_v2-f1147.png",
+      "sha256": "1c6e044d295769084469bc84df0a5229331987730850c6d93ebd3ab89e99ace0"
+    },
+    {
+      "frame": 1475,
+      "path": "outputs/full_proof_v2-f1475.png",
+      "sha256": "80bdddbc01774a5988a3032c62fe3dcd7794e53af345971eee607e9152b8f4fb"
+    },
+    {
+      "frame": 2213,
+      "path": "outputs/full_proof_v2-f2213.png",
+      "sha256": "311b9eae9506eb4bad3289c29d34d285253d79d3e3d44ec05228a440ce3d7af7"
+    },
+    {
+      "frame": 2279,
+      "path": "outputs/full_proof_v2-f2279.png",
+      "sha256": "7be5d3aa2a6ba3530555032b3c41fb8cf2956e3157e5849e5b81a3e336513b0d"
+    },
+    {
+      "frame": 2352,
+      "path": "outputs/full_proof_v2-f2352.png",
+      "sha256": "6426d8d5ec5506d091736fe68a2b770ec5e9528756eb772fb0fc921a513ddd2d"
+    },
+    {
+      "frame": 2424,
+      "path": "outputs/full_proof_v2-f2424.png",
+      "sha256": "ae3e82b118ea417a745bff718f5e2daf331ab4f48d6eaff8716627981f74f34c"
+    },
+    {
+      "frame": 2503,
+      "path": "outputs/full_proof_v2-f2503.png",
+      "sha256": "e89fe10adc9e5f5cda8d6f3421bacdc099b1f9424eed2d2d6f43f0c0bc92e743"
+    },
+    {
+      "frame": 2606,
+      "path": "outputs/full_proof_v2-f2606.png",
+      "sha256": "b4b086a43fd13146239006dd1890dfafc1af0230636f8badead68f72a33482d0"
+    }
+  ],
+  "sixBlockingGroupsPassed": true
+}

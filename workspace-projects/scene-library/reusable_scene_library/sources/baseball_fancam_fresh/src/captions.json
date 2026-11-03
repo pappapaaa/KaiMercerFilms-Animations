@@ -1,0 +1,1451 @@
+[
+  {
+    "start": 0.08,
+    "end": 0.88,
+    "text": "I called in sick",
+    "words": [
+      {
+        "start": 0.08,
+        "end": 0.15,
+        "text": "I"
+      },
+      {
+        "start": 0.15,
+        "end": 0.44,
+        "text": "called"
+      },
+      {
+        "start": 0.44,
+        "end": 0.56,
+        "text": "in"
+      },
+      {
+        "start": 0.56,
+        "end": 0.88,
+        "text": "sick"
+      }
+    ]
+  },
+  {
+    "start": 0.88,
+    "end": 1.86,
+    "text": "on Friday so I could",
+    "words": [
+      {
+        "start": 0.88,
+        "end": 1.02,
+        "text": "on"
+      },
+      {
+        "start": 1.02,
+        "end": 1.48,
+        "text": "Friday"
+      },
+      {
+        "start": 1.48,
+        "end": 1.64,
+        "text": "so"
+      },
+      {
+        "start": 1.64,
+        "end": 1.7,
+        "text": "I"
+      },
+      {
+        "start": 1.7,
+        "end": 1.86,
+        "text": "could"
+      }
+    ]
+  },
+  {
+    "start": 1.86,
+    "end": 3.17,
+    "text": "go to a baseball game.",
+    "words": [
+      {
+        "start": 1.86,
+        "end": 2.01,
+        "text": "go"
+      },
+      {
+        "start": 2.01,
+        "end": 2.14,
+        "text": "to"
+      },
+      {
+        "start": 2.14,
+        "end": 2.18,
+        "text": "a"
+      },
+      {
+        "start": 2.18,
+        "end": 2.69,
+        "text": "baseball"
+      },
+      {
+        "start": 2.69,
+        "end": 3.05,
+        "text": "game."
+      }
+    ]
+  },
+  {
+    "start": 3.43,
+    "end": 4.6,
+    "text": "I coughed into the phone",
+    "words": [
+      {
+        "start": 3.43,
+        "end": 3.58,
+        "text": "I"
+      },
+      {
+        "start": 3.58,
+        "end": 3.97,
+        "text": "coughed"
+      },
+      {
+        "start": 3.97,
+        "end": 4.15,
+        "text": "into"
+      },
+      {
+        "start": 4.15,
+        "end": 4.25,
+        "text": "the"
+      },
+      {
+        "start": 4.25,
+        "end": 4.6,
+        "text": "phone"
+      }
+    ]
+  },
+  {
+    "start": 4.6,
+    "end": 5.99,
+    "text": "as hard as I could.",
+    "words": [
+      {
+        "start": 4.6,
+        "end": 4.73,
+        "text": "as"
+      },
+      {
+        "start": 4.73,
+        "end": 5.18,
+        "text": "hard"
+      },
+      {
+        "start": 5.18,
+        "end": 5.32,
+        "text": "as"
+      },
+      {
+        "start": 5.32,
+        "end": 5.41,
+        "text": "I"
+      },
+      {
+        "start": 5.41,
+        "end": 5.87,
+        "text": "could."
+      }
+    ]
+  },
+  {
+    "start": 6.28,
+    "end": 7.77,
+    "text": "\"Boss, I can barely",
+    "words": [
+      {
+        "start": 6.28,
+        "end": 6.8,
+        "text": "\"Boss,"
+      },
+      {
+        "start": 7.03,
+        "end": 7.09,
+        "text": "I"
+      },
+      {
+        "start": 7.09,
+        "end": 7.3,
+        "text": "can"
+      },
+      {
+        "start": 7.3,
+        "end": 7.77,
+        "text": "barely"
+      }
+    ]
+  },
+  {
+    "start": 7.77,
+    "end": 8.66,
+    "text": "get out of bed.\"",
+    "words": [
+      {
+        "start": 7.77,
+        "end": 7.92,
+        "text": "get"
+      },
+      {
+        "start": 7.92,
+        "end": 8.04,
+        "text": "out"
+      },
+      {
+        "start": 8.04,
+        "end": 8.14,
+        "text": "of"
+      },
+      {
+        "start": 8.14,
+        "end": 8.54,
+        "text": "bed.\""
+      }
+    ]
+  },
+  {
+    "start": 9.06,
+    "end": 11.23,
+    "text": "He sighed. \"Get some rest.",
+    "words": [
+      {
+        "start": 9.06,
+        "end": 9.19,
+        "text": "He"
+      },
+      {
+        "start": 9.19,
+        "end": 9.69,
+        "text": "sighed."
+      },
+      {
+        "start": 10.17,
+        "end": 10.37,
+        "text": "\"Get"
+      },
+      {
+        "start": 10.37,
+        "end": 10.55,
+        "text": "some"
+      },
+      {
+        "start": 10.55,
+        "end": 11.11,
+        "text": "rest."
+      }
+    ]
+  },
+  {
+    "start": 11.26,
+    "end": 13.17,
+    "text": "We'll manage.\" I hung up,",
+    "words": [
+      {
+        "start": 11.26,
+        "end": 11.52,
+        "text": "We'll"
+      },
+      {
+        "start": 11.52,
+        "end": 12.1,
+        "text": "manage.\""
+      },
+      {
+        "start": 12.51,
+        "end": 12.64,
+        "text": "I"
+      },
+      {
+        "start": 12.64,
+        "end": 12.93,
+        "text": "hung"
+      },
+      {
+        "start": 12.93,
+        "end": 13.17,
+        "text": "up,"
+      }
+    ]
+  },
+  {
+    "start": 13.17,
+    "end": 15.02,
+    "text": "grinning like a genius.",
+    "words": [
+      {
+        "start": 13.17,
+        "end": 13.79,
+        "text": "grinning"
+      },
+      {
+        "start": 13.79,
+        "end": 14.04,
+        "text": "like"
+      },
+      {
+        "start": 14.04,
+        "end": 14.15,
+        "text": "a"
+      },
+      {
+        "start": 14.15,
+        "end": 14.9,
+        "text": "genius."
+      }
+    ]
+  },
+  {
+    "start": 15.19,
+    "end": 16.4,
+    "text": "An hour later, I was",
+    "words": [
+      {
+        "start": 15.19,
+        "end": 15.33,
+        "text": "An"
+      },
+      {
+        "start": 15.33,
+        "end": 15.59,
+        "text": "hour"
+      },
+      {
+        "start": 15.59,
+        "end": 16.08,
+        "text": "later,"
+      },
+      {
+        "start": 16.11,
+        "end": 16.22,
+        "text": "I"
+      },
+      {
+        "start": 16.22,
+        "end": 16.4,
+        "text": "was"
+      }
+    ]
+  },
+  {
+    "start": 16.4,
+    "end": 17.25,
+    "text": "in the stands in my",
+    "words": [
+      {
+        "start": 16.4,
+        "end": 16.49,
+        "text": "in"
+      },
+      {
+        "start": 16.49,
+        "end": 16.56,
+        "text": "the"
+      },
+      {
+        "start": 16.56,
+        "end": 17.02,
+        "text": "stands"
+      },
+      {
+        "start": 17.02,
+        "end": 17.1,
+        "text": "in"
+      },
+      {
+        "start": 17.1,
+        "end": 17.25,
+        "text": "my"
+      }
+    ]
+  },
+  {
+    "start": 17.25,
+    "end": 19.56,
+    "text": "lucky jersey, hot dog in hand.",
+    "words": [
+      {
+        "start": 17.25,
+        "end": 17.69,
+        "text": "lucky"
+      },
+      {
+        "start": 17.69,
+        "end": 18.17,
+        "text": "jersey,"
+      },
+      {
+        "start": 18.17,
+        "end": 18.53,
+        "text": "hot"
+      },
+      {
+        "start": 18.53,
+        "end": 18.82,
+        "text": "dog"
+      },
+      {
+        "start": 18.82,
+        "end": 18.94,
+        "text": "in"
+      },
+      {
+        "start": 18.94,
+        "end": 19.44,
+        "text": "hand."
+      }
+    ]
+  },
+  {
+    "start": 19.73,
+    "end": 20.56,
+    "text": "In the fifth inning,",
+    "words": [
+      {
+        "start": 19.73,
+        "end": 19.81,
+        "text": "In"
+      },
+      {
+        "start": 19.81,
+        "end": 19.89,
+        "text": "the"
+      },
+      {
+        "start": 19.89,
+        "end": 20.2,
+        "text": "fifth"
+      },
+      {
+        "start": 20.2,
+        "end": 20.56,
+        "text": "inning,"
+      }
+    ]
+  },
+  {
+    "start": 20.56,
+    "end": 21.75,
+    "text": "the big screen lit up",
+    "words": [
+      {
+        "start": 20.56,
+        "end": 20.67,
+        "text": "the"
+      },
+      {
+        "start": 20.67,
+        "end": 20.94,
+        "text": "big"
+      },
+      {
+        "start": 20.94,
+        "end": 21.24,
+        "text": "screen"
+      },
+      {
+        "start": 21.24,
+        "end": 21.56,
+        "text": "lit"
+      },
+      {
+        "start": 21.56,
+        "end": 21.75,
+        "text": "up"
+      }
+    ]
+  },
+  {
+    "start": 21.75,
+    "end": 22.65,
+    "text": "with the Fan Cam,",
+    "words": [
+      {
+        "start": 21.75,
+        "end": 21.87,
+        "text": "with"
+      },
+      {
+        "start": 21.87,
+        "end": 21.96,
+        "text": "the"
+      },
+      {
+        "start": 21.96,
+        "end": 22.3,
+        "text": "Fan"
+      },
+      {
+        "start": 22.3,
+        "end": 22.65,
+        "text": "Cam,"
+      }
+    ]
+  },
+  {
+    "start": 22.65,
+    "end": 24.24,
+    "text": "and the crowd roared.",
+    "words": [
+      {
+        "start": 22.65,
+        "end": 22.75,
+        "text": "and"
+      },
+      {
+        "start": 22.75,
+        "end": 22.82,
+        "text": "the"
+      },
+      {
+        "start": 22.82,
+        "end": 23.34,
+        "text": "crowd"
+      },
+      {
+        "start": 23.34,
+        "end": 24.12,
+        "text": "roared."
+      }
+    ]
+  },
+  {
+    "start": 24.38,
+    "end": 26.14,
+    "text": "The camera swept past a kid,",
+    "words": [
+      {
+        "start": 24.38,
+        "end": 24.48,
+        "text": "The"
+      },
+      {
+        "start": 24.48,
+        "end": 24.81,
+        "text": "camera"
+      },
+      {
+        "start": 24.81,
+        "end": 25.24,
+        "text": "swept"
+      },
+      {
+        "start": 25.24,
+        "end": 25.53,
+        "text": "past"
+      },
+      {
+        "start": 25.53,
+        "end": 25.6,
+        "text": "a"
+      },
+      {
+        "start": 25.6,
+        "end": 26.14,
+        "text": "kid,"
+      }
+    ]
+  },
+  {
+    "start": 26.14,
+    "end": 27.81,
+    "text": "past a grandma, and then",
+    "words": [
+      {
+        "start": 26.14,
+        "end": 26.44,
+        "text": "past"
+      },
+      {
+        "start": 26.44,
+        "end": 26.48,
+        "text": "a"
+      },
+      {
+        "start": 26.48,
+        "end": 27.11,
+        "text": "grandma,"
+      },
+      {
+        "start": 27.23,
+        "end": 27.41,
+        "text": "and"
+      },
+      {
+        "start": 27.41,
+        "end": 27.81,
+        "text": "then"
+      }
+    ]
+  },
+  {
+    "start": 27.81,
+    "end": 29.92,
+    "text": "landed on me: mouth stuffed",
+    "words": [
+      {
+        "start": 27.81,
+        "end": 28.25,
+        "text": "landed"
+      },
+      {
+        "start": 28.25,
+        "end": 28.43,
+        "text": "on"
+      },
+      {
+        "start": 28.43,
+        "end": 28.81,
+        "text": "me:"
+      },
+      {
+        "start": 29.03,
+        "end": 29.41,
+        "text": "mouth"
+      },
+      {
+        "start": 29.41,
+        "end": 29.92,
+        "text": "stuffed"
+      }
+    ]
+  },
+  {
+    "start": 29.92,
+    "end": 31.11,
+    "text": "with hot dog, waving",
+    "words": [
+      {
+        "start": 29.92,
+        "end": 30.06,
+        "text": "with"
+      },
+      {
+        "start": 30.06,
+        "end": 30.34,
+        "text": "hot"
+      },
+      {
+        "start": 30.34,
+        "end": 30.67,
+        "text": "dog,"
+      },
+      {
+        "start": 30.67,
+        "end": 31.11,
+        "text": "waving"
+      }
+    ]
+  },
+  {
+    "start": 31.11,
+    "end": 32.69,
+    "text": "a giant foam finger.",
+    "words": [
+      {
+        "start": 31.11,
+        "end": 31.19,
+        "text": "a"
+      },
+      {
+        "start": 31.19,
+        "end": 31.74,
+        "text": "giant"
+      },
+      {
+        "start": 31.74,
+        "end": 32.07,
+        "text": "foam"
+      },
+      {
+        "start": 32.07,
+        "end": 32.57,
+        "text": "finger."
+      }
+    ]
+  },
+  {
+    "start": 32.88,
+    "end": 34.99,
+    "text": "Everybody cheered. I waved back",
+    "words": [
+      {
+        "start": 32.88,
+        "end": 33.46,
+        "text": "Everybody"
+      },
+      {
+        "start": 33.46,
+        "end": 34.0,
+        "text": "cheered."
+      },
+      {
+        "start": 34.26,
+        "end": 34.38,
+        "text": "I"
+      },
+      {
+        "start": 34.38,
+        "end": 34.7,
+        "text": "waved"
+      },
+      {
+        "start": 34.7,
+        "end": 34.99,
+        "text": "back"
+      }
+    ]
+  },
+  {
+    "start": 34.99,
+    "end": 36.0,
+    "text": "like a celebrity.",
+    "words": [
+      {
+        "start": 34.99,
+        "end": 35.14,
+        "text": "like"
+      },
+      {
+        "start": 35.14,
+        "end": 35.17,
+        "text": "a"
+      },
+      {
+        "start": 35.17,
+        "end": 35.88,
+        "text": "celebrity."
+      }
+    ]
+  },
+  {
+    "start": 36.15,
+    "end": 37.63,
+    "text": "Then I noticed the man",
+    "words": [
+      {
+        "start": 36.15,
+        "end": 36.63,
+        "text": "Then"
+      },
+      {
+        "start": 36.63,
+        "end": 36.81,
+        "text": "I"
+      },
+      {
+        "start": 36.81,
+        "end": 37.25,
+        "text": "noticed"
+      },
+      {
+        "start": 37.25,
+        "end": 37.32,
+        "text": "the"
+      },
+      {
+        "start": 37.32,
+        "end": 37.63,
+        "text": "man"
+      }
+    ]
+  },
+  {
+    "start": 37.63,
+    "end": 39.02,
+    "text": "sitting right behind me,",
+    "words": [
+      {
+        "start": 37.63,
+        "end": 37.96,
+        "text": "sitting"
+      },
+      {
+        "start": 37.96,
+        "end": 38.32,
+        "text": "right"
+      },
+      {
+        "start": 38.32,
+        "end": 38.77,
+        "text": "behind"
+      },
+      {
+        "start": 38.77,
+        "end": 39.02,
+        "text": "me,"
+      }
+    ]
+  },
+  {
+    "start": 39.02,
+    "end": 40.52,
+    "text": "waving at the camera too.",
+    "words": [
+      {
+        "start": 39.02,
+        "end": 39.41,
+        "text": "waving"
+      },
+      {
+        "start": 39.41,
+        "end": 39.51,
+        "text": "at"
+      },
+      {
+        "start": 39.51,
+        "end": 39.57,
+        "text": "the"
+      },
+      {
+        "start": 39.57,
+        "end": 39.94,
+        "text": "camera"
+      },
+      {
+        "start": 39.94,
+        "end": 40.4,
+        "text": "too."
+      }
+    ]
+  },
+  {
+    "start": 40.84,
+    "end": 41.92,
+    "text": "Hawaiian shirt.",
+    "words": [
+      {
+        "start": 40.84,
+        "end": 41.27,
+        "text": "Hawaiian"
+      },
+      {
+        "start": 41.27,
+        "end": 41.8,
+        "text": "shirt."
+      }
+    ]
+  },
+  {
+    "start": 42.1,
+    "end": 43.33,
+    "text": "Giant beer.",
+    "words": [
+      {
+        "start": 42.1,
+        "end": 42.64,
+        "text": "Giant"
+      },
+      {
+        "start": 42.64,
+        "end": 43.21,
+        "text": "beer."
+      }
+    ]
+  },
+  {
+    "start": 43.64,
+    "end": 44.59,
+    "text": "My boss.",
+    "words": [
+      {
+        "start": 43.64,
+        "end": 43.84,
+        "text": "My"
+      },
+      {
+        "start": 43.84,
+        "end": 44.47,
+        "text": "boss."
+      }
+    ]
+  },
+  {
+    "start": 44.91,
+    "end": 46.06,
+    "text": "We locked eyes.",
+    "words": [
+      {
+        "start": 44.91,
+        "end": 45.04,
+        "text": "We"
+      },
+      {
+        "start": 45.04,
+        "end": 45.4,
+        "text": "locked"
+      },
+      {
+        "start": 45.4,
+        "end": 45.94,
+        "text": "eyes."
+      }
+    ]
+  },
+  {
+    "start": 46.27,
+    "end": 48.41,
+    "text": "My foam finger slowly dropped.",
+    "words": [
+      {
+        "start": 46.27,
+        "end": 46.4,
+        "text": "My"
+      },
+      {
+        "start": 46.4,
+        "end": 46.76,
+        "text": "foam"
+      },
+      {
+        "start": 46.76,
+        "end": 47.19,
+        "text": "finger"
+      },
+      {
+        "start": 47.19,
+        "end": 47.74,
+        "text": "slowly"
+      },
+      {
+        "start": 47.74,
+        "end": 48.29,
+        "text": "dropped."
+      }
+    ]
+  },
+  {
+    "start": 48.71,
+    "end": 50.49,
+    "text": "For ten whole seconds,",
+    "words": [
+      {
+        "start": 48.71,
+        "end": 48.84,
+        "text": "For"
+      },
+      {
+        "start": 48.84,
+        "end": 49.26,
+        "text": "ten"
+      },
+      {
+        "start": 49.26,
+        "end": 49.63,
+        "text": "whole"
+      },
+      {
+        "start": 49.63,
+        "end": 50.4,
+        "text": "seconds,"
+      }
+    ]
+  },
+  {
+    "start": 50.49,
+    "end": 51.96,
+    "text": "neither of us breathed.",
+    "words": [
+      {
+        "start": 50.49,
+        "end": 50.98,
+        "text": "neither"
+      },
+      {
+        "start": 50.98,
+        "end": 51.09,
+        "text": "of"
+      },
+      {
+        "start": 51.09,
+        "end": 51.24,
+        "text": "us"
+      },
+      {
+        "start": 51.24,
+        "end": 51.84,
+        "text": "breathed."
+      }
+    ]
+  },
+  {
+    "start": 52.21,
+    "end": 53.56,
+    "text": "Then I ducked behind",
+    "words": [
+      {
+        "start": 52.21,
+        "end": 52.68,
+        "text": "Then"
+      },
+      {
+        "start": 52.89,
+        "end": 53.03,
+        "text": "I"
+      },
+      {
+        "start": 53.03,
+        "end": 53.28,
+        "text": "ducked"
+      },
+      {
+        "start": 53.28,
+        "end": 53.56,
+        "text": "behind"
+      }
+    ]
+  },
+  {
+    "start": 53.56,
+    "end": 54.36,
+    "text": "my hot dog.",
+    "words": [
+      {
+        "start": 53.56,
+        "end": 53.67,
+        "text": "my"
+      },
+      {
+        "start": 53.67,
+        "end": 53.89,
+        "text": "hot"
+      },
+      {
+        "start": 53.89,
+        "end": 54.24,
+        "text": "dog."
+      }
+    ]
+  },
+  {
+    "start": 54.65,
+    "end": 55.58,
+    "text": "On Monday morning,",
+    "words": [
+      {
+        "start": 54.65,
+        "end": 54.79,
+        "text": "On"
+      },
+      {
+        "start": 54.79,
+        "end": 55.11,
+        "text": "Monday"
+      },
+      {
+        "start": 55.11,
+        "end": 55.58,
+        "text": "morning,"
+      }
+    ]
+  },
+  {
+    "start": 55.58,
+    "end": 56.74,
+    "text": "I walked into the office",
+    "words": [
+      {
+        "start": 55.58,
+        "end": 55.7,
+        "text": "I"
+      },
+      {
+        "start": 55.7,
+        "end": 56.08,
+        "text": "walked"
+      },
+      {
+        "start": 56.08,
+        "end": 56.26,
+        "text": "into"
+      },
+      {
+        "start": 56.26,
+        "end": 56.4,
+        "text": "the"
+      },
+      {
+        "start": 56.4,
+        "end": 56.74,
+        "text": "office"
+      }
+    ]
+  },
+  {
+    "start": 56.74,
+    "end": 58.23,
+    "text": "with my heart pounding.",
+    "words": [
+      {
+        "start": 56.74,
+        "end": 56.87,
+        "text": "with"
+      },
+      {
+        "start": 56.87,
+        "end": 57.0,
+        "text": "my"
+      },
+      {
+        "start": 57.0,
+        "end": 57.47,
+        "text": "heart"
+      },
+      {
+        "start": 57.47,
+        "end": 58.11,
+        "text": "pounding."
+      }
+    ]
+  },
+  {
+    "start": 58.41,
+    "end": 59.31,
+    "text": "There was a sticky note",
+    "words": [
+      {
+        "start": 58.41,
+        "end": 58.51,
+        "text": "There"
+      },
+      {
+        "start": 58.51,
+        "end": 58.63,
+        "text": "was"
+      },
+      {
+        "start": 58.63,
+        "end": 58.67,
+        "text": "a"
+      },
+      {
+        "start": 58.67,
+        "end": 59.1,
+        "text": "sticky"
+      },
+      {
+        "start": 59.1,
+        "end": 59.31,
+        "text": "note"
+      }
+    ]
+  },
+  {
+    "start": 59.31,
+    "end": 60.2,
+    "text": "on my desk:",
+    "words": [
+      {
+        "start": 59.31,
+        "end": 59.4,
+        "text": "on"
+      },
+      {
+        "start": 59.4,
+        "end": 59.53,
+        "text": "my"
+      },
+      {
+        "start": 59.53,
+        "end": 60.08,
+        "text": "desk:"
+      }
+    ]
+  },
+  {
+    "start": 60.4,
+    "end": 61.44,
+    "text": "\"You didn't see me.",
+    "words": [
+      {
+        "start": 60.4,
+        "end": 60.56,
+        "text": "\"You"
+      },
+      {
+        "start": 60.56,
+        "end": 60.76,
+        "text": "didn't"
+      },
+      {
+        "start": 60.76,
+        "end": 60.97,
+        "text": "see"
+      },
+      {
+        "start": 60.97,
+        "end": 61.32,
+        "text": "me."
+      }
+    ]
+  },
+  {
+    "start": 61.55,
+    "end": 62.64,
+    "text": "I didn't see you.",
+    "words": [
+      {
+        "start": 61.55,
+        "end": 61.7,
+        "text": "I"
+      },
+      {
+        "start": 61.7,
+        "end": 61.91,
+        "text": "didn't"
+      },
+      {
+        "start": 61.91,
+        "end": 62.14,
+        "text": "see"
+      },
+      {
+        "start": 62.14,
+        "end": 62.52,
+        "text": "you."
+      }
+    ]
+  },
+  {
+    "start": 62.77,
+    "end": 63.72,
+    "text": "Feel better soon.\"",
+    "words": [
+      {
+        "start": 62.77,
+        "end": 62.96,
+        "text": "Feel"
+      },
+      {
+        "start": 62.96,
+        "end": 63.19,
+        "text": "better"
+      },
+      {
+        "start": 63.19,
+        "end": 63.6,
+        "text": "soon.\""
+      }
+    ]
+  },
+  {
+    "start": 64.05,
+    "end": 65.22,
+    "text": "At the 9 AM meeting,",
+    "words": [
+      {
+        "start": 64.05,
+        "end": 64.17,
+        "text": "At"
+      },
+      {
+        "start": 64.17,
+        "end": 64.24,
+        "text": "the"
+      },
+      {
+        "start": 64.24,
+        "end": 64.51,
+        "text": "9"
+      },
+      {
+        "start": 64.51,
+        "end": 64.81,
+        "text": "AM"
+      },
+      {
+        "start": 64.81,
+        "end": 65.22,
+        "text": "meeting,"
+      }
+    ]
+  },
+  {
+    "start": 65.22,
+    "end": 66.41,
+    "text": "my boss stood up.",
+    "words": [
+      {
+        "start": 65.22,
+        "end": 65.37,
+        "text": "my"
+      },
+      {
+        "start": 65.37,
+        "end": 65.69,
+        "text": "boss"
+      },
+      {
+        "start": 65.69,
+        "end": 65.94,
+        "text": "stood"
+      },
+      {
+        "start": 65.94,
+        "end": 66.29,
+        "text": "up."
+      }
+    ]
+  },
+  {
+    "start": 66.57,
+    "end": 67.69,
+    "text": "\"Great news, team.",
+    "words": [
+      {
+        "start": 66.57,
+        "end": 66.85,
+        "text": "\"Great"
+      },
+      {
+        "start": 66.85,
+        "end": 67.16,
+        "text": "news,"
+      },
+      {
+        "start": 67.16,
+        "end": 67.57,
+        "text": "team."
+      }
+    ]
+  },
+  {
+    "start": 67.7,
+    "end": 69.56,
+    "text": "Starting this month, everyone gets",
+    "words": [
+      {
+        "start": 67.7,
+        "end": 68.14,
+        "text": "Starting"
+      },
+      {
+        "start": 68.14,
+        "end": 68.36,
+        "text": "this"
+      },
+      {
+        "start": 68.36,
+        "end": 68.78,
+        "text": "month,"
+      },
+      {
+        "start": 68.87,
+        "end": 69.36,
+        "text": "everyone"
+      },
+      {
+        "start": 69.36,
+        "end": 69.56,
+        "text": "gets"
+      }
+    ]
+  },
+  {
+    "start": 69.56,
+    "end": 71.24,
+    "text": "one extra personal day.\"",
+    "words": [
+      {
+        "start": 69.56,
+        "end": 69.92,
+        "text": "one"
+      },
+      {
+        "start": 69.92,
+        "end": 70.32,
+        "text": "extra"
+      },
+      {
+        "start": 70.32,
+        "end": 70.79,
+        "text": "personal"
+      },
+      {
+        "start": 70.79,
+        "end": 71.12,
+        "text": "day.\""
+      }
+    ]
+  },
+  {
+    "start": 71.43,
+    "end": 72.49,
+    "text": "He glanced at me.",
+    "words": [
+      {
+        "start": 71.43,
+        "end": 71.54,
+        "text": "He"
+      },
+      {
+        "start": 71.54,
+        "end": 71.93,
+        "text": "glanced"
+      },
+      {
+        "start": 71.93,
+        "end": 72.02,
+        "text": "at"
+      },
+      {
+        "start": 72.02,
+        "end": 72.37,
+        "text": "me."
+      }
+    ]
+  },
+  {
+    "start": 72.76,
+    "end": 74.14,
+    "text": "\"Just stay away from",
+    "words": [
+      {
+        "start": 72.76,
+        "end": 73.13,
+        "text": "\"Just"
+      },
+      {
+        "start": 73.36,
+        "end": 73.71,
+        "text": "stay"
+      },
+      {
+        "start": 73.71,
+        "end": 73.97,
+        "text": "away"
+      },
+      {
+        "start": 73.97,
+        "end": 74.14,
+        "text": "from"
+      }
+    ]
+  },
+  {
+    "start": 74.14,
+    "end": 75.1,
+    "text": "the Fan Cam.\"",
+    "words": [
+      {
+        "start": 74.14,
+        "end": 74.21,
+        "text": "the"
+      },
+      {
+        "start": 74.21,
+        "end": 74.53,
+        "text": "Fan"
+      },
+      {
+        "start": 74.53,
+        "end": 74.92,
+        "text": "Cam.\""
+      }
+    ]
+  }
+]

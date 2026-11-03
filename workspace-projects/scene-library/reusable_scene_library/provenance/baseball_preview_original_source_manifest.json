@@ -1,0 +1,191 @@
+{
+  "sha256": "c4e984572198d2f4d8b1078f0165d4df910c7396af48933d1e615788ce3ecc62",
+  "createdAt": "2026-11-02T14:01:49.602Z",
+  "root": "/workspace/scratch/81cf969d0a39/baseball_fancam_short/repo_remake/fresh_project/outputs/preview_v01/source",
+  "files": [
+    {
+      "path": "docs/captions.srt",
+      "bytes": 2877,
+      "sha256": "24866c16d4d782dee2ea93e7ee0999118a3c49825bc1c6da6392f7e872a350b9"
+    },
+    {
+      "path": "docs/captions.vtt",
+      "bytes": 2738,
+      "sha256": "d3505e384ac73b712849222bc9bc876e9a8f2d29ab5e6d29aff64d014b4d76d5"
+    },
+    {
+      "path": "docs/character_integration.md",
+      "bytes": 5232,
+      "sha256": "df65ff3d49b1765b54a087873227f11b31c083e76f0e32dc6dfde6b516ce18fb"
+    },
+    {
+      "path": "docs/editorial_cues.json",
+      "bytes": 39244,
+      "sha256": "0f21a7def3427d3e24a0b83ce2930f47a2aee375d2b12eec350d7bbbe172d276"
+    },
+    {
+      "path": "docs/EDITORIAL_PACING.md",
+      "bytes": 8241,
+      "sha256": "e4056ac3c0b2e70a7358fb1e305e85370004aa0c8845c880548ad89a2c28b562"
+    },
+    {
+      "path": "docs/narration_script.txt",
+      "bytes": 1119,
+      "sha256": "d2f1bea14914d735ef0ff7ac35719430e753a0d1ccf8d899cbc2b9af26c682cd"
+    },
+    {
+      "path": "docs/story_beats.json",
+      "bytes": 6372,
+      "sha256": "99847530151816d1b88bb3184200afc41c8455239f1b6ffb7275308feb9c69ff"
+    },
+    {
+      "path": "docs/WORLD_BUILD.md",
+      "bytes": 3607,
+      "sha256": "77023413fdf756aa04a33e6a80a5f33d7a7b3501d91706a891e93d1497501e7d"
+    },
+    {
+      "path": "package-lock.json",
+      "bytes": 157044,
+      "sha256": "96d5f06d7966a28bf6b45fec7b849b7a19a82fd00a26c9d65af84225e4e07d76"
+    },
+    {
+      "path": "package.json",
+      "bytes": 925,
+      "sha256": "264a9832135ba54504f42f347aee2313410a04d2df16b38a6d7f9b0553e9e373"
+    },
+    {
+      "path": "public/narration.mp3",
+      "bytes": 1218151,
+      "sha256": "6dba50471b054859264fe5dd2b4e3e892dbdda7a11e175c9fb7bb5a7dc90ac5d"
+    },
+    {
+      "path": "scripts/render_preview.mjs",
+      "bytes": 4897,
+      "sha256": "8a3b4b865ae3a759aed32277d8106821e2473bc5e995c7ee614ec162bda91ef7"
+    },
+    {
+      "path": "scripts/render.mjs",
+      "bytes": 4739,
+      "sha256": "4f17bb8e64f306211addf4d02f400bc5952452716e2b5d2363527ae21a70ebd2"
+    },
+    {
+      "path": "scripts/setup-local.mjs",
+      "bytes": 936,
+      "sha256": "8f031b3508a33869d0699272c6308473264ae85d6d4c2ef2607210cbed64f826"
+    },
+    {
+      "path": "src/captions.json",
+      "bytes": 23964,
+      "sha256": "5f2be89b408a87e79e67e692dbe96d3cf18d73224e2d8e0dc60405f0f97f17a5"
+    },
+    {
+      "path": "src/Characters.ts",
+      "bytes": 10166,
+      "sha256": "a33d5ccdf3b3522d2261e6750239da88de9266538fa8b482f905464d00fbb310"
+    },
+    {
+      "path": "src/Film.tsx",
+      "bytes": 1102,
+      "sha256": "782f83146a00d3c8fa520178f91141e2d4ff2ace8511f99ffa2848f50654c180"
+    },
+    {
+      "path": "src/index.ts",
+      "bytes": 88,
+      "sha256": "2e0e358282a1b998a65387c653b97c2bb2eb7aae94cf200fc0b8d919f7be73a6"
+    },
+    {
+      "path": "src/Look.ts",
+      "bytes": 3530,
+      "sha256": "a75f09021b0fbee39687feb63e4c6e9aa895799cdc85961024f23947f1dd7df8"
+    },
+    {
+      "path": "src/Post.tsx",
+      "bytes": 1697,
+      "sha256": "2c7560ecf115f9186d94fe6eb1a95d9c815fad578bd32ab11dea14ddfaec0203"
+    },
+    {
+      "path": "src/Props.ts",
+      "bytes": 6630,
+      "sha256": "71a1a5df0a9f4162834276cc1d389e0c8a03f2f19c0dee620a5a4300eb4b47fe"
+    },
+    {
+      "path": "src/Root.tsx",
+      "bytes": 481,
+      "sha256": "f75dff03f4170e577482ad5e726fc31d8a9fecbc97437f68faf72ac4312c9ccb"
+    },
+    {
+      "path": "src/Scene.tsx",
+      "bytes": 11142,
+      "sha256": "0b5b8f4745e23c6aab37040ac797e8e295a87d06049135b46991cfee6deeb2fe"
+    },
+    {
+      "path": "src/Story.ts",
+      "bytes": 12183,
+      "sha256": "56781cfb35872d2473eea171e779c28076ee5ce702729a0a7a184dcd3847a908"
+    },
+    {
+      "path": "src/vendor/cardshade.ts",
+      "bytes": 6381,
+      "sha256": "2d84df886c71caf3aec7cfc5ff717708454e37c85ff5346b4b9d688621ac7844"
+    },
+    {
+      "path": "src/vendor/grade.ts",
+      "bytes": 10020,
+      "sha256": "86ba2bcf0a0ba2bf5cec18c040cd932bcb973715c3a83314e44ddebf577b8138"
+    },
+    {
+      "path": "src/vendor/ink.ts",
+      "bytes": 20876,
+      "sha256": "08c281a4473a202d2512a7c9b276aa2be3351442a4cbaa0c0f7440e76f5d2678"
+    },
+    {
+      "path": "src/vendor/lensblur.ts",
+      "bytes": 7963,
+      "sha256": "34b545d1b89802423ffe0fa29def76e414bee9f7e08dfdd3b67c128b8a194ca9"
+    },
+    {
+      "path": "src/vendor/LICENSE-claude-animated-shorts.txt",
+      "bytes": 1064,
+      "sha256": "7a9f540bcc5d44c6d56cb6fa7359e7674a76307e967e1ebfc223141def5bd9fd"
+    },
+    {
+      "path": "src/vendor/lights.ts",
+      "bytes": 4248,
+      "sha256": "6cac5ded364cbfe536e45679d982bbd0399778b71ca52585964be7eefcc830ea"
+    },
+    {
+      "path": "src/vendor/paint.ts",
+      "bytes": 43719,
+      "sha256": "594a360829d9de79565ef12fe226f475cbfa0525cf3c987b5ae9a065bd30c256"
+    },
+    {
+      "path": "src/vendor/shade.ts",
+      "bytes": 5386,
+      "sha256": "fbddf3dc5075f471631a0ff926dca3d6c249f24bfdb023ec2d44fcbd9082f4e5"
+    },
+    {
+      "path": "src/vendor/story.ts",
+      "bytes": 23870,
+      "sha256": "4a87c2e6929478f13923f7f6bcbee87f2a126ace1863441b2619748627ba1862"
+    },
+    {
+      "path": "src/vendor/toon.ts",
+      "bytes": 56874,
+      "sha256": "4c8dc6d031665e90e8b7b863369939dcc9864e6d9d9af05105a7de2c4452f01f"
+    },
+    {
+      "path": "src/Worlds.ts",
+      "bytes": 26429,
+      "sha256": "840b711afaad031c5372b8d6dc2ddca8a0f55b2d73164ebb4f0813eb954fcfcc"
+    },
+    {
+      "path": "tsconfig.json",
+      "bytes": 341,
+      "sha256": "1407efee4373496595d1be8f0e80667c42ce5988e98f2373ff381c9931e1dfde"
+    }
+  ],
+  "scope": "10-second native1080 proof only",
+  "startFrame": 1162,
+  "endFrameExclusive": 1462,
+  "totalFrames": 300
+}

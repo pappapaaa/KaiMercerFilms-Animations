@@ -1,0 +1,644 @@
+{
+  "schema_version": 1,
+  "title": "Reusable Scene Library — Max + Baseball",
+  "created_utc": "2026-11-02T17:36:35.680705+00:00",
+  "scope": "Preserved editable source and extraction map for two existing productions; no production edits, no new render, no public publication.",
+  "counts": {
+    "projects": 2,
+    "timed_shot_definitions": 70,
+    "max_shots": 42,
+    "baseball_shots": 28,
+    "catalog_entries": 33,
+    "checkpoint_variants": 1
+  },
+  "upstream": {
+    "repository": "https://github.com/mromidev/claude-animated-shorts",
+    "commit": "e3b817b6afc6cd413466d43f11ba31209e034bbf",
+    "license": "MIT; notice retained inside each source tree"
+  },
+  "source_snapshots": [
+    {
+      "id": "max_current",
+      "snapshot_path": "sources/max_wall_short",
+      "original_workspace_path": "/workspace/scratch/81cf969d0a39/max_wall_short",
+      "created_utc": "2026-11-02T17:36:35.680705+00:00",
+      "file_count": 103,
+      "source_tree_sha256": "b477a7646f238712ec2361e1ee3d3e22fa55ccd467697f961a1520b3012a3f1f",
+      "tree_hash_rule": "SHA-256 of sorted UTF-8 lines: <file sha256><two spaces><relative path><newline>"
+    },
+    {
+      "id": "baseball_approved_style",
+      "snapshot_path": "sources/baseball_fancam_fresh",
+      "original_workspace_path": "/workspace/scratch/81cf969d0a39/baseball_fancam_short/repo_remake/fresh_project",
+      "created_utc": "2026-11-02T17:36:35.680705+00:00",
+      "file_count": 39,
+      "source_tree_sha256": "a829689298edaed6fbe765e9e886fdf24040baf8af11161c7dae19e53a7a709a",
+      "tree_hash_rule": "SHA-256 of sorted UTF-8 lines: <file sha256><two spaces><relative path><newline>"
+    },
+    {
+      "id": "max_approved_opening",
+      "snapshot_path": "checkpoints/max_approved_opening",
+      "original_workspace_path": "/workspace/scratch/81cf969d0a39/max_wall_short/outputs/preview_v01/source",
+      "created_utc": "2026-11-02T17:36:35.680705+00:00",
+      "file_count": 52,
+      "source_tree_sha256": "659c57a0c00dbf376d9a5c58c3bd4f39974824a117d1cc321bc562c9c88dc54d",
+      "tree_hash_rule": "SHA-256 of sorted UTF-8 lines: <file sha256><two spaces><relative path><newline>"
+    }
+  ],
+  "original_render_receipts": [
+    {
+      "id": "max_fullfilm",
+      "original_source_manifest_sha256": "9c61639264903ab070f10e1d5dd452482eee31eaf007d0ff8c0d7ec01963d55f",
+      "render_source_fingerprint": "6766a0c41e2a12bbfc03a617957a3c6a29dbd660c05685d7b3068bd94fa67b38",
+      "created_at": "2026-11-02T16:45:54.190Z",
+      "original_path": "/workspace/scratch/81cf969d0a39/max_wall_short/outputs/film_v01/source_manifest.json",
+      "saved_manifest": "provenance/max_fullfilm_original_source_manifest.json"
+    },
+    {
+      "id": "max_opening",
+      "original_source_manifest_sha256": "bf0a6fb0e8296c3cba12bbe47b8258e58795e77382db4443dfaaa48ab7ea9e62",
+      "render_source_fingerprint": "5d3d413277a442da7168481852d693f8a41c5465a7fa1ff1620039f4427ce5b5",
+      "created_at": "2026-11-02T15:07:31.059Z",
+      "original_path": "/workspace/scratch/81cf969d0a39/max_wall_short/outputs/preview_v01/source_manifest.json",
+      "saved_manifest": "provenance/max_opening_original_source_manifest.json"
+    },
+    {
+      "id": "baseball_preview",
+      "original_source_manifest_sha256": "44dbac9c3050477d9c8fbebe2a49eab9b9be25bb6a09acd3b7e8ad937ec744a9",
+      "render_source_fingerprint": "c4e984572198d2f4d8b1078f0165d4df910c7396af48933d1e615788ce3ecc62",
+      "created_at": "2026-11-02T14:01:49.602Z",
+      "original_path": "/workspace/scratch/81cf969d0a39/baseball_fancam_short/repo_remake/fresh_project/outputs/preview_v01/source_manifest.json",
+      "saved_manifest": "provenance/baseball_preview_original_source_manifest.json"
+    }
+  ],
+  "source_comparisons": [
+    {
+      "id": "max_fullfilm",
+      "compared_files": 59,
+      "differences": [],
+      "rendering_src_identical": true,
+      "note": "Read-only comparison; production inputs were not edited."
+    },
+    {
+      "id": "baseball_preview",
+      "compared_files": 36,
+      "differences": [
+        "docs/EDITORIAL_PACING.md",
+        "scripts/render_preview.mjs"
+      ],
+      "rendering_src_identical": true,
+      "note": "Read-only comparison; production inputs were not edited."
+    }
+  ],
+  "assets": [
+    {
+      "id": "max.apartment",
+      "title": "Painted apartment: night / morning / Sunday",
+      "category": "set",
+      "project": "max",
+      "source": "sources/max_wall_short/src/Worlds.ts",
+      "symbol_or_extraction_point": "buildApartment",
+      "line_at_snapshot": 70,
+      "source_sha256": "269f8ddc86e5a23342b4151693759b358336227e236f2c3d4ab16be38f6668df",
+      "reuse_status": "Existing editable module / factory; retain same-project dependencies",
+      "variants": [
+        "night",
+        "morning",
+        "sunday"
+      ],
+      "features": [
+        "shared wall",
+        "bed and pillows",
+        "bedside lamp",
+        "clock",
+        "city window",
+        "curtains",
+        "bookcase",
+        "plant",
+        "dog bed"
+      ],
+      "notes": "buildApartmentWorld(\"bedroom\") selects night; call buildApartment(mode) for other modes. Coordinate contract is in docs/world_contract.md; later corrections in that document supersede early proposals."
+    },
+    {
+      "id": "max.hallway",
+      "title": "Continuous apartment corridor: doors 4A / 4B",
+      "category": "set",
+      "project": "max",
+      "source": "sources/max_wall_short/src/Worlds.ts",
+      "symbol_or_extraction_point": "buildHallway",
+      "line_at_snapshot": 71,
+      "source_sha256": "269f8ddc86e5a23342b4151693759b358336227e236f2c3d4ab16be38f6668df",
+      "reuse_status": "Existing editable module / factory; retain same-project dependencies",
+      "features": [
+        "apartment entrances",
+        "Harlan door",
+        "physical door pivots",
+        "continuous corridor run path"
+      ],
+      "notes": "Keep 4A and 4B on the same side and preserve travel +X."
+    },
+    {
+      "id": "max.bathroom",
+      "title": "Harlan bathroom / opposite side of shared wall",
+      "category": "set",
+      "project": "max",
+      "source": "sources/max_wall_short/src/Worlds.ts",
+      "symbol_or_extraction_point": "buildHarlanApartment",
+      "line_at_snapshot": 84,
+      "source_sha256": "269f8ddc86e5a23342b4151693759b358336227e236f2c3d4ab16be38f6668df",
+      "reuse_status": "Existing editable module / factory; retain same-project dependencies",
+      "features": [
+        "tile",
+        "tub",
+        "vanity",
+        "bathroom doorway",
+        "unreachable floor phone",
+        "Harlan door"
+      ],
+      "notes": "Camera must enter actual bathroom opening or remain inside partition; do not delete walls to hide staging errors."
+    },
+    {
+      "id": "max.sunday",
+      "title": "Sunday matched reverse-side world controller",
+      "category": "set-controller",
+      "project": "max",
+      "source": "sources/max_wall_short/src/Worlds.ts",
+      "symbol_or_extraction_point": "buildSundayWorld",
+      "line_at_snapshot": 102,
+      "source_sha256": "269f8ddc86e5a23342b4151693759b358336227e236f2c3d4ab16be38f6668df",
+      "reuse_status": "Existing editable module / factory; retain same-project dependencies",
+      "features": [
+        "setSide(\"narrator\" | \"harlan\")",
+        "mutually exclusive same-geography room groups"
+      ],
+      "notes": "Reuses apartment and bathroom; not a separate newly modeled room. Harlan side used for shots 38–40, narrator side for shot 41."
+    },
+    {
+      "id": "max.human",
+      "title": "Human role / costume rig adapter",
+      "category": "character",
+      "project": "max",
+      "source": "sources/max_wall_short/src/Characters.ts",
+      "symbol_or_extraction_point": "makeCharacter",
+      "line_at_snapshot": 66,
+      "source_sha256": "d88b4c5df86fa6cc5d852efb4f6bc907756c9aee254cc08a9c4585bc413b01f0",
+      "reuse_status": "Existing editable module / factory; retain same-project dependencies",
+      "roles": [
+        "narrator",
+        "girlfriend",
+        "harlan",
+        "Harlan",
+        "paramedic",
+        "employee",
+        "boss",
+        "kid",
+        "grandma",
+        "fan"
+      ],
+      "costumes": [
+        "pajamas",
+        "casual",
+        "cardigan",
+        "medic",
+        "jersey",
+        "office",
+        "hawaiian"
+      ],
+      "controls": [
+        "pose",
+        "expressions",
+        "mouth",
+        "gaze",
+        "head views",
+        "hand anchors",
+        "seated",
+        "profile walk/travel"
+      ],
+      "notes": "A card-based illustrated rig, not a downloadable skeletal 3D model. Max version includes full-film contact / profile-walk adaptations."
+    },
+    {
+      "id": "max.dog",
+      "title": "Max illustrated dog rig",
+      "category": "character",
+      "project": "max",
+      "source": "sources/max_wall_short/src/DogMax.ts",
+      "symbol_or_extraction_point": "makeMax",
+      "line_at_snapshot": 27,
+      "source_sha256": "e359e4012543f2f2faf3f0564f79659e0b08aead0667ac337ca1d7e74abf86ed",
+      "reuse_status": "Existing editable module / factory; retain same-project dependencies",
+      "actions": [
+        "idle",
+        "alert",
+        "bark",
+        "howl",
+        "whine",
+        "scratch",
+        "sniff",
+        "walk",
+        "return",
+        "eat",
+        "happy"
+      ],
+      "controls": [
+        "muzzle",
+        "collar",
+        "four paws",
+        "travel",
+        "strideLength",
+        "scratchReach",
+        "ears",
+        "tail"
+      ],
+      "notes": "Parametric canvas/card rig with contact targets, not a separate GLB. Preserve MAX_METRICS and maxFootPhase when adapting gait."
+    },
+    {
+      "id": "max.phone",
+      "title": "Narrator phone with narrative screen states",
+      "category": "prop",
+      "project": "max",
+      "source": "sources/max_wall_short/src/Props.ts",
+      "symbol_or_extraction_point": "makePhone",
+      "line_at_snapshot": 6,
+      "source_sha256": "ff17890d7423f1d455a08f00d16fdb5d7e589eb851d27e5dbe4befedcfe01cac",
+      "reuse_status": "Existing editable module / factory; retain same-project dependencies",
+      "modes": [
+        "off",
+        "draft",
+        "saved",
+        "deleted",
+        "call"
+      ],
+      "notes": "Screen strings are story-specific; edit them in a new project copy."
+    },
+    {
+      "id": "max.steak",
+      "title": "Steak reward plate",
+      "category": "embedded-prop",
+      "project": "max",
+      "source": "sources/max_wall_short/src/Worlds.ts",
+      "symbol_or_extraction_point": "steakPlate",
+      "line_at_snapshot": 60,
+      "source_sha256": "269f8ddc86e5a23342b4151693759b358336227e236f2c3d4ab16be38f6668df",
+      "reuse_status": "Embedded non-exported factory in Worlds.ts; extraction needed for standalone reuse",
+      "notes": "Copy/export this factory plus its referenced material / geometry helpers in a new working copy; no extraction was performed on production source."
+    },
+    {
+      "id": "max.floorphone",
+      "title": "Unreachable floor phone",
+      "category": "embedded-prop",
+      "project": "max",
+      "source": "sources/max_wall_short/src/Worlds.ts",
+      "symbol_or_extraction_point": "unreachableFloorPhone",
+      "line_at_snapshot": 77,
+      "source_sha256": "269f8ddc86e5a23342b4151693759b358336227e236f2c3d4ab16be38f6668df",
+      "reuse_status": "Embedded non-exported factory in Worlds.ts; extraction needed for standalone reuse",
+      "notes": "Copy/export this factory plus its referenced material / geometry helpers in a new working copy; no extraction was performed on production source."
+    },
+    {
+      "id": "max.clock",
+      "title": "Night/morning/Sunday clock",
+      "category": "embedded-prop",
+      "project": "max",
+      "source": "sources/max_wall_short/src/Worlds.ts",
+      "symbol_or_extraction_point": "clock",
+      "line_at_snapshot": 56,
+      "source_sha256": "269f8ddc86e5a23342b4151693759b358336227e236f2c3d4ab16be38f6668df",
+      "reuse_status": "Embedded non-exported factory in Worlds.ts; extraction needed for standalone reuse",
+      "notes": "Copy/export this factory plus its referenced material / geometry helpers in a new working copy; no extraction was performed on production source."
+    },
+    {
+      "id": "max.door",
+      "title": "Apartment door with pivot",
+      "category": "embedded-prop",
+      "project": "max",
+      "source": "sources/max_wall_short/src/Worlds.ts",
+      "symbol_or_extraction_point": "door",
+      "line_at_snapshot": 58,
+      "source_sha256": "269f8ddc86e5a23342b4151693759b358336227e236f2c3d4ab16be38f6668df",
+      "reuse_status": "Embedded non-exported factory in Worlds.ts; extraction needed for standalone reuse",
+      "notes": "Copy/export this factory plus its referenced material / geometry helpers in a new working copy; no extraction was performed on production source."
+    },
+    {
+      "id": "max.dogbed",
+      "title": "Dog bed",
+      "category": "embedded-prop",
+      "project": "max",
+      "source": "sources/max_wall_short/src/Worlds.ts",
+      "symbol_or_extraction_point": "dogBed",
+      "line_at_snapshot": 57,
+      "source_sha256": "269f8ddc86e5a23342b4151693759b358336227e236f2c3d4ab16be38f6668df",
+      "reuse_status": "Embedded non-exported factory in Worlds.ts; extraction needed for standalone reuse",
+      "notes": "Copy/export this factory plus its referenced material / geometry helpers in a new working copy; no extraction was performed on production source."
+    },
+    {
+      "id": "max.wallknock",
+      "title": "Wall knock rings",
+      "category": "embedded-prop",
+      "project": "max",
+      "source": "sources/max_wall_short/src/Worlds.ts",
+      "symbol_or_extraction_point": "wallKnock",
+      "line_at_snapshot": 59,
+      "source_sha256": "269f8ddc86e5a23342b4151693759b358336227e236f2c3d4ab16be38f6668df",
+      "reuse_status": "Embedded non-exported factory in Worlds.ts; extraction needed for standalone reuse",
+      "notes": "Copy/export this factory plus its referenced material / geometry helpers in a new working copy; no extraction was performed on production source."
+    },
+    {
+      "id": "max.look",
+      "title": "Derived night look / original day look adapter",
+      "category": "lighting",
+      "project": "max",
+      "source": "sources/max_wall_short/src/Look.ts",
+      "symbol_or_extraction_point": "createLook",
+      "line_at_snapshot": 9,
+      "source_sha256": "313b372c8624903392f70d9135b3506fe97872f477bde2eff6d4a725c1789dce",
+      "reuse_status": "Existing editable module / factory; retain same-project dependencies",
+      "modes": [
+        "night",
+        "morning",
+        "sunday",
+        "hallway",
+        "bathroom"
+      ],
+      "notes": "night, hallway and bathroom share derived practical-key / cool-fill settings; morning and Sunday use day settings. Not five independent lighting engines."
+    },
+    {
+      "id": "max.camera",
+      "title": "Max shot cameras / dolly / zoom / glide / focus",
+      "category": "camera",
+      "project": "max",
+      "source": "sources/max_wall_short/src/Story.ts",
+      "symbol_or_extraction_point": "cameraAt",
+      "line_at_snapshot": 127,
+      "source_sha256": "57b5fd182f394191e98c1528a56798da200a9242771970e486392e5c6fd04ab7",
+      "reuse_status": "Existing editable module / factory; retain same-project dependencies",
+      "controls": [
+        "CAMS",
+        "camAt",
+        "focusAt",
+        "dofAt",
+        "KICKS",
+        "ANCHORS"
+      ],
+      "notes": "Absolute frame timings and coordinates are story-specific; transfer with shot definition and staging, then retime together."
+    },
+    {
+      "id": "max.actions",
+      "title": "42 Max timed action / contact definitions",
+      "category": "action-timeline",
+      "project": "max",
+      "source": "sources/max_wall_short/src/Scene.tsx",
+      "symbol_or_extraction_point": "function Layer",
+      "line_at_snapshot": 29,
+      "source_sha256": "0e51958fd7f0745dac65539414e4eeed38547adbfb68c93c18e1787d34ed9871",
+      "reuse_status": "Monolithic shot-driven choreography; extraction points indexed in SHOTS.json",
+      "notes": "Do not treat each shot as a standalone reusable component. Body/hand/ear/collar/door/phone contacts live in action branches and final pose application."
+    },
+    {
+      "id": "baseball.stadium",
+      "title": "Painted baseball stadium",
+      "category": "set",
+      "project": "baseball",
+      "source": "sources/baseball_fancam_fresh/src/Worlds.ts",
+      "symbol_or_extraction_point": "buildStadium",
+      "line_at_snapshot": 149,
+      "source_sha256": "840b711afaad031c5372b8d6dc2ddca8a0f55b2d73164ebb4f0813eb954fcfcc",
+      "reuse_status": "Existing editable module / factory; retain same-project dependencies",
+      "notes": "Includes diamond, seating tiers, crowd, live screen, concourse, canopies and rails; crowdUpdate is deterministic."
+    },
+    {
+      "id": "baseball.bedroom",
+      "title": "Employee bedroom",
+      "category": "set",
+      "project": "baseball",
+      "source": "sources/baseball_fancam_fresh/src/Worlds.ts",
+      "symbol_or_extraction_point": "buildBedroom",
+      "line_at_snapshot": 174,
+      "source_sha256": "840b711afaad031c5372b8d6dc2ddca8a0f55b2d73164ebb4f0813eb954fcfcc",
+      "reuse_status": "Existing editable module / factory; retain same-project dependencies",
+      "notes": "Distinct from Max apartment; built around shared roomBase helpers."
+    },
+    {
+      "id": "baseball.office",
+      "title": "Employee / boss office variants",
+      "category": "set",
+      "project": "baseball",
+      "source": "sources/baseball_fancam_fresh/src/Worlds.ts",
+      "symbol_or_extraction_point": "buildOffice",
+      "line_at_snapshot": 175,
+      "source_sha256": "840b711afaad031c5372b8d6dc2ddca8a0f55b2d73164ebb4f0813eb954fcfcc",
+      "reuse_status": "Existing editable module / factory; retain same-project dependencies",
+      "notes": "buildOffice(false) employee, buildOffice(true) boss; one builder with two variants."
+    },
+    {
+      "id": "baseball.meeting",
+      "title": "Team meeting room",
+      "category": "set",
+      "project": "baseball",
+      "source": "sources/baseball_fancam_fresh/src/Worlds.ts",
+      "symbol_or_extraction_point": "buildMeeting",
+      "line_at_snapshot": 176,
+      "source_sha256": "840b711afaad031c5372b8d6dc2ddca8a0f55b2d73164ebb4f0813eb954fcfcc",
+      "reuse_status": "Existing editable module / factory; retain same-project dependencies",
+      "notes": "Includes table, chairs and announcement panel."
+    },
+    {
+      "id": "baseball.human",
+      "title": "Baseball role / outfit / seated rig adapter",
+      "category": "character",
+      "project": "baseball",
+      "source": "sources/baseball_fancam_fresh/src/Characters.ts",
+      "symbol_or_extraction_point": "makeCharacter",
+      "line_at_snapshot": 53,
+      "source_sha256": "a33d5ccdf3b3522d2261e6750239da88de9266538fa8b482f905464d00fbb310",
+      "reuse_status": "Existing editable module / factory; retain same-project dependencies",
+      "roles": [
+        "employee",
+        "boss",
+        "kid",
+        "grandma",
+        "fan"
+      ],
+      "costumes": [
+        "pajamas",
+        "jersey",
+        "office",
+        "hawaiian"
+      ],
+      "controls": [
+        "pose",
+        "seated",
+        "expressions",
+        "mouth",
+        "gaze",
+        "head views",
+        "hand anchors"
+      ],
+      "notes": "Preserve seat-contact geometry and character metrics. This version differs from Max; do not overwrite one with the other."
+    },
+    {
+      "id": "baseball.prop.phone",
+      "title": "Phone",
+      "category": "prop",
+      "project": "baseball",
+      "source": "sources/baseball_fancam_fresh/src/Props.ts",
+      "symbol_or_extraction_point": "makePhone",
+      "line_at_snapshot": 12,
+      "source_sha256": "71a1a5df0a9f4162834276cc1d389e0c8a03f2f19c0dee620a5a4300eb4b47fe",
+      "reuse_status": "Existing editable module / factory; retain same-project dependencies",
+      "notes": "Existing exported factory. Sunglasses/baseball are available helpers, not a claim they appear in the approved preview."
+    },
+    {
+      "id": "baseball.prop.beer",
+      "title": "Large beer cup",
+      "category": "prop",
+      "project": "baseball",
+      "source": "sources/baseball_fancam_fresh/src/Props.ts",
+      "symbol_or_extraction_point": "makeBeer",
+      "line_at_snapshot": 21,
+      "source_sha256": "71a1a5df0a9f4162834276cc1d389e0c8a03f2f19c0dee620a5a4300eb4b47fe",
+      "reuse_status": "Existing editable module / factory; retain same-project dependencies",
+      "notes": "Existing exported factory. Sunglasses/baseball are available helpers, not a claim they appear in the approved preview."
+    },
+    {
+      "id": "baseball.prop.finger",
+      "title": "Foam finger",
+      "category": "prop",
+      "project": "baseball",
+      "source": "sources/baseball_fancam_fresh/src/Props.ts",
+      "symbol_or_extraction_point": "makeFoamFinger",
+      "line_at_snapshot": 41,
+      "source_sha256": "71a1a5df0a9f4162834276cc1d389e0c8a03f2f19c0dee620a5a4300eb4b47fe",
+      "reuse_status": "Existing editable module / factory; retain same-project dependencies",
+      "notes": "Existing exported factory. Sunglasses/baseball are available helpers, not a claim they appear in the approved preview."
+    },
+    {
+      "id": "baseball.prop.note",
+      "title": "Text note",
+      "category": "prop",
+      "project": "baseball",
+      "source": "sources/baseball_fancam_fresh/src/Props.ts",
+      "symbol_or_extraction_point": "makeNote",
+      "line_at_snapshot": 48,
+      "source_sha256": "71a1a5df0a9f4162834276cc1d389e0c8a03f2f19c0dee620a5a4300eb4b47fe",
+      "reuse_status": "Existing editable module / factory; retain same-project dependencies",
+      "notes": "Existing exported factory. Sunglasses/baseball are available helpers, not a claim they appear in the approved preview."
+    },
+    {
+      "id": "baseball.prop.sunglasses",
+      "title": "Sunglasses",
+      "category": "prop",
+      "project": "baseball",
+      "source": "sources/baseball_fancam_fresh/src/Props.ts",
+      "symbol_or_extraction_point": "makeSunglasses",
+      "line_at_snapshot": 56,
+      "source_sha256": "71a1a5df0a9f4162834276cc1d389e0c8a03f2f19c0dee620a5a4300eb4b47fe",
+      "reuse_status": "Existing editable module / factory; retain same-project dependencies",
+      "notes": "Existing exported factory. Sunglasses/baseball are available helpers, not a claim they appear in the approved preview."
+    },
+    {
+      "id": "baseball.prop.baseball",
+      "title": "Baseball",
+      "category": "prop",
+      "project": "baseball",
+      "source": "sources/baseball_fancam_fresh/src/Props.ts",
+      "symbol_or_extraction_point": "makeBaseball",
+      "line_at_snapshot": 61,
+      "source_sha256": "71a1a5df0a9f4162834276cc1d389e0c8a03f2f19c0dee620a5a4300eb4b47fe",
+      "reuse_status": "Existing editable module / factory; retain same-project dependencies",
+      "notes": "Existing exported factory. Sunglasses/baseball are available helpers, not a claim they appear in the approved preview."
+    },
+    {
+      "id": "baseball.prop.hotdog",
+      "title": "Hot dog",
+      "category": "prop",
+      "project": "baseball",
+      "source": "sources/baseball_fancam_fresh/src/Props.ts",
+      "symbol_or_extraction_point": "makeHotDog",
+      "line_at_snapshot": 62,
+      "source_sha256": "71a1a5df0a9f4162834276cc1d389e0c8a03f2f19c0dee620a5a4300eb4b47fe",
+      "reuse_status": "Existing editable module / factory; retain same-project dependencies",
+      "notes": "Existing exported factory. Sunglasses/baseball are available helpers, not a claim they appear in the approved preview."
+    },
+    {
+      "id": "baseball.look",
+      "title": "Repository day lighting / sky adapter",
+      "category": "lighting",
+      "project": "baseball",
+      "source": "sources/baseball_fancam_fresh/src/Look.ts",
+      "symbol_or_extraction_point": "createLook",
+      "line_at_snapshot": 8,
+      "source_sha256": "a75f09021b0fbee39687feb63e4c6e9aa895799cdc85961024f23947f1dd7df8",
+      "reuse_status": "Existing editable module / factory; retain same-project dependencies",
+      "modes": [
+        "day"
+      ],
+      "notes": "Uses upstream LIGHTS.day / LOOK.day; camera-dependent light anchors are set per shot."
+    },
+    {
+      "id": "baseball.camera",
+      "title": "Baseball camera / focus / actor cue timing",
+      "category": "camera",
+      "project": "baseball",
+      "source": "sources/baseball_fancam_fresh/src/Story.ts",
+      "symbol_or_extraction_point": "cameraAt",
+      "line_at_snapshot": 152,
+      "source_sha256": "56781cfb35872d2473eea171e779c28076ee5ce702729a0a7a184dcd3847a908",
+      "reuse_status": "Existing editable module / factory; retain same-project dependencies",
+      "controls": [
+        "CAMS",
+        "DOF",
+        "focusAt",
+        "ACTION_TIMES",
+        "PROP_ANCHORS",
+        "actorBeatAt"
+      ],
+      "notes": "Retain word-synced cue timing and hand/gaze anchors when reusing reaction shots."
+    },
+    {
+      "id": "baseball.actions",
+      "title": "28 baseball timed shot definitions",
+      "category": "action-timeline",
+      "project": "baseball",
+      "source": "sources/baseball_fancam_fresh/src/Scene.tsx",
+      "symbol_or_extraction_point": "function Layer",
+      "line_at_snapshot": 25,
+      "source_sha256": "0b5b8f4745e23c6aab37040ac797e8e295a87d06049135b46991cfee6deeb2fe",
+      "reuse_status": "Monolithic shot/set-driven choreography; extraction points indexed in SHOTS.json",
+      "notes": "Full source is preserved, but only existing native proof/preview evidence is referenced. This archive is not a claim of full-film completion."
+    },
+    {
+      "id": "max.post",
+      "title": "Ink → lens → bloom → Neutral → grade",
+      "category": "postprocessing",
+      "project": "max",
+      "source": "sources/max_wall_short/src/Post.tsx",
+      "symbol_or_extraction_point": "export function Post",
+      "line_at_snapshot": 11,
+      "source_sha256": "2c7560ecf115f9186d94fe6eb1a95d9c815fad578bd32ab11dea14ddfaec0203",
+      "reuse_status": "Existing editable module / factory; retain same-project dependencies",
+      "notes": "Keep original order, layer conventions, renderer color-space settings and matching vendor modules."
+    },
+    {
+      "id": "baseball.post",
+      "title": "Ink → lens → bloom → Neutral → grade",
+      "category": "postprocessing",
+      "project": "baseball",
+      "source": "sources/baseball_fancam_fresh/src/Post.tsx",
+      "symbol_or_extraction_point": "export function Post",
+      "line_at_snapshot": 11,
+      "source_sha256": "2c7560ecf115f9186d94fe6eb1a95d9c815fad578bd32ab11dea14ddfaec0203",
+      "reuse_status": "Existing editable module / factory; retain same-project dependencies",
+      "notes": "Keep original order, layer conventions, renderer color-space settings and matching vendor modules."
+    }
+  ],
+  "shot_index": "SHOTS.json",
+  "preview_index": "PREVIEW_REFERENCES.json",
+  "dependency_inventory": "DEPENDENCIES.json",
+  "notes": [
+    "No claim of complete standalone mesh, GLB, FBX, Blender or modular component exports.",
+    "Current Max source matches frozen full-film source bytes for every comparable file. Approved opening snapshot is retained separately.",
+    "Baseball rendering source matches approved preview snapshot; only documented non-render-source files differ.",
+    "Narration files are original user-supplied media, not covered by upstream code MIT notice.",
+    "Preview files remain in the original workspace / existing Library records; they are not bundled in this source archive."
+  ]
+}

@@ -1,0 +1,1685 @@
+{
+  "hypothesis": "my dog max had parted the same wall and three am at every night for a week ago about to give 'em away the first night i figured he heard a mouse the press my your gets the wall been heard nothing max go asleep he winding closet of pain like his life depended on it by thursday i hadn't slept and forty's my girlfriend rolled over him grown it's your dog you fix it the neighbor is it before he does sleep by sadly i drag max out by his collar we broke free and sprinted right back to the wall that morning i wrote a post for your good old one loud oahu i didn't say was the draft and went to bed angry at three am max started again but this time he was importing he was howling throwing his whole body against the wall i opened my mouth to yell and then i heard it to the dry wall fell ill fault with stomach dropped i ran into the hallway my socks and held on mr harland store so are are you okay nothing than the week sound of someone tapping back i called nine one one hand by the time the paramedics broke the door down max was already scratching at the bathroom mr harland was all the floor he fall and hours earlier and couldn't reach his full and the paramedic look to me and said another hour had we would've been having this conversation going back to my apartment and deleted the post max got a whole state that night and mr harland every sunday now he knocks on our wall twice and max barks back",
+  "words": [
+    {
+      "word": "<s>",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "word": "my",
+      "start": 0.08,
+      "end": 0.26
+    },
+    {
+      "word": "dog",
+      "start": 0.26,
+      "end": 0.53
+    },
+    {
+      "word": "max",
+      "start": 0.53,
+      "end": 1.0
+    },
+    {
+      "word": "had",
+      "start": 1.0,
+      "end": 1.15
+    },
+    {
+      "word": "parted",
+      "start": 1.15,
+      "end": 1.53
+    },
+    {
+      "word": "the",
+      "start": 1.53,
+      "end": 1.6
+    },
+    {
+      "word": "same",
+      "start": 1.6,
+      "end": 2.1
+    },
+    {
+      "word": "wall",
+      "start": 2.1,
+      "end": 2.4
+    },
+    {
+      "word": "and(2)",
+      "start": 2.4,
+      "end": 2.59
+    },
+    {
+      "word": "<sil>",
+      "start": 2.59,
+      "end": 2.63
+    },
+    {
+      "word": "three",
+      "start": 2.63,
+      "end": 2.9
+    },
+    {
+      "word": "am(2)",
+      "start": 2.9,
+      "end": 3.3
+    },
+    {
+      "word": "at",
+      "start": 3.3,
+      "end": 3.37
+    },
+    {
+      "word": "<sil>",
+      "start": 3.37,
+      "end": 3.43
+    },
+    {
+      "word": "every(2)",
+      "start": 3.43,
+      "end": 3.84
+    },
+    {
+      "word": "night",
+      "start": 3.84,
+      "end": 4.19
+    },
+    {
+      "word": "for(2)",
+      "start": 4.19,
+      "end": 4.44
+    },
+    {
+      "word": "a",
+      "start": 4.44,
+      "end": 4.47
+    },
+    {
+      "word": "week",
+      "start": 4.47,
+      "end": 5.0
+    },
+    {
+      "word": "<sil>",
+      "start": 5.0,
+      "end": 5.13
+    },
+    {
+      "word": "ago",
+      "start": 5.13,
+      "end": 5.45
+    },
+    {
+      "word": "about",
+      "start": 5.45,
+      "end": 5.75
+    },
+    {
+      "word": "to(2)",
+      "start": 5.75,
+      "end": 5.83
+    },
+    {
+      "word": "give",
+      "start": 5.83,
+      "end": 6.04
+    },
+    {
+      "word": "'em",
+      "start": 6.04,
+      "end": 6.17
+    },
+    {
+      "word": "away",
+      "start": 6.17,
+      "end": 6.75
+    },
+    {
+      "word": "<sil>",
+      "start": 6.75,
+      "end": 7.23
+    },
+    {
+      "word": "the",
+      "start": 7.23,
+      "end": 7.33
+    },
+    {
+      "word": "first",
+      "start": 7.33,
+      "end": 7.68
+    },
+    {
+      "word": "night",
+      "start": 7.68,
+      "end": 8.07
+    },
+    {
+      "word": "i",
+      "start": 8.07,
+      "end": 8.17
+    },
+    {
+      "word": "figured",
+      "start": 8.17,
+      "end": 8.55
+    },
+    {
+      "word": "he",
+      "start": 8.55,
+      "end": 8.66
+    },
+    {
+      "word": "heard",
+      "start": 8.66,
+      "end": 8.83
+    },
+    {
+      "word": "a",
+      "start": 8.83,
+      "end": 8.87
+    },
+    {
+      "word": "mouse",
+      "start": 8.87,
+      "end": 9.49
+    },
+    {
+      "word": "<sil>",
+      "start": 9.49,
+      "end": 9.7
+    },
+    {
+      "word": "the",
+      "start": 9.7,
+      "end": 9.83
+    },
+    {
+      "word": "press",
+      "start": 9.83,
+      "end": 10.1
+    },
+    {
+      "word": "my",
+      "start": 10.1,
+      "end": 10.24
+    },
+    {
+      "word": "your(2)",
+      "start": 10.24,
+      "end": 10.52
+    },
+    {
+      "word": "gets(2)",
+      "start": 10.52,
+      "end": 10.77
+    },
+    {
+      "word": "the",
+      "start": 10.77,
+      "end": 10.83
+    },
+    {
+      "word": "wall",
+      "start": 10.83,
+      "end": 11.32
+    },
+    {
+      "word": "been(2)",
+      "start": 11.32,
+      "end": 11.55
+    },
+    {
+      "word": "heard",
+      "start": 11.55,
+      "end": 11.8
+    },
+    {
+      "word": "nothing",
+      "start": 11.8,
+      "end": 12.36
+    },
+    {
+      "word": "<s>",
+      "start": 12.36,
+      "end": 12.72
+    },
+    {
+      "word": "max",
+      "start": 12.72,
+      "end": 13.29
+    },
+    {
+      "word": "go",
+      "start": 13.29,
+      "end": 13.62
+    },
+    {
+      "word": "asleep",
+      "start": 13.62,
+      "end": 14.27
+    },
+    {
+      "word": "<sil>",
+      "start": 14.27,
+      "end": 14.63
+    },
+    {
+      "word": "he",
+      "start": 14.63,
+      "end": 14.78
+    },
+    {
+      "word": "winding",
+      "start": 14.78,
+      "end": 15.5
+    },
+    {
+      "word": "closet",
+      "start": 15.5,
+      "end": 16.08
+    },
+    {
+      "word": "of",
+      "start": 16.08,
+      "end": 16.15
+    },
+    {
+      "word": "pain",
+      "start": 16.15,
+      "end": 16.47
+    },
+    {
+      "word": "like",
+      "start": 16.47,
+      "end": 16.61
+    },
+    {
+      "word": "his",
+      "start": 16.61,
+      "end": 16.74
+    },
+    {
+      "word": "life",
+      "start": 16.74,
+      "end": 17.15
+    },
+    {
+      "word": "depended",
+      "start": 17.15,
+      "end": 17.73
+    },
+    {
+      "word": "on(2)",
+      "start": 17.73,
+      "end": 17.92
+    },
+    {
+      "word": "it",
+      "start": 17.92,
+      "end": 18.05
+    },
+    {
+      "word": "<sil>",
+      "start": 18.05,
+      "end": 18.48
+    },
+    {
+      "word": "by",
+      "start": 18.48,
+      "end": 18.61
+    },
+    {
+      "word": "thursday",
+      "start": 18.61,
+      "end": 19.35
+    },
+    {
+      "word": "<s>",
+      "start": 19.35,
+      "end": 19.52
+    },
+    {
+      "word": "i",
+      "start": 19.52,
+      "end": 19.63
+    },
+    {
+      "word": "hadn't(2)",
+      "start": 19.63,
+      "end": 19.92
+    },
+    {
+      "word": "slept",
+      "start": 19.92,
+      "end": 20.33
+    },
+    {
+      "word": "and",
+      "start": 20.33,
+      "end": 20.46
+    },
+    {
+      "word": "forty's",
+      "start": 20.46,
+      "end": 21.65
+    },
+    {
+      "word": "<sil>",
+      "start": 21.65,
+      "end": 21.88
+    },
+    {
+      "word": "my",
+      "start": 21.88,
+      "end": 21.99
+    },
+    {
+      "word": "girlfriend",
+      "start": 21.99,
+      "end": 22.49
+    },
+    {
+      "word": "rolled",
+      "start": 22.49,
+      "end": 22.75
+    },
+    {
+      "word": "over",
+      "start": 22.75,
+      "end": 23.09
+    },
+    {
+      "word": "him(2)",
+      "start": 23.09,
+      "end": 23.2
+    },
+    {
+      "word": "grown",
+      "start": 23.2,
+      "end": 23.73
+    },
+    {
+      "word": "<s>",
+      "start": 23.73,
+      "end": 24.12
+    },
+    {
+      "word": "it's",
+      "start": 24.12,
+      "end": 24.31
+    },
+    {
+      "word": "your",
+      "start": 24.31,
+      "end": 24.61
+    },
+    {
+      "word": "dog",
+      "start": 24.61,
+      "end": 25.11
+    },
+    {
+      "word": "you",
+      "start": 25.11,
+      "end": 25.39
+    },
+    {
+      "word": "fix",
+      "start": 25.39,
+      "end": 25.8
+    },
+    {
+      "word": "it",
+      "start": 25.8,
+      "end": 25.99
+    },
+    {
+      "word": "<s>",
+      "start": 25.99,
+      "end": 26.23
+    },
+    {
+      "word": "the",
+      "start": 26.23,
+      "end": 26.34
+    },
+    {
+      "word": "neighbor",
+      "start": 26.34,
+      "end": 26.8
+    },
+    {
+      "word": "is",
+      "start": 26.8,
+      "end": 26.93
+    },
+    {
+      "word": "it",
+      "start": 26.93,
+      "end": 27.0
+    },
+    {
+      "word": "before(2)",
+      "start": 27.0,
+      "end": 27.92
+    },
+    {
+      "word": "he",
+      "start": 27.92,
+      "end": 28.07
+    },
+    {
+      "word": "does",
+      "start": 28.07,
+      "end": 28.22
+    },
+    {
+      "word": "sleep",
+      "start": 28.22,
+      "end": 28.58
+    },
+    {
+      "word": "by",
+      "start": 28.58,
+      "end": 28.74
+    },
+    {
+      "word": "sadly",
+      "start": 28.74,
+      "end": 29.4
+    },
+    {
+      "word": "<sil>",
+      "start": 29.4,
+      "end": 29.73
+    },
+    {
+      "word": "i",
+      "start": 29.73,
+      "end": 29.82
+    },
+    {
+      "word": "drag",
+      "start": 29.82,
+      "end": 30.29
+    },
+    {
+      "word": "max",
+      "start": 30.29,
+      "end": 30.61
+    },
+    {
+      "word": "out",
+      "start": 30.61,
+      "end": 30.77
+    },
+    {
+      "word": "by",
+      "start": 30.77,
+      "end": 30.93
+    },
+    {
+      "word": "his",
+      "start": 30.93,
+      "end": 31.07
+    },
+    {
+      "word": "collar",
+      "start": 31.07,
+      "end": 31.61
+    },
+    {
+      "word": "<s>",
+      "start": 31.61,
+      "end": 31.64
+    },
+    {
+      "word": "we",
+      "start": 31.64,
+      "end": 31.81
+    },
+    {
+      "word": "broke",
+      "start": 31.81,
+      "end": 32.14
+    },
+    {
+      "word": "free",
+      "start": 32.14,
+      "end": 32.49
+    },
+    {
+      "word": "and",
+      "start": 32.49,
+      "end": 32.58
+    },
+    {
+      "word": "sprinted",
+      "start": 32.58,
+      "end": 33.13
+    },
+    {
+      "word": "right",
+      "start": 33.13,
+      "end": 33.47
+    },
+    {
+      "word": "back",
+      "start": 33.47,
+      "end": 33.68
+    },
+    {
+      "word": "to(3)",
+      "start": 33.68,
+      "end": 33.78
+    },
+    {
+      "word": "the",
+      "start": 33.78,
+      "end": 33.87
+    },
+    {
+      "word": "wall",
+      "start": 33.87,
+      "end": 34.33
+    },
+    {
+      "word": "<sil>",
+      "start": 34.33,
+      "end": 34.69
+    },
+    {
+      "word": "that",
+      "start": 34.69,
+      "end": 34.91
+    },
+    {
+      "word": "morning",
+      "start": 34.91,
+      "end": 35.34
+    },
+    {
+      "word": "<sil>",
+      "start": 35.34,
+      "end": 35.49
+    },
+    {
+      "word": "i",
+      "start": 35.49,
+      "end": 35.6
+    },
+    {
+      "word": "wrote",
+      "start": 35.6,
+      "end": 35.83
+    },
+    {
+      "word": "a",
+      "start": 35.83,
+      "end": 35.91
+    },
+    {
+      "word": "post",
+      "start": 35.91,
+      "end": 36.43
+    },
+    {
+      "word": "<sil>",
+      "start": 36.43,
+      "end": 36.75
+    },
+    {
+      "word": "for(3)",
+      "start": 36.75,
+      "end": 36.97
+    },
+    {
+      "word": "your",
+      "start": 36.97,
+      "end": 37.23
+    },
+    {
+      "word": "good",
+      "start": 37.23,
+      "end": 37.48
+    },
+    {
+      "word": "old",
+      "start": 37.48,
+      "end": 37.91
+    },
+    {
+      "word": "<sil>",
+      "start": 37.91,
+      "end": 38.09
+    },
+    {
+      "word": "one",
+      "start": 38.09,
+      "end": 38.44
+    },
+    {
+      "word": "loud",
+      "start": 38.44,
+      "end": 38.96
+    },
+    {
+      "word": "oahu",
+      "start": 38.96,
+      "end": 39.31
+    },
+    {
+      "word": "<sil>",
+      "start": 39.31,
+      "end": 39.43
+    },
+    {
+      "word": "<s>",
+      "start": 39.43,
+      "end": 39.76
+    },
+    {
+      "word": "i",
+      "start": 39.76,
+      "end": 39.85
+    },
+    {
+      "word": "didn't(4)",
+      "start": 39.85,
+      "end": 40.05
+    },
+    {
+      "word": "say",
+      "start": 40.05,
+      "end": 40.3
+    },
+    {
+      "word": "was(2)",
+      "start": 40.3,
+      "end": 40.44
+    },
+    {
+      "word": "the",
+      "start": 40.44,
+      "end": 40.52
+    },
+    {
+      "word": "draft",
+      "start": 40.52,
+      "end": 41.02
+    },
+    {
+      "word": "and(2)",
+      "start": 41.02,
+      "end": 41.13
+    },
+    {
+      "word": "went",
+      "start": 41.13,
+      "end": 41.36
+    },
+    {
+      "word": "to(2)",
+      "start": 41.36,
+      "end": 41.45
+    },
+    {
+      "word": "bed",
+      "start": 41.45,
+      "end": 41.75
+    },
+    {
+      "word": "angry",
+      "start": 41.75,
+      "end": 42.51
+    },
+    {
+      "word": "<sil>",
+      "start": 42.51,
+      "end": 42.9
+    },
+    {
+      "word": "at",
+      "start": 42.9,
+      "end": 43.11
+    },
+    {
+      "word": "three",
+      "start": 43.11,
+      "end": 43.36
+    },
+    {
+      "word": "am(2)",
+      "start": 43.36,
+      "end": 43.82
+    },
+    {
+      "word": "<s>",
+      "start": 43.82,
+      "end": 43.93
+    },
+    {
+      "word": "max",
+      "start": 43.93,
+      "end": 44.28
+    },
+    {
+      "word": "started",
+      "start": 44.28,
+      "end": 44.66
+    },
+    {
+      "word": "again",
+      "start": 44.66,
+      "end": 45.22
+    },
+    {
+      "word": "<sil>",
+      "start": 45.22,
+      "end": 45.52
+    },
+    {
+      "word": "but",
+      "start": 45.52,
+      "end": 45.68
+    },
+    {
+      "word": "this",
+      "start": 45.68,
+      "end": 45.9
+    },
+    {
+      "word": "time",
+      "start": 45.9,
+      "end": 46.22
+    },
+    {
+      "word": "he",
+      "start": 46.22,
+      "end": 46.31
+    },
+    {
+      "word": "was(2)",
+      "start": 46.31,
+      "end": 46.5
+    },
+    {
+      "word": "importing",
+      "start": 46.5,
+      "end": 47.14
+    },
+    {
+      "word": "<s>",
+      "start": 47.14,
+      "end": 47.41
+    },
+    {
+      "word": "he",
+      "start": 47.41,
+      "end": 47.56
+    },
+    {
+      "word": "was(2)",
+      "start": 47.56,
+      "end": 47.73
+    },
+    {
+      "word": "howling",
+      "start": 47.73,
+      "end": 48.5
+    },
+    {
+      "word": "<sil>",
+      "start": 48.5,
+      "end": 48.66
+    },
+    {
+      "word": "throwing",
+      "start": 48.66,
+      "end": 49.02
+    },
+    {
+      "word": "his",
+      "start": 49.02,
+      "end": 49.16
+    },
+    {
+      "word": "whole",
+      "start": 49.16,
+      "end": 49.54
+    },
+    {
+      "word": "body",
+      "start": 49.54,
+      "end": 50.0
+    },
+    {
+      "word": "against",
+      "start": 50.0,
+      "end": 50.29
+    },
+    {
+      "word": "the",
+      "start": 50.29,
+      "end": 50.35
+    },
+    {
+      "word": "wall",
+      "start": 50.35,
+      "end": 50.91
+    },
+    {
+      "word": "<s>",
+      "start": 50.91,
+      "end": 51.19
+    },
+    {
+      "word": "i",
+      "start": 51.19,
+      "end": 51.31
+    },
+    {
+      "word": "opened",
+      "start": 51.31,
+      "end": 51.58
+    },
+    {
+      "word": "my",
+      "start": 51.58,
+      "end": 51.68
+    },
+    {
+      "word": "mouth",
+      "start": 51.68,
+      "end": 51.94
+    },
+    {
+      "word": "to(2)",
+      "start": 51.94,
+      "end": 52.07
+    },
+    {
+      "word": "yell",
+      "start": 52.07,
+      "end": 52.58
+    },
+    {
+      "word": "<sil>",
+      "start": 52.58,
+      "end": 52.77
+    },
+    {
+      "word": "and",
+      "start": 52.77,
+      "end": 52.94
+    },
+    {
+      "word": "then",
+      "start": 52.94,
+      "end": 53.09
+    },
+    {
+      "word": "i",
+      "start": 53.09,
+      "end": 53.17
+    },
+    {
+      "word": "heard",
+      "start": 53.17,
+      "end": 53.48
+    },
+    {
+      "word": "it",
+      "start": 53.48,
+      "end": 53.62
+    },
+    {
+      "word": "to",
+      "start": 53.62,
+      "end": 53.75
+    },
+    {
+      "word": "the",
+      "start": 53.75,
+      "end": 53.83
+    },
+    {
+      "word": "dry",
+      "start": 53.83,
+      "end": 54.12
+    },
+    {
+      "word": "wall",
+      "start": 54.12,
+      "end": 54.54
+    },
+    {
+      "word": "<sil>",
+      "start": 54.54,
+      "end": 54.94
+    },
+    {
+      "word": "fell",
+      "start": 54.94,
+      "end": 55.25
+    },
+    {
+      "word": "<sil>",
+      "start": 55.25,
+      "end": 56.05
+    },
+    {
+      "word": "ill",
+      "start": 56.05,
+      "end": 56.21
+    },
+    {
+      "word": "<sil>",
+      "start": 56.21,
+      "end": 56.81
+    },
+    {
+      "word": "fault",
+      "start": 56.81,
+      "end": 57.27
+    },
+    {
+      "word": "<sil>",
+      "start": 57.27,
+      "end": 57.85
+    },
+    {
+      "word": "with(2)",
+      "start": 57.85,
+      "end": 57.97
+    },
+    {
+      "word": "stomach",
+      "start": 57.97,
+      "end": 58.49
+    },
+    {
+      "word": "dropped",
+      "start": 58.49,
+      "end": 59.23
+    },
+    {
+      "word": "<sil>",
+      "start": 59.23,
+      "end": 59.35
+    },
+    {
+      "word": "<s>",
+      "start": 59.35,
+      "end": 59.52
+    },
+    {
+      "word": "i",
+      "start": 59.52,
+      "end": 59.59
+    },
+    {
+      "word": "ran",
+      "start": 59.59,
+      "end": 59.95
+    },
+    {
+      "word": "into(2)",
+      "start": 59.95,
+      "end": 60.12
+    },
+    {
+      "word": "the",
+      "start": 60.12,
+      "end": 60.21
+    },
+    {
+      "word": "hallway",
+      "start": 60.21,
+      "end": 60.65
+    },
+    {
+      "word": "my",
+      "start": 60.65,
+      "end": 60.82
+    },
+    {
+      "word": "socks",
+      "start": 60.82,
+      "end": 61.26
+    },
+    {
+      "word": "and",
+      "start": 61.26,
+      "end": 61.45
+    },
+    {
+      "word": "held",
+      "start": 61.45,
+      "end": 61.87
+    },
+    {
+      "word": "on(2)",
+      "start": 61.87,
+      "end": 61.99
+    },
+    {
+      "word": "mr",
+      "start": 61.99,
+      "end": 62.27
+    },
+    {
+      "word": "harland",
+      "start": 62.27,
+      "end": 62.62
+    },
+    {
+      "word": "store",
+      "start": 62.62,
+      "end": 63.1
+    },
+    {
+      "word": "<sil>",
+      "start": 63.1,
+      "end": 63.31
+    },
+    {
+      "word": "so",
+      "start": 63.31,
+      "end": 63.63
+    },
+    {
+      "word": "are",
+      "start": 63.63,
+      "end": 63.87
+    },
+    {
+      "word": "[SPEECH]",
+      "start": 63.87,
+      "end": 63.95
+    },
+    {
+      "word": "are",
+      "start": 63.95,
+      "end": 64.09
+    },
+    {
+      "word": "you",
+      "start": 64.09,
+      "end": 64.21
+    },
+    {
+      "word": "okay",
+      "start": 64.21,
+      "end": 64.84
+    },
+    {
+      "word": "<sil>",
+      "start": 64.84,
+      "end": 65.19
+    },
+    {
+      "word": "nothing",
+      "start": 65.19,
+      "end": 65.75
+    },
+    {
+      "word": "<sil>",
+      "start": 65.75,
+      "end": 66.16
+    },
+    {
+      "word": "than(2)",
+      "start": 66.16,
+      "end": 66.46
+    },
+    {
+      "word": "the",
+      "start": 66.46,
+      "end": 66.52
+    },
+    {
+      "word": "week",
+      "start": 66.52,
+      "end": 66.9
+    },
+    {
+      "word": "sound",
+      "start": 66.9,
+      "end": 67.33
+    },
+    {
+      "word": "of",
+      "start": 67.33,
+      "end": 67.41
+    },
+    {
+      "word": "someone",
+      "start": 67.41,
+      "end": 67.78
+    },
+    {
+      "word": "tapping",
+      "start": 67.78,
+      "end": 68.23
+    },
+    {
+      "word": "back",
+      "start": 68.23,
+      "end": 68.69
+    },
+    {
+      "word": "<s>",
+      "start": 68.69,
+      "end": 69.0
+    },
+    {
+      "word": "i",
+      "start": 69.0,
+      "end": 69.07
+    },
+    {
+      "word": "called",
+      "start": 69.07,
+      "end": 69.39
+    },
+    {
+      "word": "nine",
+      "start": 69.39,
+      "end": 69.6
+    },
+    {
+      "word": "one",
+      "start": 69.6,
+      "end": 69.74
+    },
+    {
+      "word": "one",
+      "start": 69.74,
+      "end": 70.08
+    },
+    {
+      "word": "hand",
+      "start": 70.08,
+      "end": 70.32
+    },
+    {
+      "word": "by",
+      "start": 70.32,
+      "end": 70.43
+    },
+    {
+      "word": "the",
+      "start": 70.43,
+      "end": 70.53
+    },
+    {
+      "word": "time",
+      "start": 70.53,
+      "end": 70.82
+    },
+    {
+      "word": "the",
+      "start": 70.82,
+      "end": 70.9
+    },
+    {
+      "word": "paramedics",
+      "start": 70.9,
+      "end": 71.46
+    },
+    {
+      "word": "broke",
+      "start": 71.46,
+      "end": 71.69
+    },
+    {
+      "word": "the",
+      "start": 71.69,
+      "end": 71.76
+    },
+    {
+      "word": "door",
+      "start": 71.76,
+      "end": 72.03
+    },
+    {
+      "word": "down",
+      "start": 72.03,
+      "end": 72.38
+    },
+    {
+      "word": "<s>",
+      "start": 72.38,
+      "end": 72.49
+    },
+    {
+      "word": "max",
+      "start": 72.49,
+      "end": 72.84
+    },
+    {
+      "word": "was(2)",
+      "start": 72.84,
+      "end": 72.97
+    },
+    {
+      "word": "already",
+      "start": 72.97,
+      "end": 73.47
+    },
+    {
+      "word": "scratching",
+      "start": 73.47,
+      "end": 74.03
+    },
+    {
+      "word": "at",
+      "start": 74.03,
+      "end": 74.11
+    },
+    {
+      "word": "the",
+      "start": 74.11,
+      "end": 74.18
+    },
+    {
+      "word": "bathroom",
+      "start": 74.18,
+      "end": 74.75
+    },
+    {
+      "word": "<s>",
+      "start": 74.75,
+      "end": 75.08
+    },
+    {
+      "word": "mr",
+      "start": 75.08,
+      "end": 75.36
+    },
+    {
+      "word": "harland",
+      "start": 75.36,
+      "end": 75.82
+    },
+    {
+      "word": "was(2)",
+      "start": 75.82,
+      "end": 75.93
+    },
+    {
+      "word": "all",
+      "start": 75.93,
+      "end": 76.04
+    },
+    {
+      "word": "the",
+      "start": 76.04,
+      "end": 76.1
+    },
+    {
+      "word": "floor",
+      "start": 76.1,
+      "end": 76.69
+    },
+    {
+      "word": "<sil>",
+      "start": 76.69,
+      "end": 76.89
+    },
+    {
+      "word": "he",
+      "start": 76.89,
+      "end": 77.02
+    },
+    {
+      "word": "fall",
+      "start": 77.02,
+      "end": 77.41
+    },
+    {
+      "word": "and",
+      "start": 77.41,
+      "end": 77.55
+    },
+    {
+      "word": "hours",
+      "start": 77.55,
+      "end": 77.95
+    },
+    {
+      "word": "earlier",
+      "start": 77.95,
+      "end": 78.39
+    },
+    {
+      "word": "and",
+      "start": 78.39,
+      "end": 78.51
+    },
+    {
+      "word": "couldn't(2)",
+      "start": 78.51,
+      "end": 78.74
+    },
+    {
+      "word": "reach",
+      "start": 78.74,
+      "end": 78.97
+    },
+    {
+      "word": "his",
+      "start": 78.97,
+      "end": 79.14
+    },
+    {
+      "word": "full",
+      "start": 79.14,
+      "end": 79.46
+    },
+    {
+      "word": "and",
+      "start": 79.46,
+      "end": 79.63
+    },
+    {
+      "word": "<sil>",
+      "start": 79.63,
+      "end": 79.92
+    },
+    {
+      "word": "the",
+      "start": 79.92,
+      "end": 80.01
+    },
+    {
+      "word": "paramedic",
+      "start": 80.01,
+      "end": 80.54
+    },
+    {
+      "word": "look",
+      "start": 80.54,
+      "end": 80.72
+    },
+    {
+      "word": "to(2)",
+      "start": 80.72,
+      "end": 80.82
+    },
+    {
+      "word": "me",
+      "start": 80.82,
+      "end": 81.0
+    },
+    {
+      "word": "and",
+      "start": 81.0,
+      "end": 81.1
+    },
+    {
+      "word": "said",
+      "start": 81.1,
+      "end": 81.45
+    },
+    {
+      "word": "<sil>",
+      "start": 81.45,
+      "end": 81.73
+    },
+    {
+      "word": "another",
+      "start": 81.73,
+      "end": 82.18
+    },
+    {
+      "word": "hour(2)",
+      "start": 82.18,
+      "end": 82.52
+    },
+    {
+      "word": "had",
+      "start": 82.52,
+      "end": 82.81
+    },
+    {
+      "word": "we",
+      "start": 82.81,
+      "end": 82.97
+    },
+    {
+      "word": "would've",
+      "start": 82.97,
+      "end": 83.31
+    },
+    {
+      "word": "been",
+      "start": 83.31,
+      "end": 83.46
+    },
+    {
+      "word": "having",
+      "start": 83.46,
+      "end": 83.84
+    },
+    {
+      "word": "this",
+      "start": 83.84,
+      "end": 83.98
+    },
+    {
+      "word": "conversation",
+      "start": 83.98,
+      "end": 84.8
+    },
+    {
+      "word": "<sil>",
+      "start": 84.8,
+      "end": 85.21
+    },
+    {
+      "word": "going(2)",
+      "start": 85.21,
+      "end": 85.5
+    },
+    {
+      "word": "back",
+      "start": 85.5,
+      "end": 85.71
+    },
+    {
+      "word": "to(3)",
+      "start": 85.71,
+      "end": 85.79
+    },
+    {
+      "word": "my",
+      "start": 85.79,
+      "end": 85.96
+    },
+    {
+      "word": "apartment",
+      "start": 85.96,
+      "end": 86.53
+    },
+    {
+      "word": "<sil>",
+      "start": 86.53,
+      "end": 86.7
+    },
+    {
+      "word": "and",
+      "start": 86.7,
+      "end": 86.83
+    },
+    {
+      "word": "deleted",
+      "start": 86.83,
+      "end": 87.23
+    },
+    {
+      "word": "the",
+      "start": 87.23,
+      "end": 87.3
+    },
+    {
+      "word": "post",
+      "start": 87.3,
+      "end": 87.82
+    },
+    {
+      "word": "<sil>",
+      "start": 87.82,
+      "end": 87.98
+    },
+    {
+      "word": "<s>",
+      "start": 87.98,
+      "end": 88.27
+    },
+    {
+      "word": "max",
+      "start": 88.27,
+      "end": 88.63
+    },
+    {
+      "word": "got",
+      "start": 88.63,
+      "end": 88.79
+    },
+    {
+      "word": "a",
+      "start": 88.79,
+      "end": 88.88
+    },
+    {
+      "word": "whole",
+      "start": 88.88,
+      "end": 89.24
+    },
+    {
+      "word": "state",
+      "start": 89.24,
+      "end": 89.71
+    },
+    {
+      "word": "that",
+      "start": 89.71,
+      "end": 89.96
+    },
+    {
+      "word": "night",
+      "start": 89.96,
+      "end": 90.24
+    },
+    {
+      "word": "<sil>",
+      "start": 90.24,
+      "end": 90.58
+    },
+    {
+      "word": "and",
+      "start": 90.58,
+      "end": 90.7
+    },
+    {
+      "word": "mr",
+      "start": 90.7,
+      "end": 90.97
+    },
+    {
+      "word": "harland",
+      "start": 90.97,
+      "end": 91.49
+    },
+    {
+      "word": "<sil>",
+      "start": 91.49,
+      "end": 91.73
+    },
+    {
+      "word": "every(2)",
+      "start": 91.73,
+      "end": 92.04
+    },
+    {
+      "word": "sunday",
+      "start": 92.04,
+      "end": 92.42
+    },
+    {
+      "word": "now",
+      "start": 92.42,
+      "end": 92.81
+    },
+    {
+      "word": "<sil>",
+      "start": 92.81,
+      "end": 92.91
+    },
+    {
+      "word": "he",
+      "start": 92.91,
+      "end": 93.06
+    },
+    {
+      "word": "knocks",
+      "start": 93.06,
+      "end": 93.37
+    },
+    {
+      "word": "on(2)",
+      "start": 93.37,
+      "end": 93.48
+    },
+    {
+      "word": "our(3)",
+      "start": 93.48,
+      "end": 93.64
+    },
+    {
+      "word": "wall",
+      "start": 93.64,
+      "end": 93.87
+    },
+    {
+      "word": "twice",
+      "start": 93.87,
+      "end": 94.6
+    },
+    {
+      "word": "<sil>",
+      "start": 94.6,
+      "end": 94.66
+    },
+    {
+      "word": "and(2)",
+      "start": 94.66,
+      "end": 94.84
+    },
+    {
+      "word": "max",
+      "start": 94.84,
+      "end": 95.23
+    },
+    {
+      "word": "barks",
+      "start": 95.23,
+      "end": 95.61
+    },
+    {
+      "word": "back",
+      "start": 95.61,
+      "end": 96.1
+    },
+    {
+      "word": "</s>",
+      "start": 96.1,
+      "end": 96.19
+    }
+  ]
+}

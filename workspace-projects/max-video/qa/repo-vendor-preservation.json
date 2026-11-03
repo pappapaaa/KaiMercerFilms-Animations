@@ -1,0 +1,47 @@
+[
+  {
+    "file": "cardshade.ts",
+    "same": true,
+    "sha256": "2d84df886c71caf3aec7cfc5ff717708454e37c85ff5346b4b9d688621ac7844"
+  },
+  {
+    "file": "grade.ts",
+    "same": true,
+    "sha256": "86ba2bcf0a0ba2bf5cec18c040cd932bcb973715c3a83314e44ddebf577b8138"
+  },
+  {
+    "file": "ink.ts",
+    "same": true,
+    "sha256": "08c281a4473a202d2512a7c9b276aa2be3351442a4cbaa0c0f7440e76f5d2678"
+  },
+  {
+    "file": "lensblur.ts",
+    "same": true,
+    "sha256": "34b545d1b89802423ffe0fa29def76e414bee9f7e08dfdd3b67c128b8a194ca9"
+  },
+  {
+    "file": "lights.ts",
+    "same": true,
+    "sha256": "6cac5ded364cbfe536e45679d982bbd0399778b71ca52585964be7eefcc830ea"
+  },
+  {
+    "file": "paint.ts",
+    "same": true,
+    "sha256": "594a360829d9de79565ef12fe226f475cbfa0525cf3c987b5ae9a065bd30c256"
+  },
+  {
+    "file": "shade.ts",
+    "same": true,
+    "sha256": "fbddf3dc5075f471631a0ff926dca3d6c249f24bfdb023ec2d44fcbd9082f4e5"
+  },
+  {
+    "file": "story.ts",
+    "same": true,
+    "sha256": "4a87c2e6929478f13923f7f6bcbee87f2a126ace1863441b2619748627ba1862"
+  },
+  {
+    "file": "toon.ts",
+    "same": true,
+    "sha256": "4c8dc6d031665e90e8b7b863369939dcc9864e6d9d9af05105a7de2c4452f01f"
+  }
+]

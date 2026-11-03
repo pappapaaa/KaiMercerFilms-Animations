@@ -1,0 +1,29 @@
+{
+  "method": "two-pass PocketSphinx 5.0.4 acoustic forced alignment in paragraph chunks; chunk boundaries placed inside quiet gaps identified by independent unconstrained local ASR and RMS analysis",
+  "bounds": [
+    0,
+    7.1,
+    18.3,
+    34.5,
+    42.7,
+    57.6,
+    74.9,
+    76.8,
+    79.8,
+    81.6,
+    85.0,
+    90.4,
+    96.208938
+  ],
+  "dictionary_additions": {
+    "whined": "W AY N D",
+    "harlan's": "HH AA R L AH N Z"
+  },
+  "normalizations": {
+    "3": "three",
+    "AM": "a.m.",
+    "84": "eighty four",
+    "7": "seven",
+    "911": "nine one one"
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "root": "/workspace/scratch/81cf969d0a39/baseball_fancam_short/repo_remake/fresh_project",
+  "recorded": "2026-11-02T14:45:00Z",
+  "files": [
+    {
+      "path": "src/Characters.ts",
+      "sha256": "a33d5ccdf3b3522d2261e6750239da88de9266538fa8b482f905464d00fbb310",
+      "bytes": 10166
+    },
+    {
+      "path": "src/Film.tsx",
+      "sha256": "782f83146a00d3c8fa520178f91141e2d4ff2ace8511f99ffa2848f50654c180",
+      "bytes": 1102
+    },
+    {
+      "path": "src/Look.ts",
+      "sha256": "a75f09021b0fbee39687feb63e4c6e9aa895799cdc85961024f23947f1dd7df8",
+      "bytes": 3530
+    },
+    {
+      "path": "src/Post.tsx",
+      "sha256": "2c7560ecf115f9186d94fe6eb1a95d9c815fad578bd32ab11dea14ddfaec0203",
+      "bytes": 1697
+    },
+    {
+      "path": "src/Props.ts",
+      "sha256": "71a1a5df0a9f4162834276cc1d389e0c8a03f2f19c0dee620a5a4300eb4b47fe",
+      "bytes": 6630
+    },
+    {
+      "path": "src/Root.tsx",
+      "sha256": "f75dff03f4170e577482ad5e726fc31d8a9fecbc97437f68faf72ac4312c9ccb",
+      "bytes": 481
+    },
+    {
+      "path": "src/Scene.tsx",
+      "sha256": "0b5b8f4745e23c6aab37040ac797e8e295a87d06049135b46991cfee6deeb2fe",
+      "bytes": 11142
+    },
+    {
+      "path": "src/Story.ts",
+      "sha256": "56781cfb35872d2473eea171e779c28076ee5ce702729a0a7a184dcd3847a908",
+      "bytes": 12183
+    },
+    {
+      "path": "src/Worlds.ts",
+      "sha256": "840b711afaad031c5372b8d6dc2ddca8a0f55b2d73164ebb4f0813eb954fcfcc",
+      "bytes": 26429
+    },
+    {
+      "path": "src/captions.json",
+      "sha256": "5f2be89b408a87e79e67e692dbe96d3cf18d73224e2d8e0dc60405f0f97f17a5",
+      "bytes": 23964
+    },
+    {
+      "path": "src/index.ts",
+      "sha256": "2e0e358282a1b998a65387c653b97c2bb2eb7aae94cf200fc0b8d919f7be73a6",
+      "bytes": 88
+    },
+    {
+      "path": "src/vendor/LICENSE-claude-animated-shorts.txt",
+      "sha256": "7a9f540bcc5d44c6d56cb6fa7359e7674a76307e967e1ebfc223141def5bd9fd",
+      "bytes": 1064
+    },
+    {
+      "path": "src/vendor/cardshade.ts",
+      "sha256": "2d84df886c71caf3aec7cfc5ff717708454e37c85ff5346b4b9d688621ac7844",
+      "bytes": 6381
+    },
+    {
+      "path": "src/vendor/grade.ts",
+      "sha256": "86ba2bcf0a0ba2bf5cec18c040cd932bcb973715c3a83314e44ddebf577b8138",
+      "bytes": 10020
+    },
+    {
+      "path": "src/vendor/ink.ts",
+      "sha256": "08c281a4473a202d2512a7c9b276aa2be3351442a4cbaa0c0f7440e76f5d2678",
+      "bytes": 20876
+    },
+    {
+      "path": "src/vendor/lensblur.ts",
+      "sha256": "34b545d1b89802423ffe0fa29def76e414bee9f7e08dfdd3b67c128b8a194ca9",
+      "bytes": 7963
+    },
+    {
+      "path": "src/vendor/lights.ts",
+      "sha256": "6cac5ded364cbfe536e45679d982bbd0399778b71ca52585964be7eefcc830ea",
+      "bytes": 4248
+    },
+    {
+      "path": "src/vendor/paint.ts",
+      "sha256": "594a360829d9de79565ef12fe226f475cbfa0525cf3c987b5ae9a065bd30c256",
+      "bytes": 43719
+    },
+    {
+      "path": "src/vendor/shade.ts",
+      "sha256": "fbddf3dc5075f471631a0ff926dca3d6c249f24bfdb023ec2d44fcbd9082f4e5",
+      "bytes": 5386
+    },
+    {
+      "path": "src/vendor/story.ts",
+      "sha256": "4a87c2e6929478f13923f7f6bcbee87f2a126ace1863441b2619748627ba1862",
+      "bytes": 23870
+    },
+    {
+      "path": "src/vendor/toon.ts",
+      "sha256": "4c8dc6d031665e90e8b7b863369939dcc9864e6d9d9af05105a7de2c4452f01f",
+      "bytes": 56874
+    },
+    {
+      "path": "scripts/render.mjs",
+      "sha256": "4f17bb8e64f306211addf4d02f400bc5952452716e2b5d2363527ae21a70ebd2",
+      "bytes": 4739
+    },
+    {
+      "path": "scripts/render_preview.mjs",
+      "sha256": "9ea73af9a2162129cf2e68741cdf5e8fa90c1dd6dd4efd8ccbfe5bd6629b6d95",
+      "bytes": 5076
+    },
+    {
+      "path": "scripts/setup-local.mjs",
+      "sha256": "8f031b3508a33869d0699272c6308473264ae85d6d4c2ef2607210cbed64f826",
+      "bytes": 936
+    },
+    {
+      "path": "docs/EDITORIAL_PACING.md",
+      "sha256": "95c6db4c2d2f998b9ce51d2367dd36a9ead50652335155b3675dac0e4540f276",
+      "bytes": 9359
+    },
+    {
+      "path": "docs/WORLD_BUILD.md",
+      "sha256": "77023413fdf756aa04a33e6a80a5f33d7a7b3501d91706a891e93d1497501e7d",
+      "bytes": 3607
+    },
+    {
+      "path": "docs/captions.srt",
+      "sha256": "24866c16d4d782dee2ea93e7ee0999118a3c49825bc1c6da6392f7e872a350b9",
+      "bytes": 2877
+    },
+    {
+      "path": "docs/captions.vtt",
+      "sha256": "d3505e384ac73b712849222bc9bc876e9a8f2d29ab5e6d29aff64d014b4d76d5",
+      "bytes": 2738
+    },
+    {
+      "path": "docs/character_integration.md",
+      "sha256": "df65ff3d49b1765b54a087873227f11b31c083e76f0e32dc6dfde6b516ce18fb",
+      "bytes": 5232
+    },
+    {
+      "path": "docs/editorial_cues.json",
+      "sha256": "0f21a7def3427d3e24a0b83ce2930f47a2aee375d2b12eec350d7bbbe172d276",
+      "bytes": 39244
+    },
+    {
+      "path": "docs/narration_script.txt",
+      "sha256": "d2f1bea14914d735ef0ff7ac35719430e753a0d1ccf8d899cbc2b9af26c682cd",
+      "bytes": 1119
+    },
+    {
+      "path": "docs/story_beats.json",
+      "sha256": "99847530151816d1b88bb3184200afc41c8455239f1b6ffb7275308feb9c69ff",
+      "bytes": 6372
+    },
+    {
+      "path": "public/narration.mp3",
+      "sha256": "6dba50471b054859264fe5dd2b4e3e892dbdda7a11e175c9fb7bb5a7dc90ac5d",
+      "bytes": 1218151
+    },
+    {
+      "path": "third_party/claude-animated-shorts-LICENSE",
+      "sha256": "7a9f540bcc5d44c6d56cb6fa7359e7674a76307e967e1ebfc223141def5bd9fd",
+      "bytes": 1064
+    }
+  ]
+}

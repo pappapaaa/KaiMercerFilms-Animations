@@ -1,0 +1,291 @@
+{
+  "version": 2,
+  "style": "Grave Bell reference-led illustrated cast in dimensional painted worlds",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "totalFrames": 2253,
+  "audioSeconds": 75.075875,
+  "shots": [
+    {
+      "id": 0,
+      "startSeconds": 0.0,
+      "endSeconds": 3.43,
+      "startFrame": 0,
+      "endFrameExclusive": 103,
+      "frames": 103,
+      "label": "FRIDAY",
+      "set": "bedroom"
+    },
+    {
+      "id": 1,
+      "startSeconds": 3.43,
+      "endSeconds": 6.28,
+      "startFrame": 103,
+      "endFrameExclusive": 189,
+      "frames": 86,
+      "label": "THE PERFORMANCE",
+      "set": "bedroom"
+    },
+    {
+      "id": 2,
+      "startSeconds": 6.28,
+      "endSeconds": 9.06,
+      "startFrame": 189,
+      "endFrameExclusive": 272,
+      "frames": 83,
+      "label": "BARELY OUT OF BED",
+      "set": "bedroom"
+    },
+    {
+      "id": 3,
+      "startSeconds": 9.06,
+      "endSeconds": 12.51,
+      "startFrame": 272,
+      "endFrameExclusive": 376,
+      "frames": 104,
+      "label": "\u201cGET SOME REST.\u201d",
+      "set": "bossOffice"
+    },
+    {
+      "id": 4,
+      "startSeconds": 12.51,
+      "endSeconds": 15.19,
+      "startFrame": 376,
+      "endFrameExclusive": 456,
+      "frames": 80,
+      "label": "GENIUS.",
+      "set": "bedroom"
+    },
+    {
+      "id": 5,
+      "startSeconds": 15.19,
+      "endSeconds": 19.73,
+      "startFrame": 456,
+      "endFrameExclusive": 592,
+      "frames": 136,
+      "label": "ONE HOUR LATER",
+      "set": "stadium"
+    },
+    {
+      "id": 6,
+      "startSeconds": 19.73,
+      "endSeconds": 24.38,
+      "startFrame": 592,
+      "endFrameExclusive": 732,
+      "frames": 140,
+      "label": "FIFTH INNING",
+      "set": "stadium"
+    },
+    {
+      "id": 7,
+      "startSeconds": 24.38,
+      "endSeconds": 26.03,
+      "startFrame": 732,
+      "endFrameExclusive": 781,
+      "frames": 49,
+      "label": "FAN CAM \u00b7 LIVE",
+      "set": "stadium"
+    },
+    {
+      "id": 8,
+      "startSeconds": 26.03,
+      "endSeconds": 27.81,
+      "startFrame": 781,
+      "endFrameExclusive": 835,
+      "frames": 54,
+      "label": "FAN CAM \u00b7 LIVE",
+      "set": "stadium"
+    },
+    {
+      "id": 9,
+      "startSeconds": 27.81,
+      "endSeconds": 32.88,
+      "startFrame": 835,
+      "endFrameExclusive": 987,
+      "frames": 152,
+      "label": "FAN CAM \u00b7 LIVE",
+      "set": "stadium"
+    },
+    {
+      "id": 10,
+      "startSeconds": 32.88,
+      "endSeconds": 34.26,
+      "startFrame": 987,
+      "endFrameExclusive": 1028,
+      "frames": 41,
+      "label": "THE CROWD GOES WILD",
+      "set": "stadium"
+    },
+    {
+      "id": 11,
+      "startSeconds": 34.26,
+      "endSeconds": 36.15,
+      "startFrame": 1028,
+      "endFrameExclusive": 1085,
+      "frames": 57,
+      "label": "LOCAL CELEBRITY",
+      "set": "stadium"
+    },
+    {
+      "id": 12,
+      "startSeconds": 36.15,
+      "endSeconds": 40.84,
+      "startFrame": 1085,
+      "endFrameExclusive": 1226,
+      "frames": 141,
+      "label": "RIGHT. BEHIND. ME.",
+      "set": "stadium"
+    },
+    {
+      "id": 13,
+      "startSeconds": 40.84,
+      "endSeconds": 42.1,
+      "startFrame": 1226,
+      "endFrameExclusive": 1263,
+      "frames": 37,
+      "label": "HAWAIIAN SHIRT.",
+      "set": "stadium"
+    },
+    {
+      "id": 14,
+      "startSeconds": 42.1,
+      "endSeconds": 43.64,
+      "startFrame": 1263,
+      "endFrameExclusive": 1310,
+      "frames": 47,
+      "label": "GIANT BEER.",
+      "set": "stadium"
+    },
+    {
+      "id": 15,
+      "startSeconds": 43.64,
+      "endSeconds": 44.91,
+      "startFrame": 1310,
+      "endFrameExclusive": 1348,
+      "frames": 38,
+      "label": "MY BOSS.",
+      "set": "stadium"
+    },
+    {
+      "id": 16,
+      "startSeconds": 44.91,
+      "endSeconds": 46.27,
+      "startFrame": 1348,
+      "endFrameExclusive": 1389,
+      "frames": 41,
+      "label": "OH.",
+      "set": "stadium"
+    },
+    {
+      "id": 17,
+      "startSeconds": 46.27,
+      "endSeconds": 48.71,
+      "startFrame": 1389,
+      "endFrameExclusive": 1462,
+      "frames": 73,
+      "label": "NOT A CELEBRITY",
+      "set": "stadium"
+    },
+    {
+      "id": 18,
+      "startSeconds": 48.71,
+      "endSeconds": 52.21,
+      "startFrame": 1462,
+      "endFrameExclusive": 1567,
+      "frames": 105,
+      "label": "AWKWARD.",
+      "set": "stadium"
+    },
+    {
+      "id": 19,
+      "startSeconds": 52.21,
+      "endSeconds": 54.65,
+      "startFrame": 1567,
+      "endFrameExclusive": 1640,
+      "frames": 73,
+      "label": "INVISIBLE. PROBABLY.",
+      "set": "stadium"
+    },
+    {
+      "id": 20,
+      "startSeconds": 54.65,
+      "endSeconds": 58.41,
+      "startFrame": 1640,
+      "endFrameExclusive": 1753,
+      "frames": 113,
+      "label": "MONDAY MORNING",
+      "set": "office"
+    },
+    {
+      "id": 21,
+      "startSeconds": 58.41,
+      "endSeconds": 60.4,
+      "startFrame": 1753,
+      "endFrameExclusive": 1812,
+      "frames": 59,
+      "label": "A NOTE.",
+      "set": "office"
+    },
+    {
+      "id": 22,
+      "startSeconds": 60.4,
+      "endSeconds": 64.05,
+      "startFrame": 1812,
+      "endFrameExclusive": 1922,
+      "frames": 110,
+      "label": "FEEL BETTER SOON.",
+      "set": "office"
+    },
+    {
+      "id": 23,
+      "startSeconds": 64.05,
+      "endSeconds": 66.57,
+      "startFrame": 1922,
+      "endFrameExclusive": 1998,
+      "frames": 76,
+      "label": "9:00 AM \u00b7 TEAM MEETING",
+      "set": "meeting"
+    },
+    {
+      "id": 24,
+      "startSeconds": 66.57,
+      "endSeconds": 67.7,
+      "startFrame": 1998,
+      "endFrameExclusive": 2031,
+      "frames": 33,
+      "label": "GREAT NEWS, TEAM.",
+      "set": "meeting"
+    },
+    {
+      "id": 25,
+      "startSeconds": 67.7,
+      "endSeconds": 71.43,
+      "startFrame": 2031,
+      "endFrameExclusive": 2143,
+      "frames": 112,
+      "label": "+1 PERSONAL DAY",
+      "set": "meeting"
+    },
+    {
+      "id": 26,
+      "startSeconds": 71.43,
+      "endSeconds": 72.76,
+      "startFrame": 2143,
+      "endFrameExclusive": 2183,
+      "frames": 40,
+      "label": "THE GLANCE",
+      "set": "meeting"
+    },
+    {
+      "id": 27,
+      "startSeconds": 72.76,
+      "endSeconds": 75.1,
+      "startFrame": 2183,
+      "endFrameExclusive": 2253,
+      "frames": 70,
+      "label": "STAY AWAY FROM THE FAN CAM.",
+      "set": "meeting"
+    }
+  ]
+}

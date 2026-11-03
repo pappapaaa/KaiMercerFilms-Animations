@@ -1,0 +1,18 @@
+{
+  "audio_unchanged": true,
+  "audio_sha256": "6dba50471b054859264fe5dd2b4e3e892dbdda7a11e175c9fb7bb5a7dc90ac5d",
+  "caption_cues": 52,
+  "caption_words": 217,
+  "caption_script_exact_words": true,
+  "caption_timing_finite_and_monotonic": true,
+  "source_script_words": 217,
+  "first_word_start": 0.08,
+  "last_word_end": 74.92,
+  "last_caption_end": 75.1,
+  "preview_source_range_seconds": [
+    38.733333333333334,
+    48.733333333333334
+  ],
+  "preview_frames": 300,
+  "full_film_started": false
+}

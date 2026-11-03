@@ -1,0 +1,7 @@
+node_modules/
+.render-tmp/
+out/frames/
+repo/
+*.log
+out/audio/pydeps/
+out/audio/models/

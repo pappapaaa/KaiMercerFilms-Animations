@@ -1,4 +1,10 @@
-# Reference Shorts Style Kit
+# KaiMercerFilms Animations
+
+The active animation style kit and permanent Character C live in this repository. The earlier Eiffel/Max projects, scene library and supporting source are browsable under [workspace-projects](workspace-projects/).
+
+**Complete workspace:** [download every ZIP part from the workspace release](https://github.com/pappapaaa/KaiMercerFilms-Animations/releases/tag/workspace-2026-11-02). The release preserves the entire workspace, including ignored files, installed dependencies, all reference videos/frames, audio, finished videos, caches and Git metadata. Extract all parts into the same new destination. See [WORKSPACE_UPLOAD.md](WORKSPACE_UPLOAD.md).
+
+## Reference Shorts Style Kit
 
 A separate working repository built from the four supplied TheOdd1sOut shorts. It follows the useful architecture of [claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts): a reusable skill, evidence-backed style bible, specialist reports, editable animation modules, audio tools and production scripts. Its style measurements come from these four videos, not from the upstream bridge film.
 
@@ -153,4 +159,5 @@ outputs/                         Rendered proof, QA reports and previews
 
 `python templates/scripts/package_kit.py` writes a compact **code package** and a **local study package** under `outputs/`. Both contain the usable code/docs and original proof preview; the study package additionally contains reference sheets, selected native images and analysis data. Raw videos, all-frame JPEGs, dependencies and caches stay in the complete local repository. The study material is not included in the code license; see [NOTICE.md](NOTICE.md).
 
-The folder has its own Git repository and `codex/reference-style` branch. No GitHub repository or remote publication is created by this task.
+The active repository is https://github.com/pappapaaa/KaiMercerFilms-Animations on branch `main`. The complete workspace is also available in its workspace release.
+

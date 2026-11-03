@@ -1,0 +1,21 @@
+TITLE
+I Almost Gave My Dog Away… Then I Heard It
+
+THUMBNAIL COPY
+3 AM. AGAIN.
+
+CONCEPT
+Max urgently barking at the apartment wall while his exhausted owner reacts. The thumbnail hints at a sound behind the wall without revealing Mr. Harlan or the rescue.
+
+GENERATION METHOD
+Built-in image_gen. Film stills f0064 and f1761 are character/style references, not reused thumbnail frames. New compositions are generated in landscape and portrait formats.
+
+DELIVERABLES
+Max-thumbnail-landscape.png
+Max-thumbnail-vertical.png
+
+VISUAL REVIEW
+Both generated images preserve Max's tan/brown coloring, teal collar and gold tag, and the owner's brown hair and striped teal pajamas. The exact headline is legible, faces and paw contact are clear, and the rescue remains unseen. The delivered images are generated illustrations, not still frames from the finished film.
+
+PROMPT
+Create a polished illustrated video thumbnail for an animated story about Max, a dog who barks at the same apartment wall every night at 3 AM. Use reference image 1 to preserve Max's exact cartoon identity: golden-tan long-bodied dog, dark brown floppy ears, cream muzzle and toes, teal collar and round gold tag, thick dark outlines. Use reference image 2 to preserve the owner's round pale face, brown fringe, teal striped pajamas and simple expressive cartoon design. Compose an original close scene: the owner reacts in surprise, looking toward Max; Max is the main focal subject, barking with one front paw pressed to the shared wall. Show a few subtle paint scuffs and small graphic vibration marks near his paw. A dark blue nighttime apartment establishes the setting, with warm light defining Max's silhouette. Use bold clean shapes, softly lit 3D room depth, minimal background detail and strong mobile-scale readability. Match the film's cartoon identity and avoid realistic fur or human anatomy. Keep the rescue and the neighbor unseen. Include exactly the headline '3 AM. AGAIN.' in huge condensed bold letters with a dark outline; 3 AM. white and AGAIN. warm yellow. No other words, logos, watermark, monsters, holes in the wall, blood, arrows or extra people. Keep the headline and all faces comfortably inside the canvas. Landscape version: 16:9, owner at left, large Max in the center, wall at right, headline upper left. Portrait version: 9:16, headline at top, owner face upper middle-left, large Max and the wall in the middle and lower frame; preserve safe margins.
