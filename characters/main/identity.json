@@ -1,0 +1,24 @@
+{
+  "id": "main-character-c",
+  "name": null,
+  "selected_by_user": true,
+  "selected_option": "C",
+  "concept": "characters/main/concept.png",
+  "model_sheet": "characters/main/model-sheet-v2.png",
+  "bible": "characters/main/CHARACTER_BIBLE.md",
+  "rig": "templates/characters/MainCharacter.ts",
+  "factory": "makeMainCharacter",
+  "drawing_module": "templates/characters/mainCharacterDrawing.ts",
+  "default_body_depth": 0.12,
+  "chest_mark": {"text": "kai", "color": "#d92e35", "placement": "character-left chest, viewer-right in front view", "case": "lowercase"},
+  "identity_features": [
+    "Wide softly rounded-square warm-peach face",
+    "Asymmetric chunky spiky espresso hair",
+    "Large round dark glasses with clear lenses",
+    "Half-lidded deadpan neutral expression",
+    "Compact rounded body proportions"
+  ],
+  "default_clothing": ["Mustard crewneck sweatshirt with cream collar", "Plum trousers", "Cream sneakers with dark soles"],
+  "costumes_may_change": true,
+  "identity_must_remain_consistent": true
+}

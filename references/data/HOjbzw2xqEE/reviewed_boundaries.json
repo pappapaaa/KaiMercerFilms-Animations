@@ -1,0 +1,213 @@
+{
+  "video_id": "HOjbzw2xqEE",
+  "reviewer": "reference_motion visual review",
+  "reviewed_utc": "2026-11-03",
+  "scope": "Every labeled contact cell in the dense sheets below was visually inspected. This is reduced-resolution pose/edit review, not per-pixel inspection of every native source frame.",
+  "source_frames_reviewed": {
+    "first": 0,
+    "last_inclusive": 869,
+    "count": 870
+  },
+  "dense_sheets_reviewed": [
+    {
+      "path": "references/sheets/HOjbzw2xqEE/dense_0000.jpg",
+      "first_frame": 0,
+      "last_frame_inclusive": 59
+    },
+    {
+      "path": "references/sheets/HOjbzw2xqEE/dense_0001.jpg",
+      "first_frame": 60,
+      "last_frame_inclusive": 119
+    },
+    {
+      "path": "references/sheets/HOjbzw2xqEE/dense_0002.jpg",
+      "first_frame": 120,
+      "last_frame_inclusive": 179
+    },
+    {
+      "path": "references/sheets/HOjbzw2xqEE/dense_0003.jpg",
+      "first_frame": 180,
+      "last_frame_inclusive": 239
+    },
+    {
+      "path": "references/sheets/HOjbzw2xqEE/dense_0004.jpg",
+      "first_frame": 240,
+      "last_frame_inclusive": 299
+    },
+    {
+      "path": "references/sheets/HOjbzw2xqEE/dense_0005.jpg",
+      "first_frame": 300,
+      "last_frame_inclusive": 359
+    },
+    {
+      "path": "references/sheets/HOjbzw2xqEE/dense_0006.jpg",
+      "first_frame": 360,
+      "last_frame_inclusive": 419
+    },
+    {
+      "path": "references/sheets/HOjbzw2xqEE/dense_0007.jpg",
+      "first_frame": 420,
+      "last_frame_inclusive": 479
+    },
+    {
+      "path": "references/sheets/HOjbzw2xqEE/dense_0008.jpg",
+      "first_frame": 480,
+      "last_frame_inclusive": 539
+    },
+    {
+      "path": "references/sheets/HOjbzw2xqEE/dense_0009.jpg",
+      "first_frame": 540,
+      "last_frame_inclusive": 599
+    },
+    {
+      "path": "references/sheets/HOjbzw2xqEE/dense_0010.jpg",
+      "first_frame": 600,
+      "last_frame_inclusive": 659
+    },
+    {
+      "path": "references/sheets/HOjbzw2xqEE/dense_0011.jpg",
+      "first_frame": 660,
+      "last_frame_inclusive": 719
+    },
+    {
+      "path": "references/sheets/HOjbzw2xqEE/dense_0012.jpg",
+      "first_frame": 720,
+      "last_frame_inclusive": 779
+    },
+    {
+      "path": "references/sheets/HOjbzw2xqEE/dense_0013.jpg",
+      "first_frame": 780,
+      "last_frame_inclusive": 839
+    },
+    {
+      "path": "references/sheets/HOjbzw2xqEE/dense_0014.jpg",
+      "first_frame": 840,
+      "last_frame_inclusive": 869
+    }
+  ],
+  "sampled_overview_reviewed": [
+    "references/sheets/HOjbzw2xqEE/overview_00.jpg"
+  ],
+  "native_pngs_inspected_for_this_report": [
+    "references/frames/HOjbzw2xqEE/native/f000668.png"
+  ],
+  "frame_convention": "Zero-based source-frame index. Times are read from frames.csv; approximate mental conversion is frame / 24.",
+  "candidate_classifications": [
+    {
+      "frame": 66,
+      "classification": "rapid_reframe",
+      "confidence": "visual_high",
+      "note": "Intermediate scaled view begins pull-out revealing second character; not a hard cut.",
+      "source_pts_seconds": 2.75
+    },
+    {
+      "frame": 67,
+      "classification": "rapid_reframe",
+      "confidence": "visual_high",
+      "note": "Further intermediate scaling during same pull-out.",
+      "source_pts_seconds": 2.792
+    },
+    {
+      "frame": 193,
+      "classification": "hard_cut_punch_in",
+      "confidence": "visual_high",
+      "note": "Single-frame switch from two-shot to close view of document-headed character and laptop.",
+      "source_pts_seconds": 8.042
+    },
+    {
+      "frame": 238,
+      "classification": "rapid_reframe",
+      "confidence": "visual_high",
+      "note": "Pull-out from document-headed close view; preceding236–237 show blur and239–240 intermediate framing.",
+      "source_pts_seconds": 9.917
+    },
+    {
+      "frame": 239,
+      "classification": "rapid_reframe",
+      "confidence": "visual_high",
+      "note": "Intermediate frame of same pull-out.",
+      "source_pts_seconds": 9.959
+    },
+    {
+      "frame": 240,
+      "classification": "rapid_reframe",
+      "confidence": "visual_high",
+      "note": "Return to wider dialogue composition during same pull-out.",
+      "source_pts_seconds": 10.0
+    },
+    {
+      "frame": 537,
+      "classification": "hard_cut",
+      "confidence": "visual_high",
+      "note": "Office table to lavender cloud world with giant foreground figure and tiny protagonist.",
+      "source_pts_seconds": 22.375
+    },
+    {
+      "frame": 609,
+      "classification": "hard_cut",
+      "confidence": "visual_high",
+      "note": "Low-angle giant-logo character.",
+      "source_pts_seconds": 25.375
+    },
+    {
+      "frame": 668,
+      "classification": "hard_cut",
+      "confidence": "visual_high",
+      "note": "High-angle protagonist, hands near mouth, oval contact shadow.",
+      "source_pts_seconds": 27.833
+    },
+    {
+      "frame": 742,
+      "classification": "hard_cut",
+      "confidence": "visual_high",
+      "note": "Return to low-angle giant-logo character.",
+      "source_pts_seconds": 30.917
+    },
+    {
+      "frame": 824,
+      "classification": "hard_cut",
+      "confidence": "visual_high",
+      "note": "Very wide view showing giant and two small characters.",
+      "source_pts_seconds": 34.334
+    }
+  ],
+  "additional_reviewed_events": [
+    {
+      "start_frame": 66,
+      "end_frame_inclusive": 73,
+      "classification": "rapid_pull_out",
+      "boundary_precision": "approximate settling window from dense sheets",
+      "note": "Several visible intermediate scales reveal the right-side character."
+    },
+    {
+      "start_frame": 236,
+      "end_frame_inclusive": 242,
+      "classification": "rapid_pull_out",
+      "boundary_precision": "approximate settling window from dense sheets",
+      "note": "Blur precedes scaled intermediate views back to two-shot."
+    },
+    {
+      "start_frame": 304,
+      "end_frame_inclusive": 353,
+      "classification": "intentional_dialogue_hold",
+      "note": "50-frame near-static hold, approximately 2.083s exposure. Background and principal gesture are held."
+    },
+    {
+      "start_frame": 704,
+      "end_frame_inclusive": 709,
+      "classification": "anticipation_and_gesture",
+      "note": "Two-frame compressed/closed-eye anticipation at704–705, followed by open gesture and sequential text appearance."
+    },
+    {
+      "start_frame": 768,
+      "end_frame_inclusive": 823,
+      "classification": "text_reveal_beat",
+      "note": "Suggestion label arrives at768; corrected word appears around798. Text is part of the gag, not generic continuous subtitles."
+    }
+  ],
+  "limitations": [
+    "Sharpness, line width, or small mouth details require native inspection; dense cells are 126 pixels wide.",
+    "Camera/composite move describes apparent image motion; exact authoring software, lens, and physical scene cannot be recovered from these frames.",
+    "Review classifications do not alter raw cut_candidates.json, whose heuristic confidence describes image discontinuity only."
+  ]
+}

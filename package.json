@@ -1,0 +1,35 @@
+{
+  "name": "reference-shorts-style-kit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Measured cel-animation reference study and reusable original 2.5D short-production kit",
+  "scripts": {
+    "studio": "remotion studio examples/index.tsx",
+    "typecheck": "tsc --noEmit",
+    "stills": "node templates/scripts/render.mjs stills",
+    "render": "node templates/scripts/render.mjs video",
+    "render:preview": "node templates/scripts/render.mjs preview",
+    "character:stills": "node templates/scripts/render-character.mjs stills",
+    "character:render": "node templates/scripts/render-character.mjs video",
+    "character:preview": "node templates/scripts/render-character.mjs preview"
+  },
+  "dependencies": {
+    "three": "0.187.0",
+    "remotion": "4.0.539",
+    "@remotion/bundler": "4.0.539",
+    "@remotion/renderer": "4.0.539",
+    "@remotion/cli": "4.0.539",
+    "@remotion/three": "4.0.539",
+    "@react-three/fiber": "9.5.0",
+    "@react-three/postprocessing": "3.0.4",
+    "postprocessing": "6.39.6",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  },
+  "devDependencies": {
+    "typescript": "5.9.3",
+    "@types/react": "19.2.2",
+    "@types/react-dom": "19.2.2",
+    "@types/three": "0.183.1"
+  }
+}

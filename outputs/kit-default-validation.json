@@ -1,0 +1,400 @@
+{
+  "tool": "validate_kit.py",
+  "version": "1.0.0",
+  "root": "C:\\Users\\patel\\OneDrive\\Documents\\ChatGPT\\new animate\\reference-shorts-style-kit",
+  "mode": "standard",
+  "created_utc": "2026-11-03T00:54:22.816106+00:00",
+  "checks": [
+    {
+      "name": "required_source_structure",
+      "passed": true,
+      "details": {
+        "required_files": 48,
+        "missing_or_empty": []
+      }
+    },
+    {
+      "name": "package_commands",
+      "passed": true,
+      "details": [
+        "studio",
+        "typecheck",
+        "stills",
+        "render",
+        "render:preview"
+      ]
+    },
+    {
+      "name": "remotion_versions_match",
+      "passed": true,
+      "details": {
+        "remotion": "4.0.539",
+        "@remotion/bundler": "4.0.539",
+        "@remotion/renderer": "4.0.539",
+        "@remotion/cli": "4.0.539",
+        "@remotion/three": "4.0.539"
+      }
+    },
+    {
+      "name": "lockfile_matches_dependencies",
+      "passed": true,
+      "details": {
+        "manifest_dependencies": 11
+      }
+    },
+    {
+      "name": "local_source_imports_resolve",
+      "passed": true,
+      "details": {
+        "source_files": 17,
+        "unresolved": []
+      }
+    },
+    {
+      "name": "selected_character_assets_resolve",
+      "passed": true,
+      "details": {
+        "selected_option": "C",
+        "missing_assets": []
+      }
+    },
+    {
+      "name": "story_constants_valid",
+      "passed": true,
+      "details": {
+        "FPS": 24,
+        "WIDTH": 1440.0,
+        "HEIGHT": 2560.0,
+        "DURATION": 288
+      }
+    },
+    {
+      "name": "shots_cover_timeline_once",
+      "passed": true,
+      "details": {
+        "shots": [
+          {
+            "id": "arrival",
+            "a": 0.0,
+            "b": 96.0,
+            "preset": "studio",
+            "description": "Original courier enters an illustrated parcel room; settles into a held pose."
+          },
+          {
+            "id": "reaction",
+            "a": 96.0,
+            "b": 180.0,
+            "preset": "studio",
+            "description": "Locked close-up; expression swaps, point, then shrug."
+          },
+          {
+            "id": "night-depth",
+            "a": 180.0,
+            "b": 288.0,
+            "preset": "night",
+            "description": "Same original design in a blue night palette; shallow body volume and foreground depth."
+          }
+        ],
+        "problems": []
+      }
+    },
+    {
+      "name": "picture_audio_timeline_matches",
+      "passed": true,
+      "details": {
+        "picture": {
+          "fps": 24,
+          "frames": 288
+        },
+        "audio": {
+          "fps": 24,
+          "frames": 288,
+          "sampleRate": 48000
+        }
+      }
+    },
+    {
+      "name": "audio_cues_inside_timeline",
+      "passed": true,
+      "details": {
+        "count": 3,
+        "invalid": []
+      }
+    },
+    {
+      "name": "story_audio_cues_match",
+      "passed": true,
+      "details": {
+        "story_cues": [
+          {
+            "frame": 48,
+            "type": "tap",
+            "gain": 0.15
+          },
+          {
+            "frame": 132,
+            "type": "pop",
+            "gain": 0.12
+          },
+          {
+            "frame": 207,
+            "type": "tap",
+            "gain": 0.1
+          }
+        ],
+        "audio_cues": [
+          {
+            "frame": 48,
+            "type": "tap",
+            "gain": 0.15
+          },
+          {
+            "frame": 132,
+            "type": "pop",
+            "gain": 0.12
+          },
+          {
+            "frame": 207,
+            "type": "tap",
+            "gain": 0.1
+          }
+        ]
+      }
+    },
+    {
+      "name": "registered_proof_matches_timeline",
+      "passed": true,
+      "details": {
+        "compositions": [
+          {
+            "id": "StyleProof",
+            "width": 1440.0,
+            "height": 2560.0,
+            "fps": 24,
+            "durationInFrames": 288,
+            "component": "StyleProof"
+          },
+          {
+            "id": "GraphicProfile",
+            "width": 1440.0,
+            "height": 2560.0,
+            "fps": 24,
+            "durationInFrames": 288,
+            "component": "StyleProof"
+          }
+        ],
+        "renderer_default": "StyleProof",
+        "problems": []
+      }
+    },
+    {
+      "name": "public_asset:demo-mix.wav",
+      "passed": true,
+      "details": {
+        "bytes": 2304044
+      }
+    },
+    {
+      "name": "public_audio_duration:demo-mix.wav",
+      "passed": true,
+      "details": {
+        "samples": 576000,
+        "expected_samples": 576000,
+        "sample_rate": 48000,
+        "channels": 2
+      }
+    },
+    {
+      "name": "study_manifest_has_four_sources",
+      "passed": true,
+      "details": [
+        "2GGA4NlMjKc",
+        "HOjbzw2xqEE",
+        "tN0ra1h3uKo",
+        "XdcSli5STR4"
+      ]
+    },
+    {
+      "name": "study_summary:2GGA4NlMjKc",
+      "passed": true,
+      "details": {
+        "complete": true,
+        "decoded_frames": 1282,
+        "ffprobe_frame_count": 1282,
+        "all_frame_jpegs": 1282,
+        "dense_sheet_cells": 1282,
+        "dense_sheet_count": 22,
+        "native_pts_preserved": true
+      }
+    },
+    {
+      "name": "dense_sheets:2GGA4NlMjKc",
+      "passed": true,
+      "details": {
+        "actual_count": 22,
+        "expected_count": 22,
+        "missing": [],
+        "extra": [],
+        "empty": []
+      }
+    },
+    {
+      "name": "manifest_summary_consistency:2GGA4NlMjKc",
+      "passed": true,
+      "details": {
+        "sha256": "b010f8c30da6072fecf44a7c1766c69f0baca7c9b7739e3f516c8544de7c9084"
+      }
+    },
+    {
+      "name": "native_samples_present:2GGA4NlMjKc",
+      "passed": true,
+      "details": {
+        "listed": 56
+      }
+    },
+    {
+      "name": "study_summary:tN0ra1h3uKo",
+      "passed": true,
+      "details": {
+        "complete": true,
+        "decoded_frames": 978,
+        "ffprobe_frame_count": 978,
+        "all_frame_jpegs": 978,
+        "dense_sheet_cells": 978,
+        "dense_sheet_count": 17,
+        "native_pts_preserved": true
+      }
+    },
+    {
+      "name": "dense_sheets:tN0ra1h3uKo",
+      "passed": true,
+      "details": {
+        "actual_count": 17,
+        "expected_count": 17,
+        "missing": [],
+        "extra": [],
+        "empty": []
+      }
+    },
+    {
+      "name": "manifest_summary_consistency:tN0ra1h3uKo",
+      "passed": true,
+      "details": {
+        "sha256": "ea8d222915ba8aabfdbb395086e903b1bf33edf3d33f3e59c31b3f01bcc88da1"
+      }
+    },
+    {
+      "name": "native_samples_present:tN0ra1h3uKo",
+      "passed": true,
+      "details": {
+        "listed": 31
+      }
+    },
+    {
+      "name": "study_summary:HOjbzw2xqEE",
+      "passed": true,
+      "details": {
+        "complete": true,
+        "decoded_frames": 870,
+        "ffprobe_frame_count": 870,
+        "all_frame_jpegs": 870,
+        "dense_sheet_cells": 870,
+        "dense_sheet_count": 15,
+        "native_pts_preserved": true
+      }
+    },
+    {
+      "name": "dense_sheets:HOjbzw2xqEE",
+      "passed": true,
+      "details": {
+        "actual_count": 15,
+        "expected_count": 15,
+        "missing": [],
+        "extra": [],
+        "empty": []
+      }
+    },
+    {
+      "name": "manifest_summary_consistency:HOjbzw2xqEE",
+      "passed": true,
+      "details": {
+        "sha256": "04fdec768afc0b352474ee8f396870d201830aa32a2ed82f6bb3f830e0bb739b"
+      }
+    },
+    {
+      "name": "native_samples_present:HOjbzw2xqEE",
+      "passed": true,
+      "details": {
+        "listed": 22
+      }
+    },
+    {
+      "name": "study_summary:XdcSli5STR4",
+      "passed": true,
+      "details": {
+        "complete": true,
+        "decoded_frames": 779,
+        "ffprobe_frame_count": 779,
+        "all_frame_jpegs": 779,
+        "dense_sheet_cells": 779,
+        "dense_sheet_count": 13,
+        "native_pts_preserved": true
+      }
+    },
+    {
+      "name": "dense_sheets:XdcSli5STR4",
+      "passed": true,
+      "details": {
+        "actual_count": 13,
+        "expected_count": 13,
+        "missing": [],
+        "extra": [],
+        "empty": []
+      }
+    },
+    {
+      "name": "manifest_summary_consistency:XdcSli5STR4",
+      "passed": true,
+      "details": {
+        "sha256": "e523d347c0e38601d095ee19f08f77e4c5d135ebc878d01bf8b41a85f96d38bc"
+      }
+    },
+    {
+      "name": "native_samples_present:XdcSli5STR4",
+      "passed": true,
+      "details": {
+        "listed": 29
+      }
+    },
+    {
+      "name": "study_total_coverage",
+      "passed": true,
+      "details": {
+        "frames": 3909,
+        "dense_sheets": 67,
+        "expected_frames": 3909,
+        "expected_sheets": 67
+      }
+    }
+  ],
+  "warnings": [
+    "This validator does not run TypeScript type checking or judge artistic fidelity. Run npm run typecheck and qa_video.py on the encoded proof."
+  ],
+  "registered_proof": {
+    "fps": 24,
+    "frames": 288,
+    "width": 1440.0,
+    "height": 2560.0,
+    "duration_seconds": 12.0,
+    "public_assets": [
+      "demo-mix.wav"
+    ]
+  },
+  "study_coverage": {
+    "frames": 3909,
+    "dense_sheets": 67
+  },
+  "passed": true,
+  "checks_passed": 32,
+  "checks_total": 32
+}

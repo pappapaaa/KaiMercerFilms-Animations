@@ -1,0 +1,188 @@
+{
+  "tool": "qa_video.py",
+  "version": "1.0.0",
+  "input": "C:\\Users\\patel\\OneDrive\\Documents\\ChatGPT\\new animate\\reference-shorts-style-kit\\outputs\\style-proof-2K.mp4",
+  "created_utc": "2026-11-03T00:24:32.866941+00:00",
+  "checks": [
+    {
+      "name": "video_stream_present",
+      "passed": true,
+      "actual": 1,
+      "expected": "at least 1"
+    },
+    {
+      "name": "full_ffmpeg_decode",
+      "passed": true,
+      "actual": {
+        "return_code": 0,
+        "truncated_frame": false,
+        "stderr": ""
+      },
+      "expected": "no decode errors; all video and audio streams decoded"
+    },
+    {
+      "name": "nonempty_video",
+      "passed": true,
+      "actual": 288,
+      "expected": "> 0"
+    },
+    {
+      "name": "decoded_matches_ffprobe",
+      "passed": true,
+      "actual": 288,
+      "expected": 288
+    },
+    {
+      "name": "decoded_matches_stream_count",
+      "passed": true,
+      "actual": 288,
+      "expected": 288.0
+    },
+    {
+      "name": "timestamps_complete_increasing",
+      "passed": true,
+      "actual": {
+        "timestamps": 288
+      },
+      "expected": "one strictly increasing presentation timestamp per frame"
+    },
+    {
+      "name": "expected_frames",
+      "passed": true,
+      "actual": 288,
+      "expected": 288
+    },
+    {
+      "name": "expected_fps",
+      "passed": true,
+      "actual": 24.0,
+      "expected": 24.0
+    },
+    {
+      "name": "expected_width",
+      "passed": true,
+      "actual": 1440,
+      "expected": 1440
+    },
+    {
+      "name": "expected_height",
+      "passed": true,
+      "actual": 2560,
+      "expected": 2560
+    },
+    {
+      "name": "expected_display_aspect",
+      "passed": true,
+      "actual": 0.5625,
+      "expected": 0.5625
+    },
+    {
+      "name": "video_duration_matches_frames",
+      "passed": true,
+      "actual": 12.0,
+      "expected": {
+        "seconds": 12.0,
+        "tolerance_seconds": 0.041666666666666664
+      }
+    },
+    {
+      "name": "required_audio",
+      "passed": true,
+      "actual": 1,
+      "expected": "at least 1 decodable audio stream"
+    },
+    {
+      "name": "audio_stream_parameters",
+      "passed": true,
+      "actual": [
+        {
+          "sample_rate": "48000",
+          "channels": 2
+        }
+      ],
+      "expected": "positive sample rate and channels"
+    }
+  ],
+  "warnings": [
+    "5 near-static intervals of at least 0.5s: review against intended holds."
+  ],
+  "media": {
+    "sha256": "080a36f1d34287363d6fc26d5a7e5953598f46f9fb13348c5a0f1ea314e5d5e6",
+    "bytes": 2014527,
+    "display_width": 1440,
+    "display_height": 2560,
+    "sample_aspect_ratio": 1.0,
+    "display_aspect_ratio": 0.5625,
+    "rotation_degrees": 0,
+    "average_fps": 24.0,
+    "video_duration_seconds": 12.0,
+    "container_duration_seconds": 12.011,
+    "decoded_frames": 288,
+    "ffprobe_frames": 288,
+    "video_codec": "h264",
+    "pixel_format": "yuv420p",
+    "audio_streams": [
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "sample_rate": "48000",
+        "channels": 2,
+        "duration": "12.011000"
+      }
+    ]
+  },
+  "advisories": {
+    "measurement_dimensions": [
+      64,
+      114
+    ],
+    "held_intervals": [
+      {
+        "first_frame": 60,
+        "last_frame_inclusive": 71,
+        "frames": 12,
+        "start_seconds": 2.5,
+        "end_exclusive_seconds": 3.0,
+        "exposure_seconds": 0.5
+      },
+      {
+        "first_frame": 72,
+        "last_frame_inclusive": 95,
+        "frames": 24,
+        "start_seconds": 3.0,
+        "end_exclusive_seconds": 4.0,
+        "exposure_seconds": 1.0
+      },
+      {
+        "first_frame": 96,
+        "last_frame_inclusive": 119,
+        "frames": 24,
+        "start_seconds": 4.0,
+        "end_exclusive_seconds": 5.0,
+        "exposure_seconds": 1.0
+      },
+      {
+        "first_frame": 138,
+        "last_frame_inclusive": 155,
+        "frames": 18,
+        "start_seconds": 5.75,
+        "end_exclusive_seconds": 6.5,
+        "exposure_seconds": 0.75
+      },
+      {
+        "first_frame": 156,
+        "last_frame_inclusive": 179,
+        "frames": 24,
+        "start_seconds": 6.5,
+        "end_exclusive_seconds": 7.5,
+        "exposure_seconds": 1.0
+      }
+    ],
+    "black_intervals": [],
+    "near_static_transition_percent": 72.47386759581882,
+    "mean_luma_8bit": 125.71215296814086,
+    "interpretation": "Held drawings, reaction pauses, black cards, and fades can be intentional. These intervals never fail QA on their own.",
+    "method": "Full-frame grayscale at 64-pixel width; held adjacent mean difference <=0.35 for >=0.5s; black mean <=5 with <=1% pixels above16. These are image heuristics, not exact production exposure sheets."
+  },
+  "passed": true
+}

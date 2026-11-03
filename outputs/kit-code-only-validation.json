@@ -1,0 +1,225 @@
+{
+  "tool": "validate_kit.py",
+  "version": "1.0.0",
+  "root": "C:\\Users\\patel\\OneDrive\\Documents\\ChatGPT\\new animate\\reference-shorts-style-kit",
+  "mode": "code-only",
+  "created_utc": "2026-11-03T00:47:00.972124+00:00",
+  "checks": [
+    {
+      "name": "required_source_structure",
+      "passed": true,
+      "details": {
+        "required_files": 48,
+        "missing_or_empty": []
+      }
+    },
+    {
+      "name": "package_commands",
+      "passed": true,
+      "details": [
+        "studio",
+        "typecheck",
+        "stills",
+        "render",
+        "render:preview"
+      ]
+    },
+    {
+      "name": "remotion_versions_match",
+      "passed": true,
+      "details": {
+        "remotion": "4.0.539",
+        "@remotion/bundler": "4.0.539",
+        "@remotion/renderer": "4.0.539",
+        "@remotion/cli": "4.0.539",
+        "@remotion/three": "4.0.539"
+      }
+    },
+    {
+      "name": "lockfile_matches_dependencies",
+      "passed": true,
+      "details": {
+        "manifest_dependencies": 11
+      }
+    },
+    {
+      "name": "local_source_imports_resolve",
+      "passed": true,
+      "details": {
+        "source_files": 17,
+        "unresolved": []
+      }
+    },
+    {
+      "name": "selected_character_assets_resolve",
+      "passed": true,
+      "details": {
+        "selected_option": "C",
+        "missing_assets": []
+      }
+    },
+    {
+      "name": "story_constants_valid",
+      "passed": true,
+      "details": {
+        "FPS": 24,
+        "WIDTH": 1440.0,
+        "HEIGHT": 2560.0,
+        "DURATION": 288
+      }
+    },
+    {
+      "name": "shots_cover_timeline_once",
+      "passed": true,
+      "details": {
+        "shots": [
+          {
+            "id": "arrival",
+            "a": 0.0,
+            "b": 96.0,
+            "preset": "studio",
+            "description": "Original courier enters an illustrated parcel room; settles into a held pose."
+          },
+          {
+            "id": "reaction",
+            "a": 96.0,
+            "b": 180.0,
+            "preset": "studio",
+            "description": "Locked close-up; expression swaps, point, then shrug."
+          },
+          {
+            "id": "night-depth",
+            "a": 180.0,
+            "b": 288.0,
+            "preset": "night",
+            "description": "Same original design in a blue night palette; shallow body volume and foreground depth."
+          }
+        ],
+        "problems": []
+      }
+    },
+    {
+      "name": "picture_audio_timeline_matches",
+      "passed": true,
+      "details": {
+        "picture": {
+          "fps": 24,
+          "frames": 288
+        },
+        "audio": {
+          "fps": 24,
+          "frames": 288,
+          "sampleRate": 48000
+        }
+      }
+    },
+    {
+      "name": "audio_cues_inside_timeline",
+      "passed": true,
+      "details": {
+        "count": 3,
+        "invalid": []
+      }
+    },
+    {
+      "name": "story_audio_cues_match",
+      "passed": true,
+      "details": {
+        "story_cues": [
+          {
+            "frame": 48,
+            "type": "tap",
+            "gain": 0.15
+          },
+          {
+            "frame": 132,
+            "type": "pop",
+            "gain": 0.12
+          },
+          {
+            "frame": 207,
+            "type": "tap",
+            "gain": 0.1
+          }
+        ],
+        "audio_cues": [
+          {
+            "frame": 48,
+            "type": "tap",
+            "gain": 0.15
+          },
+          {
+            "frame": 132,
+            "type": "pop",
+            "gain": 0.12
+          },
+          {
+            "frame": 207,
+            "type": "tap",
+            "gain": 0.1
+          }
+        ]
+      }
+    },
+    {
+      "name": "registered_proof_matches_timeline",
+      "passed": true,
+      "details": {
+        "compositions": [
+          {
+            "id": "StyleProof",
+            "width": 1440.0,
+            "height": 2560.0,
+            "fps": 24,
+            "durationInFrames": 288,
+            "component": "StyleProof"
+          },
+          {
+            "id": "GraphicProfile",
+            "width": 1440.0,
+            "height": 2560.0,
+            "fps": 24,
+            "durationInFrames": 288,
+            "component": "StyleProof"
+          }
+        ],
+        "renderer_default": "StyleProof",
+        "problems": []
+      }
+    },
+    {
+      "name": "public_asset:demo-mix.wav",
+      "passed": true,
+      "details": {
+        "bytes": 2304044
+      }
+    },
+    {
+      "name": "public_audio_duration:demo-mix.wav",
+      "passed": true,
+      "details": {
+        "samples": 576000,
+        "expected_samples": 576000,
+        "sample_rate": 48000,
+        "channels": 2
+      }
+    }
+  ],
+  "warnings": [
+    "Reference videos, data, frame archives, native samples, and dense sheets intentionally not required in code-only mode.",
+    "This validator does not run TypeScript type checking or judge artistic fidelity. Run npm run typecheck and qa_video.py on the encoded proof."
+  ],
+  "registered_proof": {
+    "fps": 24,
+    "frames": 288,
+    "width": 1440.0,
+    "height": 2560.0,
+    "duration_seconds": 12.0,
+    "public_assets": [
+      "demo-mix.wav"
+    ]
+  },
+  "passed": true,
+  "checks_passed": 14,
+  "checks_total": 14
+}

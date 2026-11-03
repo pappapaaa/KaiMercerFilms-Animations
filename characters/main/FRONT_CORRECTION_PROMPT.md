@@ -1,0 +1,5 @@
+# Final model sheet correction
+
+Built-in imagegen, using `model-sheet.png` as the edit target. Output saved as `model-sheet-v2.png`; the earlier draft is preserved.
+
+Edit this character model sheet with ONE precise correction. Preserve the selected Character C identity and preserve the entire sheet's arrangement, colors, title, labels, all six expression studies, and the three-quarter, side, and back drawings. Change ONLY the upper-left drawing labeled FRONT: it is currently angled three-quarter, so redraw that one body and face directly facing the viewer in a genuine front view. Both circular glasses should be the same projected size, nose on the face centerline, both ears symmetrically visible, shoulders and hips square to viewer, shoes pointing mostly forward, arms relaxed slightly away from the body. Preserve the intentionally asymmetric spiky hair sweep, wide rounded-square head, deadpan half-lidded face, mustard sweatshirt/cream collar, plum trousers, cream shoes/dark soles, same height and ground line as adjacent figures. Keep the other nine drawings unchanged. Do not add or remove any text or redesign any identity feature.

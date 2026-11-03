@@ -1,0 +1,782 @@
+[
+  {
+    "id": "2GGA4NlMjKc",
+    "timeSeconds": 0,
+    "frame": 0,
+    "fps": 24.000299535719634,
+    "width": 1080,
+    "height": 1920,
+    "lumaGammaMedian": 0.3704729676246643,
+    "lumaGammaP05": 0.1511324793100357,
+    "lumaGammaP95": 1.0,
+    "meanSaturationHSV": 0.29974450042362627,
+    "darkCoverageBelow0.10": 0.02475163966049383,
+    "dominantColours": [
+      {
+        "hex": "#6b6048",
+        "fraction": 0.254
+      },
+      {
+        "hex": "#373f3c",
+        "fraction": 0.23
+      },
+      {
+        "hex": "#2c2520",
+        "fraction": 0.21
+      },
+      {
+        "hex": "#918368",
+        "fraction": 0.138
+      },
+      {
+        "hex": "#f3f7fd",
+        "fraction": 0.093
+      },
+      {
+        "hex": "#a7ab93",
+        "fraction": 0.075
+      }
+    ]
+  },
+  {
+    "id": "2GGA4NlMjKc",
+    "timeSeconds": 3,
+    "frame": 72,
+    "fps": 24.000299535719634,
+    "width": 1080,
+    "height": 1920,
+    "lumaGammaMedian": 0.5315003991127014,
+    "lumaGammaP05": 0.0025011764373630285,
+    "lumaGammaP95": 1.0,
+    "meanSaturationHSV": 0.31495206782558705,
+    "darkCoverageBelow0.10": 0.10724103009259259,
+    "dominantColours": [
+      {
+        "hex": "#e3d2a8",
+        "fraction": 0.257
+      },
+      {
+        "hex": "#323b38",
+        "fraction": 0.214
+      },
+      {
+        "hex": "#6c9457",
+        "fraction": 0.207
+      },
+      {
+        "hex": "#f9fbfc",
+        "fraction": 0.178
+      },
+      {
+        "hex": "#070404",
+        "fraction": 0.113
+      },
+      {
+        "hex": "#c52e3a",
+        "fraction": 0.031
+      }
+    ]
+  },
+  {
+    "id": "2GGA4NlMjKc",
+    "timeSeconds": 10,
+    "frame": 240,
+    "fps": 24.000299535719634,
+    "width": 1080,
+    "height": 1920,
+    "lumaGammaMedian": 0.5703184604644775,
+    "lumaGammaP05": 0.003921568859368563,
+    "lumaGammaP95": 1.0,
+    "meanSaturationHSV": 0.20432354075889617,
+    "darkCoverageBelow0.10": 0.08315248842592593,
+    "dominantColours": [
+      {
+        "hex": "#ffffff",
+        "fraction": 0.334
+      },
+      {
+        "hex": "#878e75",
+        "fraction": 0.269
+      },
+      {
+        "hex": "#374a49",
+        "fraction": 0.156
+      },
+      {
+        "hex": "#bcd3f8",
+        "fraction": 0.093
+      },
+      {
+        "hex": "#040405",
+        "fraction": 0.086
+      },
+      {
+        "hex": "#ad4147",
+        "fraction": 0.062
+      }
+    ]
+  },
+  {
+    "id": "2GGA4NlMjKc",
+    "timeSeconds": 22,
+    "frame": 528,
+    "fps": 24.000299535719634,
+    "width": 1080,
+    "height": 1920,
+    "lumaGammaMedian": 0.660128653049469,
+    "lumaGammaP05": 0.0025011764373630285,
+    "lumaGammaP95": 0.9718619585037231,
+    "meanSaturationHSV": 0.5319724813150568,
+    "darkCoverageBelow0.10": 0.1578052662037037,
+    "dominantColours": [
+      {
+        "hex": "#f6e2c3",
+        "fraction": 0.262
+      },
+      {
+        "hex": "#cfe395",
+        "fraction": 0.239
+      },
+      {
+        "hex": "#242f08",
+        "fraction": 0.201
+      },
+      {
+        "hex": "#050701",
+        "fraction": 0.152
+      },
+      {
+        "hex": "#838c40",
+        "fraction": 0.074
+      },
+      {
+        "hex": "#e35c1c",
+        "fraction": 0.071
+      }
+    ]
+  },
+  {
+    "id": "2GGA4NlMjKc",
+    "timeSeconds": 44,
+    "frame": 1056,
+    "fps": 24.000299535719634,
+    "width": 1080,
+    "height": 1920,
+    "lumaGammaMedian": 0.5722894668579102,
+    "lumaGammaP05": 0.003921568859368563,
+    "lumaGammaP95": 1.0,
+    "meanSaturationHSV": 0.19643369114621156,
+    "darkCoverageBelow0.10": 0.07771508487654322,
+    "dominantColours": [
+      {
+        "hex": "#ffffff",
+        "fraction": 0.341
+      },
+      {
+        "hex": "#878d75",
+        "fraction": 0.264
+      },
+      {
+        "hex": "#344848",
+        "fraction": 0.177
+      },
+      {
+        "hex": "#bcd3f7",
+        "fraction": 0.093
+      },
+      {
+        "hex": "#050405",
+        "fraction": 0.082
+      },
+      {
+        "hex": "#b24a4f",
+        "fraction": 0.042
+      }
+    ]
+  },
+  {
+    "id": "2GGA4NlMjKc",
+    "timeSeconds": 49,
+    "frame": 1176,
+    "fps": 24.000299535719634,
+    "width": 1080,
+    "height": 1920,
+    "lumaGammaMedian": 0.0,
+    "lumaGammaP05": 0.0,
+    "lumaGammaP95": 0.0,
+    "meanSaturationHSV": 0.0,
+    "darkCoverageBelow0.10": 1.0,
+    "dominantColours": [
+      {
+        "hex": "#000000",
+        "fraction": 0.999
+      },
+      {
+        "hex": "#000000",
+        "fraction": 0.0
+      },
+      {
+        "hex": "#000000",
+        "fraction": 0.0
+      },
+      {
+        "hex": "#000000",
+        "fraction": 0.0
+      },
+      {
+        "hex": "#000000",
+        "fraction": 0.0
+      },
+      {
+        "hex": "#000000",
+        "fraction": 0.0
+      }
+    ]
+  },
+  {
+    "id": "tN0ra1h3uKo",
+    "timeSeconds": 0,
+    "frame": 0,
+    "fps": 24.0,
+    "width": 1080,
+    "height": 1920,
+    "lumaGammaMedian": 0.43504196405410767,
+    "lumaGammaP05": 0.08670824021100998,
+    "lumaGammaP95": 0.8311034440994263,
+    "meanSaturationHSV": 0.3561693408073106,
+    "darkCoverageBelow0.10": 0.12487943672839506,
+    "dominantColours": [
+      {
+        "hex": "#969da0",
+        "fraction": 0.312
+      },
+      {
+        "hex": "#0f1c2b",
+        "fraction": 0.204
+      },
+      {
+        "hex": "#677283",
+        "fraction": 0.184
+      },
+      {
+        "hex": "#ae3f34",
+        "fraction": 0.141
+      },
+      {
+        "hex": "#4a323a",
+        "fraction": 0.085
+      },
+      {
+        "hex": "#d7d9de",
+        "fraction": 0.073
+      }
+    ]
+  },
+  {
+    "id": "tN0ra1h3uKo",
+    "timeSeconds": 4,
+    "frame": 96,
+    "fps": 24.0,
+    "width": 1080,
+    "height": 1920,
+    "lumaGammaMedian": 0.16951844096183777,
+    "lumaGammaP05": 0.02826431207358837,
+    "lumaGammaP95": 0.8193363547325134,
+    "meanSaturationHSV": 0.3611397153382958,
+    "darkCoverageBelow0.10": 0.36102671682098764,
+    "dominantColours": [
+      {
+        "hex": "#11090c",
+        "fraction": 0.263
+      },
+      {
+        "hex": "#181c2a",
+        "fraction": 0.248
+      },
+      {
+        "hex": "#c4cbdc",
+        "fraction": 0.134
+      },
+      {
+        "hex": "#3c4156",
+        "fraction": 0.129
+      },
+      {
+        "hex": "#5d6780",
+        "fraction": 0.116
+      },
+      {
+        "hex": "#8591ac",
+        "fraction": 0.11
+      }
+    ]
+  },
+  {
+    "id": "tN0ra1h3uKo",
+    "timeSeconds": 14,
+    "frame": 336,
+    "fps": 24.0,
+    "width": 1080,
+    "height": 1920,
+    "lumaGammaMedian": 0.3006627559661865,
+    "lumaGammaP05": 0.012346667237579823,
+    "lumaGammaP95": 0.8427207469940186,
+    "meanSaturationHSV": 0.3741400292755991,
+    "darkCoverageBelow0.10": 0.24552710262345678,
+    "dominantColours": [
+      {
+        "hex": "#0a0f16",
+        "fraction": 0.286
+      },
+      {
+        "hex": "#b0b3be",
+        "fraction": 0.188
+      },
+      {
+        "hex": "#253240",
+        "fraction": 0.157
+      },
+      {
+        "hex": "#475874",
+        "fraction": 0.153
+      },
+      {
+        "hex": "#818c9b",
+        "fraction": 0.11
+      },
+      {
+        "hex": "#e1d7db",
+        "fraction": 0.107
+      }
+    ]
+  },
+  {
+    "id": "tN0ra1h3uKo",
+    "timeSeconds": 25,
+    "frame": 600,
+    "fps": 24.0,
+    "width": 1080,
+    "height": 1920,
+    "lumaGammaMedian": 0.20435529947280884,
+    "lumaGammaP05": 0.03137490525841713,
+    "lumaGammaP95": 0.9624674320220947,
+    "meanSaturationHSV": 0.39698379062273054,
+    "darkCoverageBelow0.10": 0.2023413387345679,
+    "dominantColours": [
+      {
+        "hex": "#283747",
+        "fraction": 0.347
+      },
+      {
+        "hex": "#11151b",
+        "fraction": 0.312
+      },
+      {
+        "hex": "#5b6e7a",
+        "fraction": 0.118
+      },
+      {
+        "hex": "#eff0f3",
+        "fraction": 0.111
+      },
+      {
+        "hex": "#abb2b7",
+        "fraction": 0.056
+      },
+      {
+        "hex": "#711e2d",
+        "fraction": 0.056
+      }
+    ]
+  },
+  {
+    "id": "tN0ra1h3uKo",
+    "timeSeconds": 38,
+    "frame": 912,
+    "fps": 24.0,
+    "width": 1080,
+    "height": 1920,
+    "lumaGammaMedian": 0.5485624074935913,
+    "lumaGammaP05": 0.15059451758861542,
+    "lumaGammaP95": 0.8136478066444397,
+    "meanSaturationHSV": 0.4560344045025418,
+    "darkCoverageBelow0.10": 0.029164255401234566,
+    "dominantColours": [
+      {
+        "hex": "#f2a183",
+        "fraction": 0.276
+      },
+      {
+        "hex": "#bad1dd",
+        "fraction": 0.187
+      },
+      {
+        "hex": "#61939f",
+        "fraction": 0.159
+      },
+      {
+        "hex": "#b94638",
+        "fraction": 0.131
+      },
+      {
+        "hex": "#2c2a21",
+        "fraction": 0.128
+      },
+      {
+        "hex": "#39704f",
+        "fraction": 0.119
+      }
+    ]
+  },
+  {
+    "id": "HOjbzw2xqEE",
+    "timeSeconds": 2,
+    "frame": 48,
+    "fps": 24.0,
+    "width": 1080,
+    "height": 1920,
+    "lumaGammaMedian": 0.7479262351989746,
+    "lumaGammaP05": 0.11054980754852295,
+    "lumaGammaP95": 1.0,
+    "meanSaturationHSV": 0.2986354128842895,
+    "darkCoverageBelow0.10": 0.0490210262345679,
+    "dominantColours": [
+      {
+        "hex": "#f4b393",
+        "fraction": 0.516
+      },
+      {
+        "hex": "#feffff",
+        "fraction": 0.169
+      },
+      {
+        "hex": "#835145",
+        "fraction": 0.121
+      },
+      {
+        "hex": "#7e7c7c",
+        "fraction": 0.084
+      },
+      {
+        "hex": "#0f0c0c",
+        "fraction": 0.061
+      },
+      {
+        "hex": "#bdd3f7",
+        "fraction": 0.049
+      }
+    ]
+  },
+  {
+    "id": "HOjbzw2xqEE",
+    "timeSeconds": 10,
+    "frame": 240,
+    "fps": 24.0,
+    "width": 1080,
+    "height": 1920,
+    "lumaGammaMedian": 0.7479262351989746,
+    "lumaGammaP05": 0.31868627667427063,
+    "lumaGammaP95": 1.0,
+    "meanSaturationHSV": 0.3770023431826434,
+    "darkCoverageBelow0.10": 0.01525125385802469,
+    "dominantColours": [
+      {
+        "hex": "#f4b393",
+        "fraction": 0.472
+      },
+      {
+        "hex": "#814d42",
+        "fraction": 0.267
+      },
+      {
+        "hex": "#eff3fa",
+        "fraction": 0.109
+      },
+      {
+        "hex": "#807d7d",
+        "fraction": 0.07
+      },
+      {
+        "hex": "#4f8bf0",
+        "fraction": 0.058
+      },
+      {
+        "hex": "#141010",
+        "fraction": 0.024
+      }
+    ]
+  },
+  {
+    "id": "HOjbzw2xqEE",
+    "timeSeconds": 24,
+    "frame": 576,
+    "fps": 24.0,
+    "width": 1080,
+    "height": 1920,
+    "lumaGammaMedian": 0.8117603659629822,
+    "lumaGammaP05": 0.3034612536430359,
+    "lumaGammaP95": 0.9741916656494141,
+    "meanSaturationHSV": 0.24480783632897601,
+    "darkCoverageBelow0.10": 0.04415027006172839,
+    "dominantColours": [
+      {
+        "hex": "#eddcfb",
+        "fraction": 0.49
+      },
+      {
+        "hex": "#bfacc0",
+        "fraction": 0.195
+      },
+      {
+        "hex": "#d9acf9",
+        "fraction": 0.153
+      },
+      {
+        "hex": "#2c8a47",
+        "fraction": 0.077
+      },
+      {
+        "hex": "#030204",
+        "fraction": 0.047
+      },
+      {
+        "hex": "#54bef2",
+        "fraction": 0.039
+      }
+    ]
+  },
+  {
+    "id": "HOjbzw2xqEE",
+    "timeSeconds": 29,
+    "frame": 696,
+    "fps": 24.0,
+    "width": 1080,
+    "height": 1920,
+    "lumaGammaMedian": 0.8456525802612305,
+    "lumaGammaP05": 0.5804541707038879,
+    "lumaGammaP95": 1.0,
+    "meanSaturationHSV": 0.1696137058218349,
+    "darkCoverageBelow0.10": 0.032564139660493825,
+    "dominantColours": [
+      {
+        "hex": "#ecd5fb",
+        "fraction": 0.347
+      },
+      {
+        "hex": "#ddc0fb",
+        "fraction": 0.302
+      },
+      {
+        "hex": "#fefbff",
+        "fraction": 0.233
+      },
+      {
+        "hex": "#a3a6dd",
+        "fraction": 0.069
+      },
+      {
+        "hex": "#070609",
+        "fraction": 0.036
+      },
+      {
+        "hex": "#5c5d67",
+        "fraction": 0.013
+      }
+    ]
+  },
+  {
+    "id": "XdcSli5STR4",
+    "timeSeconds": 4,
+    "frame": 96,
+    "fps": 24.000985919832395,
+    "width": 1080,
+    "height": 1920,
+    "lumaGammaMedian": 0.4941176474094391,
+    "lumaGammaP05": 0.06711137294769287,
+    "lumaGammaP95": 1.0,
+    "meanSaturationHSV": 0.38368419609356086,
+    "darkCoverageBelow0.10": 0.06122202932098766,
+    "dominantColours": [
+      {
+        "hex": "#1f3f65",
+        "fraction": 0.328
+      },
+      {
+        "hex": "#d9f5fb",
+        "fraction": 0.303
+      },
+      {
+        "hex": "#c5c1bc",
+        "fraction": 0.143
+      },
+      {
+        "hex": "#7b8080",
+        "fraction": 0.086
+      },
+      {
+        "hex": "#0d0e15",
+        "fraction": 0.078
+      },
+      {
+        "hex": "#bd6c2f",
+        "fraction": 0.062
+      }
+    ]
+  },
+  {
+    "id": "XdcSli5STR4",
+    "timeSeconds": 9,
+    "frame": 216,
+    "fps": 24.000985919832395,
+    "width": 1080,
+    "height": 1920,
+    "lumaGammaMedian": 0.5259588360786438,
+    "lumaGammaP05": 0.12405196577310562,
+    "lumaGammaP95": 1.0,
+    "meanSaturationHSV": 0.3094200575677802,
+    "darkCoverageBelow0.10": 0.043294270833333336,
+    "dominantColours": [
+      {
+        "hex": "#c4c4c3",
+        "fraction": 0.271
+      },
+      {
+        "hex": "#1c3d64",
+        "fraction": 0.26
+      },
+      {
+        "hex": "#ddf7fc",
+        "fraction": 0.194
+      },
+      {
+        "hex": "#94846d",
+        "fraction": 0.103
+      },
+      {
+        "hex": "#4c5560",
+        "fraction": 0.101
+      },
+      {
+        "hex": "#131926",
+        "fraction": 0.071
+      }
+    ]
+  },
+  {
+    "id": "XdcSli5STR4",
+    "timeSeconds": 14,
+    "frame": 336,
+    "fps": 24.000985919832395,
+    "width": 1080,
+    "height": 1920,
+    "lumaGammaMedian": 0.7281341552734375,
+    "lumaGammaP05": 0.4433850944042206,
+    "lumaGammaP95": 1.0,
+    "meanSaturationHSV": 0.39366087773844105,
+    "darkCoverageBelow0.10": 0.01408179012345679,
+    "dominantColours": [
+      {
+        "hex": "#d8eff8",
+        "fraction": 0.353
+      },
+      {
+        "hex": "#5ba2f9",
+        "fraction": 0.256
+      },
+      {
+        "hex": "#7ac8fa",
+        "fraction": 0.214
+      },
+      {
+        "hex": "#a27770",
+        "fraction": 0.117
+      },
+      {
+        "hex": "#ebbe5b",
+        "fraction": 0.034
+      },
+      {
+        "hex": "#1e1b1e",
+        "fraction": 0.027
+      }
+    ]
+  },
+  {
+    "id": "XdcSli5STR4",
+    "timeSeconds": 20,
+    "frame": 480,
+    "fps": 24.000985919832395,
+    "width": 1080,
+    "height": 1920,
+    "lumaGammaMedian": 0.9554470181465149,
+    "lumaGammaP05": 0.0240956861525774,
+    "lumaGammaP95": 1.0,
+    "meanSaturationHSV": 0.10737360241164368,
+    "darkCoverageBelow0.10": 0.05732783564814815,
+    "dominantColours": [
+      {
+        "hex": "#eef3f2",
+        "fraction": 0.511
+      },
+      {
+        "hex": "#ffffff",
+        "fraction": 0.239
+      },
+      {
+        "hex": "#bad2f5",
+        "fraction": 0.107
+      },
+      {
+        "hex": "#060607",
+        "fraction": 0.064
+      },
+      {
+        "hex": "#58b1e5",
+        "fraction": 0.06
+      },
+      {
+        "hex": "#6e5d61",
+        "fraction": 0.018
+      }
+    ]
+  },
+  {
+    "id": "XdcSli5STR4",
+    "timeSeconds": 27,
+    "frame": 648,
+    "fps": 24.000985919832395,
+    "width": 1080,
+    "height": 1920,
+    "lumaGammaMedian": 0.8216078281402588,
+    "lumaGammaP05": 0.0008494117646478117,
+    "lumaGammaP95": 1.0,
+    "meanSaturationHSV": 0.25335903458605663,
+    "darkCoverageBelow0.10": 0.09560667438271606,
+    "dominantColours": [
+      {
+        "hex": "#f7f7f7",
+        "fraction": 0.415
+      },
+      {
+        "hex": "#5cb4e6",
+        "fraction": 0.177
+      },
+      {
+        "hex": "#b7d7fb",
+        "fraction": 0.164
+      },
+      {
+        "hex": "#0f0e0e",
+        "fraction": 0.123
+      },
+      {
+        "hex": "#d1bda9",
+        "fraction": 0.079
+      },
+      {
+        "hex": "#ea920e",
+        "fraction": 0.043
+      }
+    ]
+  }
+]

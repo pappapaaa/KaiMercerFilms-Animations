@@ -1,0 +1,10 @@
+{
+  "id": "2GGA4NlMjKc",
+  "duration": 53.4335,
+  "integrated_LUFS": -15.37,
+  "true_peak_dBTP": 0.09,
+  "LRA_LU": 8.5,
+  "mixed_track_quiet_fraction_below_minus40dB": 0.1647014785700917,
+  "rms_window_seconds": 0.01,
+  "limitation": "These measure the complete mixed track. Voice/music/SFX gains cannot be separately recovered from this measurement."
+}

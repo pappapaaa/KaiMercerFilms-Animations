@@ -1,0 +1,220 @@
+{
+  "analysis_version": "1.0.0",
+  "complete": true,
+  "id": "HOjbzw2xqEE",
+  "url": "https://www.youtube.com/shorts/HOjbzw2xqEE",
+  "title": "Refrenced",
+  "channel": "TheOdd1sOut",
+  "sha256": "04fdec768afc0b352474ee8f396870d201830aa32a2ed82f6bb3f830e0bb739b",
+  "source_bytes": 4182328,
+  "native_dimensions": [
+    1080,
+    1920
+  ],
+  "average_frame_rate": "24/1",
+  "fps": 24.0,
+  "decoded_frames": 870,
+  "ffprobe_frame_count": 870,
+  "native_pts_preserved": true,
+  "first_pts": 0.0,
+  "last_pts": 36.209,
+  "duration_seconds": 36.25062500000001,
+  "analysis_width": 360,
+  "analysis_height": 640,
+  "flow_enabled": true,
+  "flow_measurement_dimensions": [
+    108,
+    192
+  ],
+  "jpeg_quality": 88,
+  "all_frame_jpegs": 870,
+  "dense_sheet_cells": 870,
+  "dense_sheet_count": 15,
+  "overview_sample_count": 38,
+  "overview_indices": [
+    0,
+    24,
+    48,
+    72,
+    96,
+    120,
+    144,
+    168,
+    192,
+    216,
+    240,
+    264,
+    288,
+    312,
+    336,
+    360,
+    384,
+    408,
+    432,
+    456,
+    480,
+    504,
+    528,
+    552,
+    576,
+    600,
+    624,
+    648,
+    672,
+    696,
+    720,
+    744,
+    768,
+    792,
+    816,
+    840,
+    864,
+    869
+  ],
+  "native_keyframe_count": 22,
+  "native_keyframe_indices": [
+    0,
+    66,
+    67,
+    96,
+    192,
+    193,
+    238,
+    239,
+    240,
+    288,
+    384,
+    480,
+    537,
+    576,
+    609,
+    668,
+    672,
+    742,
+    768,
+    824,
+    864,
+    869
+  ],
+  "native_keyframe_paths": [
+    "references/frames/HOjbzw2xqEE/native/f000000.png",
+    "references/frames/HOjbzw2xqEE/native/f000066.png",
+    "references/frames/HOjbzw2xqEE/native/f000067.png",
+    "references/frames/HOjbzw2xqEE/native/f000096.png",
+    "references/frames/HOjbzw2xqEE/native/f000192.png",
+    "references/frames/HOjbzw2xqEE/native/f000193.png",
+    "references/frames/HOjbzw2xqEE/native/f000238.png",
+    "references/frames/HOjbzw2xqEE/native/f000239.png",
+    "references/frames/HOjbzw2xqEE/native/f000240.png",
+    "references/frames/HOjbzw2xqEE/native/f000288.png",
+    "references/frames/HOjbzw2xqEE/native/f000384.png",
+    "references/frames/HOjbzw2xqEE/native/f000480.png",
+    "references/frames/HOjbzw2xqEE/native/f000537.png",
+    "references/frames/HOjbzw2xqEE/native/f000576.png",
+    "references/frames/HOjbzw2xqEE/native/f000609.png",
+    "references/frames/HOjbzw2xqEE/native/f000668.png",
+    "references/frames/HOjbzw2xqEE/native/f000672.png",
+    "references/frames/HOjbzw2xqEE/native/f000742.png",
+    "references/frames/HOjbzw2xqEE/native/f000768.png",
+    "references/frames/HOjbzw2xqEE/native/f000824.png",
+    "references/frames/HOjbzw2xqEE/native/f000864.png",
+    "references/frames/HOjbzw2xqEE/native/f000869.png"
+  ],
+  "cut_candidate_count": 11,
+  "cut_candidate_frames": [
+    66,
+    67,
+    193,
+    238,
+    239,
+    240,
+    537,
+    609,
+    668,
+    742,
+    824
+  ],
+  "near_static_transition_percent": 72.49712313003452,
+  "longest_near_static_span_frames": 50,
+  "held_span_lengths_frames": {
+    "2": 106,
+    "3": 1,
+    "4": 12,
+    "5": 2,
+    "6": 3,
+    "12": 2,
+    "24": 2
+  },
+  "delta_mae_median": 0.004945023148148148,
+  "delta_mae_p90": 4.121800347222225,
+  "flow_median_px1080_p50": 2.1886258764425293e-05,
+  "flow_p90_px1080_p50": 0.01538498466834426,
+  "luma_mean_median": 0.6322835087776184,
+  "saturation_mean_median": 0.3894835750272331,
+  "dominant_quantized_colors": [
+    {
+      "hex": "#fab790",
+      "sampled_pixel_fraction": 0.2880766283524904
+    },
+    {
+      "hex": "#fbf8fd",
+      "sampled_pixel_fraction": 0.14680970625798212
+    },
+    {
+      "hex": "#ebd1fb",
+      "sampled_pixel_fraction": 0.1345948275862069
+    },
+    {
+      "hex": "#8c5642",
+      "sampled_pixel_fraction": 0.08389367816091954
+    },
+    {
+      "hex": "#7d4a3d",
+      "sampled_pixel_fraction": 0.04742017879948914
+    },
+    {
+      "hex": "#7a7a7a",
+      "sampled_pixel_fraction": 0.03402905491698595
+    },
+    {
+      "hex": "#448af5",
+      "sampled_pixel_fraction": 0.03295434227330779
+    },
+    {
+      "hex": "#040203",
+      "sampled_pixel_fraction": 0.03288537675606641
+    },
+    {
+      "hex": "#e3b7fb",
+      "sampled_pixel_fraction": 0.03032822477650064
+    },
+    {
+      "hex": "#daa9fa",
+      "sampled_pixel_fraction": 0.025372924648786717
+    },
+    {
+      "hex": "#cc97f8",
+      "sampled_pixel_fraction": 0.01898690932311622
+    },
+    {
+      "hex": "#c0b4c5",
+      "sampled_pixel_fraction": 0.01687803320561941
+    }
+  ],
+  "audio_streams": [
+    {
+      "codec_name": "opus",
+      "sample_rate": "48000",
+      "channels": 2,
+      "duration": "36.281000"
+    }
+  ],
+  "created_utc": "2026-11-03T00:00:38.914168+00:00",
+  "limitations": [
+    "Cut candidates are not verified edits; pose swaps, impact frames and flashes can trigger them.",
+    "Near-static flags are whole-frame image similarity, not proof of animation exposure or unwanted freezing.",
+    "Optical flow mixes camera, actor and effect motion and cannot recover lens focal length or scene scale.",
+    "Luma and palette statistics are display-referred whole-frame measurements including any embedded text.",
+    "Every input frame is decoded, measured and archived in reduced-resolution form; native PNG selection is sampled."
+  ]
+}

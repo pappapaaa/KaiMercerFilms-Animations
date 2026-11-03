@@ -1,0 +1,163 @@
+{
+  "tool": "qa_video.py",
+  "version": "1.0.0",
+  "input": "C:\\Users\\patel\\OneDrive\\Documents\\ChatGPT\\new animate\\reference-shorts-style-kit\\outputs\\main-character-2K.mp4",
+  "created_utc": "2026-11-03T01:02:11.000198+00:00",
+  "checks": [
+    {
+      "name": "video_stream_present",
+      "passed": true,
+      "actual": 1,
+      "expected": "at least 1"
+    },
+    {
+      "name": "full_ffmpeg_decode",
+      "passed": true,
+      "actual": {
+        "return_code": 0,
+        "truncated_frame": false,
+        "stderr": ""
+      },
+      "expected": "no decode errors; all video and audio streams decoded"
+    },
+    {
+      "name": "nonempty_video",
+      "passed": true,
+      "actual": 192,
+      "expected": "> 0"
+    },
+    {
+      "name": "decoded_matches_ffprobe",
+      "passed": true,
+      "actual": 192,
+      "expected": 192
+    },
+    {
+      "name": "decoded_matches_stream_count",
+      "passed": true,
+      "actual": 192,
+      "expected": 192.0
+    },
+    {
+      "name": "timestamps_complete_increasing",
+      "passed": true,
+      "actual": {
+        "timestamps": 192
+      },
+      "expected": "one strictly increasing presentation timestamp per frame"
+    },
+    {
+      "name": "expected_frames",
+      "passed": true,
+      "actual": 192,
+      "expected": 192
+    },
+    {
+      "name": "expected_fps",
+      "passed": true,
+      "actual": 24.0,
+      "expected": 24.0
+    },
+    {
+      "name": "expected_width",
+      "passed": true,
+      "actual": 1440,
+      "expected": 1440
+    },
+    {
+      "name": "expected_height",
+      "passed": true,
+      "actual": 2560,
+      "expected": 2560
+    },
+    {
+      "name": "expected_display_aspect",
+      "passed": true,
+      "actual": 0.5625,
+      "expected": 0.5625
+    },
+    {
+      "name": "video_duration_matches_frames",
+      "passed": true,
+      "actual": 8.0,
+      "expected": {
+        "seconds": 8.0,
+        "tolerance_seconds": 0.041666666666666664
+      }
+    }
+  ],
+  "warnings": [
+    "5 near-static intervals of at least 0.5s: review against intended holds."
+  ],
+  "media": {
+    "sha256": "e78cb52c9de8b9095701fe88abd4beafb1666e1b4bfc3f91ed4ca6a761537b36",
+    "bytes": 2560148,
+    "display_width": 1440,
+    "display_height": 2560,
+    "sample_aspect_ratio": 1.0,
+    "display_aspect_ratio": 0.5625,
+    "rotation_degrees": 0,
+    "average_fps": 24.0,
+    "video_duration_seconds": 8.0,
+    "container_duration_seconds": 8.0,
+    "decoded_frames": 192,
+    "ffprobe_frames": 192,
+    "video_codec": "h264",
+    "pixel_format": "yuv420p",
+    "audio_streams": []
+  },
+  "advisories": {
+    "measurement_dimensions": [
+      64,
+      114
+    ],
+    "held_intervals": [
+      {
+        "first_frame": 0,
+        "last_frame_inclusive": 47,
+        "frames": 48,
+        "start_seconds": 0.0,
+        "end_exclusive_seconds": 2.0,
+        "exposure_seconds": 2.0
+      },
+      {
+        "first_frame": 48,
+        "last_frame_inclusive": 71,
+        "frames": 24,
+        "start_seconds": 2.0,
+        "end_exclusive_seconds": 3.0,
+        "exposure_seconds": 1.0
+      },
+      {
+        "first_frame": 84,
+        "last_frame_inclusive": 95,
+        "frames": 12,
+        "start_seconds": 3.5,
+        "end_exclusive_seconds": 4.0,
+        "exposure_seconds": 0.5
+      },
+      {
+        "first_frame": 96,
+        "last_frame_inclusive": 119,
+        "frames": 24,
+        "start_seconds": 4.0,
+        "end_exclusive_seconds": 5.0,
+        "exposure_seconds": 1.0
+      },
+      {
+        "first_frame": 120,
+        "last_frame_inclusive": 143,
+        "frames": 24,
+        "start_seconds": 5.0,
+        "end_exclusive_seconds": 6.0,
+        "exposure_seconds": 1.0
+      }
+    ],
+    "black_intervals": [],
+    "near_static_transition_percent": 86.91099476439791,
+    "mean_luma_8bit": 203.04752604166666,
+    "interpretation": "Held drawings, reaction pauses, black cards, and fades can be intentional. These intervals never fail QA on their own.",
+    "method": "Full-frame grayscale at 64-pixel width; held adjacent mean difference <=0.35 for >=0.5s; black mean <=5 with <=1% pixels above16. These are image heuristics, not exact production exposure sheets."
+  },
+  "passed": true
+}

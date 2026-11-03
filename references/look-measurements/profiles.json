@@ -1,0 +1,309 @@
+{
+  "patches": [
+    {
+      "image": "2GGA4NlMjKc_f0240.png",
+      "label": "white face",
+      "boxXYXY": [
+        450,
+        450,
+        570,
+        550
+      ],
+      "medianRGB": [
+        255.0,
+        255.0,
+        255.0
+      ],
+      "hex": "#ffffff",
+      "RGBStd": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "image": "2GGA4NlMjKc_f0240.png",
+      "label": "cool cel shadow",
+      "boxXYXY": [
+        900,
+        660,
+        960,
+        780
+      ],
+      "medianRGB": [
+        185.0,
+        212.0,
+        253.0
+      ],
+      "hex": "#b9d4fd",
+      "RGBStd": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "image": "2GGA4NlMjKc_f0240.png",
+      "label": "olive background",
+      "boxXYXY": [
+        800,
+        130,
+        950,
+        240
+      ],
+      "medianRGB": [
+        137.0,
+        150.0,
+        125.0
+      ],
+      "hex": "#89967d",
+      "RGBStd": [
+        0.57,
+        1.47,
+        1.94
+      ]
+    },
+    {
+      "image": "HOjbzw2xqEE_f0048.png",
+      "label": "peach wall",
+      "boxXYXY": [
+        50,
+        80,
+        220,
+        200
+      ],
+      "medianRGB": [
+        245.0,
+        179.0,
+        147.0
+      ],
+      "hex": "#f5b393",
+      "RGBStd": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "image": "HOjbzw2xqEE_f0048.png",
+      "label": "table",
+      "boxXYXY": [
+        40,
+        1650,
+        170,
+        1780
+      ],
+      "medianRGB": [
+        136.0,
+        81.0,
+        68.0
+      ],
+      "hex": "#885144",
+      "RGBStd": [
+        1.05,
+        1.02,
+        0.99
+      ]
+    },
+    {
+      "image": "tN0ra1h3uKo_f0336.png",
+      "label": "night lit wall",
+      "boxXYXY": [
+        930,
+        630,
+        1030,
+        810
+      ],
+      "medianRGB": [
+        173.0,
+        189.0,
+        208.0
+      ],
+      "hex": "#adbdd0",
+      "RGBStd": [
+        11.72,
+        11.02,
+        10.47
+      ]
+    },
+    {
+      "image": "tN0ra1h3uKo_f0336.png",
+      "label": "night ceiling",
+      "boxXYXY": [
+        70,
+        40,
+        210,
+        150
+      ],
+      "medianRGB": [
+        12.0,
+        20.0,
+        29.0
+      ],
+      "hex": "#0c141d",
+      "RGBStd": [
+        0.84,
+        0.85,
+        0.84
+      ]
+    },
+    {
+      "image": "XdcSli5STR4_f0336.png",
+      "label": "upper sky",
+      "boxXYXY": [
+        100,
+        100,
+        350,
+        250
+      ],
+      "medianRGB": [
+        86.0,
+        156.0,
+        249.0
+      ],
+      "hex": "#569cf9",
+      "RGBStd": [
+        2.47,
+        2.88,
+        0.7
+      ]
+    },
+    {
+      "image": "XdcSli5STR4_f0336.png",
+      "label": "lower sky",
+      "boxXYXY": [
+        50,
+        780,
+        220,
+        900
+      ],
+      "medianRGB": [
+        124.0,
+        205.0,
+        252.0
+      ],
+      "hex": "#7ccdfc",
+      "RGBStd": [
+        1.32,
+        1.32,
+        0.6
+      ]
+    }
+  ],
+  "scans": [
+    {
+      "image": "2GGA4NlMjKc_f0240.png",
+      "label": "top head silhouette",
+      "axis": "vertical",
+      "fixedCoordinate": 600,
+      "range": [
+        380,
+        450
+      ],
+      "darkRunsStartEndWidth": [
+        [
+          400,
+          422,
+          22
+        ]
+      ]
+    },
+    {
+      "image": "2GGA4NlMjKc_f0240.png",
+      "label": "bottom head silhouette",
+      "axis": "vertical",
+      "fixedCoordinate": 500,
+      "range": [
+        1020,
+        1090
+      ],
+      "darkRunsStartEndWidth": [
+        [
+          1043,
+          1066,
+          23
+        ]
+      ]
+    },
+    {
+      "image": "2GGA4NlMjKc_f0240.png",
+      "label": "left eye outer side",
+      "axis": "horizontal",
+      "fixedCoordinate": 760,
+      "range": [
+        175,
+        235
+      ],
+      "darkRunsStartEndWidth": [
+        [
+          195,
+          204,
+          9
+        ]
+      ]
+    },
+    {
+      "image": "HOjbzw2xqEE_f0048.png",
+      "label": "top head silhouette",
+      "axis": "vertical",
+      "fixedCoordinate": 430,
+      "range": [
+        680,
+        760
+      ],
+      "darkRunsStartEndWidth": [
+        [
+          706,
+          722,
+          16
+        ]
+      ]
+    },
+    {
+      "image": "HOjbzw2xqEE_f0048.png",
+      "label": "left eye upper edge",
+      "axis": "vertical",
+      "fixedCoordinate": 310,
+      "range": [
+        800,
+        860
+      ],
+      "darkRunsStartEndWidth": [
+        [
+          828,
+          836,
+          8
+        ]
+      ]
+    },
+    {
+      "image": "XdcSli5STR4_f0336.png",
+      "label": "small head left silhouette",
+      "axis": "horizontal",
+      "fixedCoordinate": 1070,
+      "range": [
+        60,
+        110
+      ],
+      "darkRunsStartEndWidth": [
+        [
+          81,
+          87,
+          6
+        ]
+      ]
+    },
+    {
+      "image": "XdcSli5STR4_f0336.png",
+      "label": "podium left seam",
+      "axis": "horizontal",
+      "fixedCoordinate": 1350,
+      "range": [
+        500,
+        545
+      ],
+      "darkRunsStartEndWidth": []
+    }
+  ],
+  "darkThreshold": "max(R,G,B)<45; contiguous core, antialias fringe excluded"
+}

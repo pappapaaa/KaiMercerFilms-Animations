@@ -1,0 +1,228 @@
+{
+  "method": "Manual image-space bounds on native decoded frames; see per-row notes and uncertainty. Black scan uses max RGB<65. No exact rig/camera inference.",
+  "samples": [
+    {
+      "id": "2GGA4NlMjKc",
+      "frame": 240,
+      "head": [
+        133,
+        400,
+        1040,
+        1066
+      ],
+      "body": null,
+      "note": "Owner head only; body seated and frame-cropped",
+      "scan": [
+        600,
+        385,
+        450
+      ],
+      "time_seconds": 10.0,
+      "head_width_px": 907,
+      "head_height_px": 666,
+      "head_height_over_width": 0.734,
+      "head_fraction_of_frame_height": 0.347,
+      "coordinate_uncertainty_px": 8,
+      "ink_vertical_runs_y0_y1_width": [
+        [
+          400,
+          422,
+          22
+        ]
+      ]
+    },
+    {
+      "id": "tN0ra1h3uKo",
+      "frame": 12,
+      "head": [
+        223,
+        807,
+        707,
+        1150
+      ],
+      "body": [
+        34,
+        656,
+        711,
+        1682
+      ],
+      "note": "Child head includes hair perimeter; body includes winter hat and scarf",
+      "scan": null,
+      "time_seconds": 0.5,
+      "head_width_px": 484,
+      "head_height_px": 343,
+      "head_height_over_width": 0.709,
+      "head_fraction_of_frame_height": 0.179,
+      "coordinate_uncertainty_px": 8,
+      "visible_body_height_px": 1026,
+      "visible_body_in_head_heights": 2.99
+    },
+    {
+      "id": "tN0ra1h3uKo",
+      "frame": 504,
+      "head": [
+        216,
+        323,
+        925,
+        817
+      ],
+      "body": [
+        70,
+        84,
+        1047,
+        1758
+      ],
+      "note": "Elf head excludes hat and ears; body includes hat",
+      "scan": [
+        600,
+        300,
+        360
+      ],
+      "time_seconds": 21.0,
+      "head_width_px": 709,
+      "head_height_px": 494,
+      "head_height_over_width": 0.697,
+      "head_fraction_of_frame_height": 0.257,
+      "coordinate_uncertainty_px": 8,
+      "visible_body_height_px": 1674,
+      "visible_body_in_head_heights": 3.39,
+      "ink_vertical_runs_y0_y1_width": [
+        [
+          319,
+          336,
+          17
+        ]
+      ]
+    },
+    {
+      "id": "HOjbzw2xqEE",
+      "frame": 360,
+      "head": [
+        35,
+        766,
+        477,
+        1101
+      ],
+      "body": null,
+      "note": "Owner head only; desk occludes lower body",
+      "scan": [
+        250,
+        745,
+        800
+      ],
+      "time_seconds": 15.0,
+      "head_width_px": 442,
+      "head_height_px": 335,
+      "head_height_over_width": 0.758,
+      "head_fraction_of_frame_height": 0.174,
+      "coordinate_uncertainty_px": 8,
+      "ink_vertical_runs_y0_y1_width": [
+        [
+          767,
+          777,
+          10
+        ]
+      ]
+    },
+    {
+      "id": "HOjbzw2xqEE",
+      "frame": 600,
+      "head": [
+        598,
+        1170,
+        715,
+        1262
+      ],
+      "body": [
+        570,
+        1170,
+        733,
+        1384
+      ],
+      "note": "Distant character; strong overhead view changes apparent body ratio",
+      "scan": null,
+      "time_seconds": 25.0,
+      "head_width_px": 117,
+      "head_height_px": 92,
+      "head_height_over_width": 0.786,
+      "head_fraction_of_frame_height": 0.048,
+      "coordinate_uncertainty_px": 3,
+      "visible_body_height_px": 214,
+      "visible_body_in_head_heights": 2.33
+    },
+    {
+      "id": "XdcSli5STR4",
+      "frame": 312,
+      "head": [
+        80,
+        920,
+        434,
+        1178
+      ],
+      "body": [
+        76,
+        920,
+        464,
+        1630
+      ],
+      "note": "Neutral standing figure; excludes floating brow accents",
+      "scan": [
+        250,
+        905,
+        950
+      ],
+      "time_seconds": 13.0,
+      "head_width_px": 354,
+      "head_height_px": 258,
+      "head_height_over_width": 0.729,
+      "head_fraction_of_frame_height": 0.134,
+      "coordinate_uncertainty_px": 8,
+      "visible_body_height_px": 710,
+      "visible_body_in_head_heights": 2.75,
+      "ink_vertical_runs_y0_y1_width": [
+        [
+          923,
+          929,
+          6
+        ]
+      ]
+    },
+    {
+      "id": "XdcSli5STR4",
+      "frame": 408,
+      "head": [
+        108,
+        932,
+        448,
+        1183
+      ],
+      "body": [
+        80,
+        932,
+        566,
+        1641
+      ],
+      "note": "Standing figure with bent arms; excludes floating brow accents",
+      "scan": [
+        250,
+        912,
+        955
+      ],
+      "time_seconds": 17.0,
+      "head_width_px": 340,
+      "head_height_px": 251,
+      "head_height_over_width": 0.738,
+      "head_fraction_of_frame_height": 0.131,
+      "coordinate_uncertainty_px": 8,
+      "visible_body_height_px": 709,
+      "visible_body_in_head_heights": 2.82,
+      "ink_vertical_runs_y0_y1_width": [
+        [
+          937,
+          943,
+          6
+        ]
+      ]
+    }
+  ]
+}

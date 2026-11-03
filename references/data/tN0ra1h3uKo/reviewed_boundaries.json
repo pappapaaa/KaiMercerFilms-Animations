@@ -1,0 +1,274 @@
+{
+  "video_id": "tN0ra1h3uKo",
+  "reviewer": "reference_motion visual review",
+  "reviewed_utc": "2026-11-03",
+  "scope": "Every labeled contact cell in the dense sheets below was visually inspected. This is reduced-resolution pose/edit review, not per-pixel inspection of every native source frame.",
+  "source_frames_reviewed": {
+    "first": 0,
+    "last_inclusive": 977,
+    "count": 978
+  },
+  "dense_sheets_reviewed": [
+    {
+      "path": "references/sheets/tN0ra1h3uKo/dense_0000.jpg",
+      "first_frame": 0,
+      "last_frame_inclusive": 59
+    },
+    {
+      "path": "references/sheets/tN0ra1h3uKo/dense_0001.jpg",
+      "first_frame": 60,
+      "last_frame_inclusive": 119
+    },
+    {
+      "path": "references/sheets/tN0ra1h3uKo/dense_0002.jpg",
+      "first_frame": 120,
+      "last_frame_inclusive": 179
+    },
+    {
+      "path": "references/sheets/tN0ra1h3uKo/dense_0003.jpg",
+      "first_frame": 180,
+      "last_frame_inclusive": 239
+    },
+    {
+      "path": "references/sheets/tN0ra1h3uKo/dense_0004.jpg",
+      "first_frame": 240,
+      "last_frame_inclusive": 299
+    },
+    {
+      "path": "references/sheets/tN0ra1h3uKo/dense_0005.jpg",
+      "first_frame": 300,
+      "last_frame_inclusive": 359
+    },
+    {
+      "path": "references/sheets/tN0ra1h3uKo/dense_0006.jpg",
+      "first_frame": 360,
+      "last_frame_inclusive": 419
+    },
+    {
+      "path": "references/sheets/tN0ra1h3uKo/dense_0007.jpg",
+      "first_frame": 420,
+      "last_frame_inclusive": 479
+    },
+    {
+      "path": "references/sheets/tN0ra1h3uKo/dense_0008.jpg",
+      "first_frame": 480,
+      "last_frame_inclusive": 539
+    },
+    {
+      "path": "references/sheets/tN0ra1h3uKo/dense_0009.jpg",
+      "first_frame": 540,
+      "last_frame_inclusive": 599
+    },
+    {
+      "path": "references/sheets/tN0ra1h3uKo/dense_0010.jpg",
+      "first_frame": 600,
+      "last_frame_inclusive": 659
+    },
+    {
+      "path": "references/sheets/tN0ra1h3uKo/dense_0011.jpg",
+      "first_frame": 660,
+      "last_frame_inclusive": 719
+    },
+    {
+      "path": "references/sheets/tN0ra1h3uKo/dense_0012.jpg",
+      "first_frame": 720,
+      "last_frame_inclusive": 779
+    },
+    {
+      "path": "references/sheets/tN0ra1h3uKo/dense_0013.jpg",
+      "first_frame": 780,
+      "last_frame_inclusive": 839
+    },
+    {
+      "path": "references/sheets/tN0ra1h3uKo/dense_0014.jpg",
+      "first_frame": 840,
+      "last_frame_inclusive": 899
+    },
+    {
+      "path": "references/sheets/tN0ra1h3uKo/dense_0015.jpg",
+      "first_frame": 900,
+      "last_frame_inclusive": 959
+    },
+    {
+      "path": "references/sheets/tN0ra1h3uKo/dense_0016.jpg",
+      "first_frame": 960,
+      "last_frame_inclusive": 977
+    }
+  ],
+  "sampled_overview_reviewed": [
+    "references/sheets/tN0ra1h3uKo/overview_00.jpg"
+  ],
+  "native_pngs_inspected_for_this_report": [
+    "references/frames/tN0ra1h3uKo/native/f000288.png"
+  ],
+  "frame_convention": "Zero-based source-frame index. Times are read from frames.csv; approximate mental conversion is frame / 24.",
+  "candidate_classifications": [
+    {
+      "frame": 78,
+      "classification": "hard_cut",
+      "confidence": "visual_high",
+      "note": "Mailbox medium-wide to high-angle snowy street, with large soft foreground figure.",
+      "source_pts_seconds": 3.25
+    },
+    {
+      "frame": 258,
+      "classification": "action_pose_change",
+      "confidence": "visual_high",
+      "note": "Gloved hand enters/reaches over tool tray; tray continues.",
+      "source_pts_seconds": 10.75
+    },
+    {
+      "frame": 260,
+      "classification": "action_pose_change",
+      "confidence": "visual_high",
+      "note": "Next large gloved-hand pose over same tray.",
+      "source_pts_seconds": 10.833
+    },
+    {
+      "frame": 277,
+      "classification": "hard_cut",
+      "confidence": "visual_high",
+      "note": "Tray insert to Santa foreground and restrained fairy in background.",
+      "source_pts_seconds": 11.542
+    },
+    {
+      "frame": 288,
+      "classification": "action_pose_change",
+      "confidence": "visual_high",
+      "note": "Santa turns and shifts to reveal background fairy. Wall/lamp/table geography persists; native f288 and preceding reduced f287 inspected.",
+      "source_pts_seconds": 12.0
+    },
+    {
+      "frame": 335,
+      "classification": "hard_cut",
+      "confidence": "visual_high",
+      "note": "New closer angle on fairy under lamp.",
+      "source_pts_seconds": 13.958
+    },
+    {
+      "frame": 474,
+      "classification": "action_pose_change",
+      "confidence": "visual_high",
+      "note": "Fairy changes to shocked open-mouth pose in the same composition.",
+      "source_pts_seconds": 19.75
+    },
+    {
+      "frame": 499,
+      "classification": "hard_cut",
+      "confidence": "visual_high",
+      "note": "Elf foreground with Santa behind.",
+      "source_pts_seconds": 20.792
+    },
+    {
+      "frame": 509,
+      "classification": "action_pose_change",
+      "confidence": "visual_high",
+      "note": "Elf stands, then exits left; background and Santa continue.",
+      "source_pts_seconds": 21.209
+    },
+    {
+      "frame": 604,
+      "classification": "hard_cut",
+      "confidence": "visual_high",
+      "note": "Cut to closer fairy reaction at table.",
+      "source_pts_seconds": 25.167
+    },
+    {
+      "frame": 713,
+      "classification": "action_pose_change",
+      "confidence": "visual_high",
+      "note": "Gloved hand arrives on head.",
+      "source_pts_seconds": 29.709
+    },
+    {
+      "frame": 714,
+      "classification": "action_pose_change",
+      "confidence": "visual_high",
+      "note": "Head is forced downward; single-frame action deformation before next shot.",
+      "source_pts_seconds": 29.75
+    },
+    {
+      "frame": 715,
+      "classification": "hard_cut",
+      "confidence": "visual_high",
+      "note": "Reverse angle on elf holding the back of fairy's head.",
+      "source_pts_seconds": 29.792
+    },
+    {
+      "frame": 730,
+      "classification": "hard_cut",
+      "confidence": "visual_high",
+      "note": "Extreme close-up of Santa, finger at mouth.",
+      "source_pts_seconds": 30.417
+    },
+    {
+      "frame": 754,
+      "classification": "action_pose_change",
+      "confidence": "visual_high",
+      "note": "Santa finger/eye pose changes within same close-up.",
+      "source_pts_seconds": 31.417
+    },
+    {
+      "frame": 793,
+      "classification": "hard_cut",
+      "confidence": "visual_high",
+      "note": "Side close-up of fairy and restraining hand.",
+      "source_pts_seconds": 33.042
+    },
+    {
+      "frame": 801,
+      "classification": "action_pose_change",
+      "confidence": "visual_high",
+      "note": "Head/hair shifts while same grip and background persist.",
+      "source_pts_seconds": 33.375
+    },
+    {
+      "frame": 803,
+      "classification": "action_pose_change",
+      "confidence": "visual_high",
+      "note": "Face revealed in startled tilted pose; same setup.",
+      "source_pts_seconds": 33.459
+    },
+    {
+      "frame": 805,
+      "classification": "action_pose_change",
+      "confidence": "visual_high",
+      "note": "Next expression/hand state within same setup.",
+      "source_pts_seconds": 33.542
+    },
+    {
+      "frame": 862,
+      "classification": "hard_cut",
+      "confidence": "visual_high",
+      "note": "Warm bright Christmas room and child with present; location and palette change.",
+      "source_pts_seconds": 35.917
+    }
+  ],
+  "additional_reviewed_events": [
+    {
+      "start_frame": 160,
+      "end_frame_inclusive": 185,
+      "classification": "dissolve",
+      "boundary_precision": "approximate from dense-cell review",
+      "note": "Snowy street blends into tool-tray insert over roughly one second. Not proposed by abrupt-change heuristic."
+    },
+    {
+      "start_frame": 186,
+      "end_frame_inclusive": 257,
+      "classification": "apparent_vertical_pan",
+      "boundary_precision": "approximate observation window",
+      "note": "Tool-tray content moves vertically while framing reveals tools. Could be a composited plate move; do not infer physical camera."
+    },
+    {
+      "start_frame": 420,
+      "end_frame_inclusive": 455,
+      "classification": "intentional_reaction_hold",
+      "note": "36-frame near-static grin under lamp. Exposure approximately 1.5s at 24fps; first-to-last PTS interval is 1.458s."
+    }
+  ],
+  "limitations": [
+    "Sharpness, line width, or small mouth details require native inspection; dense cells are 126 pixels wide.",
+    "Camera/composite move describes apparent image motion; exact authoring software, lens, and physical scene cannot be recovered from these frames.",
+    "Review classifications do not alter raw cut_candidates.json, whose heuristic confidence describes image discontinuity only."
+  ]
+}

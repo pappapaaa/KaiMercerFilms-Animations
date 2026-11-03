@@ -1,0 +1,11 @@
+{
+  "study_date": "2026-11-02",
+  "source": "Four video links explicitly supplied by the user",
+  "upstream_code": {"url":"https://github.com/mromidev/claude-animated-shorts", "commit":"e3b817b6afc6cd413466d43f11ba31209e034bbf"},
+  "videos": [
+    {"id":"2GGA4NlMjKc","url":"https://www.youtube.com/shorts/2GGA4NlMjKc","title":"The End of TikTok"},
+    {"id":"tN0ra1h3uKo","url":"https://www.youtube.com/shorts/tN0ra1h3uKo","title":"All I Want for Christmas is my Two Front Teeth"},
+    {"id":"HOjbzw2xqEE","url":"https://www.youtube.com/shorts/HOjbzw2xqEE","title":"Refrenced"},
+    {"id":"XdcSli5STR4","url":"https://www.youtube.com/shorts/XdcSli5STR4","title":"Odd1sOut Shorts Shotgun // All Dogs Go To Heaven? #shorts"}
+  ]
+}

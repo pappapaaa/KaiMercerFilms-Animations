@@ -1,0 +1,4 @@
+{
+  "fps":24,"frames":288,"sampleRate":48000,
+  "cues":[{"frame":48,"type":"tap","gain":0.15},{"frame":132,"type":"pop","gain":0.12},{"frame":207,"type":"tap","gain":0.10}]
+}

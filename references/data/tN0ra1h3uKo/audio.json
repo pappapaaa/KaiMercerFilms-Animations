@@ -1,0 +1,10 @@
+{
+  "id": "tN0ra1h3uKo",
+  "duration": 40.7735,
+  "integrated_LUFS": -21.63,
+  "true_peak_dBTP": -0.48,
+  "LRA_LU": 6.9,
+  "mixed_track_quiet_fraction_below_minus40dB": 0.05690458670591121,
+  "rms_window_seconds": 0.01,
+  "limitation": "These measure the complete mixed track. Voice/music/SFX gains cannot be separately recovered from this measurement."
+}
